@@ -1,0 +1,52 @@
+# Coarticulation: /θ/ + /ʃ/
+
+## Sound Combination
+
+**First sound:** /θ/ — voiceless dental fricative
+**Second sound:** /ʃ/ — voiceless postalveolar fricative
+
+---
+
+## Practice Exercises
+
+### Example 1
+**Phrase:** bath show
+**IPA:** `//bæθ ʃoʊ///`
+
+**Notes:** Practice the transition across word boundaryFocus on the transition from voiceless dental fricative to voiceless postalveolar fricative.
+
+---
+
+### Example 2
+**Phrase:** with ship
+**IPA:** `//wɪθ ʃɪp///`
+
+**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
+
+---
+
+### Example 3
+**Phrase:** both sure
+**IPA:** `//boʊθ ʃʊɹ///`
+
+**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+
+---
+
+## Articulation Tips
+
+- **Starting position:** voiceless dental fricative
+- **Target position:** voiceless postalveolar fricative
+- **Key transition:** Move smoothly from the final position of /θ/ to the initial position of /ʃ/. Anticipate the second sound while completing the first.
+
+## Common Contexts
+
+This sound combination appears in:
+- [ ] Word-internal position
+- [ ] Across word boundaries
+- [ ] Common phrases
+- [ ] Less common/careful speech only
+
+---
+
+[← Back to all combinations](README.md)

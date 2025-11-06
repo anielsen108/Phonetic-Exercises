@@ -4,17 +4,30 @@ This repository contains comprehensive phonetic exercises for mastering American
 
 ## Contents
 
-### Coarticulation Exercises
+### Individual Coarticulation Exercise Pages
 
-The `coarticulation-exercises/` directory contains detailed practice materials for consonant coarticulation. Each page focuses on one consonant sound or consonant cluster and provides exercises for coarticulating it with every other consonant sound or cluster in the language.
+The `exercises/` directory contains **14,280 individual exercise pages** - one for each possible consonant-to-consonant coarticulation in American English.
 
-**Features:**
-- 120+ exercise pages covering all consonants and common clusters
-- Real-world example phrases showing both within-word and across-word-boundary coarticulation
-- IPA transcriptions with detailed coarticulation markings
-- Organized by sound type (stops, fricatives, affricates, nasals, liquids, approximants)
+**Structure:**
+- Each page focuses on ONE specific sound transition (e.g., /nst/ → /ð/)
+- Multiple example phrases per combination
+- Detailed IPA transcriptions showing coarticulation features
+- Articulatory guidance and practice notes
+- Examples from both within-word and across-word-boundary contexts
 
-[View Coarticulation Exercises →](coarticulation-exercises/README.md)
+**Coverage:**
+- 24 single consonants (stops, fricatives, affricates, nasals, liquids, approximants)
+- 96 two-consonant clusters (initial and final positions)
+- 30 three-consonant clusters
+- **Total: 14,280 unique sound combinations**
+
+[Browse All Combinations →](exercises/README.md)
+
+### Organized Summary Pages
+
+The `coarticulation-exercises/` directory provides summary pages organized by starting sound, offering a quick overview of all combinations for each consonant/cluster.
+
+[View Summary Pages →](coarticulation-exercises/README.md)
 
 ## Target Audience
 
@@ -44,11 +57,14 @@ These exercises focus on **General American** (GenAm) or **Neutral Broadcast Eng
 
 ## Contributing
 
-To add more examples or exercises:
+To add more examples or improve exercises:
 
 1. Add example phrases to `coarticulation_examples.py`
-2. Run `python3 generate_coarticulation_exercises.py` to regenerate pages
-3. Submit a pull request
+2. Run `python3 generate_combination_pages.py` to regenerate shell pages
+3. Run `python3 fill_combination_pages.py` to fill pages with examples
+4. Submit a pull request
+
+You can also manually edit individual pages in the `exercises/` directory to add better examples for specific sound combinations.
 
 ## License
 

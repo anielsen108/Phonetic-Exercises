@@ -1,0 +1,52 @@
+# Coarticulation: /rn/ + /m/
+
+## Sound Combination
+
+**First sound:** /rn/ — approximant + alveolar nasal
+**Second sound:** /m/ — bilabial nasal
+
+---
+
+## Practice Exercises
+
+### Example 1
+**Phrase:** in my
+**IPA:** `//ɪn maɪ///`
+
+**Notes:** Practice the transition across word boundaryFocus on the transition from approximant + alveolar nasal to bilabial nasal.
+
+---
+
+### Example 2
+**Phrase:** when more
+**IPA:** `//wɛn moɹ///`
+
+**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
+
+---
+
+### Example 3
+**Phrase:** can make
+**IPA:** `//kʰæn meɪk///`
+
+**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+
+---
+
+## Articulation Tips
+
+- **Starting position:** approximant + alveolar nasal
+- **Target position:** bilabial nasal
+- **Key transition:** Move smoothly from the final position of /rn/ to the initial position of /m/. Anticipate the second sound while completing the first.
+
+## Common Contexts
+
+This sound combination appears in:
+- [ ] Word-internal position
+- [ ] Across word boundaries
+- [ ] Common phrases
+- [ ] Less common/careful speech only
+
+---
+
+[← Back to all combinations](README.md)
