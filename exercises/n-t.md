@@ -1,44 +1,100 @@
-# Coarticulation: /n/ + /t/
+# Coarticulation Study: /n/ + /t/
 
-## Sound Combination
+### Sequence: alveolar nasal → voiceless alveolar stop
 
-**First sound:** /n/ — alveolar nasal
-**Second sound:** /t/ — voiceless alveolar stop
+### Example Phrase: **want**
 
----
-
-## Practice Exercises
-
-### Example 1
-**Phrase:** want
 **IPA:** `/wɑnt/`
-
-**Notes:** Homorganic alveolar nasal-stop
-
----
-
-### Example 2
-**Phrase:** can take
-**IPA:** `/kʰæn tʰeɪk/`
-
-**Notes:** Nasal → oral same place
+**Allophonic detail:** `[wɑnt[`
 
 ---
 
-## Articulation Tips
+## 1. Segmental Foundations
 
-- **Starting position:** alveolar nasal
-- **Target position:** voiceless alveolar stop
-- **Key transition:** Nasal → oral same place
+| Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |
+|----------|---------|--------|----------|-----------|-----------|-----------|
+| First | /n/ | alveolar | nasal | voiced | nasal | continuous resonant |
+| Second | /t/ | alveolar | stop (plosive) | voiceless | oral | short, often unreleased word-finally |
 
-## Coarticulation Effects
-
-This combination shows:
-- Place of articulation adjustments
-- Voicing assimilation/anticipation
-- Manner of articulation transitions
-- Release/unreleased characteristics
+* **/n/**: Homorganic alveolar nasal-stop
+* **/t/**: Voiceless alveolar stop articulation follows with typical place and manner characteristics.
 
 ---
 
-[← Back to all combinations](README.md)
+## 2. Coarticulatory Mechanisms
+
+1. **Voicing Transition:**
+   The glottis shifts from voiced to voiceless. This transition may show partial devoicing or voicing anticipation depending on speech rate.
+
+2. **Nasal Coarticulation:**
+   Velum movement coordinates with oral articulation. Nasal airflow may extend into or anticipate the adjacent segment.
+
+3. **Specific Adaptation:**
+   Homorganic alveolar nasal-stop
+
+---
+
+## 3. Acoustic & Perceptual Signature
+
+| Feature                 | Acoustic Manifestation                      | Perceptual Effect               |
+| ----------------------- | ------------------------------------------- | ------------------------------- |
+| Nasal formants          | Low F1 (~250 Hz), distinct nasal pole       | Nasal resonance quality         |
+| Formant transitions     | F2/F3 movement into /t/                     | Place identification cue        |
+
+---
+
+## 4. Articulatory Practice
+
+### 4.1 Slow-Motion Drill
+
+1. Say **"want"** slowly, establishing full /n/ articulation.
+2. Say **"t"** starting with an isolated /t/.
+3. Merge: *want* — maintain voicing continuity, minimize release between segments.
+4. Record and compare:
+
+   * Over-released: Excessive separation between sounds
+   * Balanced: Natural liaison as transcribed `/wɑnt/`
+   * Under-articulated: Loss of primary articulatory cues
+
+### 4.2 Gestural Continuity Exercise
+
+* Focus awareness on active articulators for both /n/ and /t/.
+* Alternate "n-t-n-t" while maintaining voicing where applicable.
+* Notice the articulatory transition: where does one gesture end and the next begin?
+* Perform slowly, then gradually increase speed while preserving clarity.
+* The movement should feel **fluid** and **economical**, not **segmented**.
+
+---
+
+## 5. Broader Coarticulatory Insights
+
+| Type                           | Manifestation                         | Similar Pairs       |
+| ------------------------------ | ------------------------------------- | ------------------- |
+| **Place shift                 ** | alveolar → alveolar                   | /n t/, similar front-back transitions |
+| **Voicing pattern             ** | voiced to voiceless                   | Common in /n t/ sequences |
+| **Manner transition           ** | nasal → stop                          | Affects timing and release |
+
+
+Understanding this combination helps refine articulation for all homorganic sequences involving nasal and stop (plosive) manners.
+
+---
+
+## 6. Summary Points
+
+* /n/ + /t/ is a **mixed-voicing, homorganic sequence** showing distinctive coarticulatory patterns.
+* The transition exhibits **voicing transition**.
+* Perceptually, listeners rely on **formant transitions and temporal cues** to identify both segments.
+* Mastery involves **smooth articulatory flow** while maintaining segment identity.
+
+---
+
+### Practice Sentence Variants
+
+| Phrase | IPA | Note |
+| ---------- | ----------------- | -------------------------------------- |
+| want       | `/wɑnt/         ` | Homorganic alveolar nasal-stop         |
+| can take   | `/kʰæn tʰeɪk/   ` | Nasal → oral same place                |
+
+---
+
+*Part of a curated collection of coarticulation studies for American English.*

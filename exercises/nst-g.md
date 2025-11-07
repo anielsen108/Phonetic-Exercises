@@ -1,44 +1,108 @@
-# Coarticulation: /nst/ + /g/
+# Coarticulation Study: /nst/ + /g/
 
-## Sound Combination
+### Sequence: nasal + fricative + stop cluster → voiced velar stop
 
-**First sound:** /nst/ — alveolar nasal + voiceless alveolar fricative + voiceless alveolar stop
-**Second sound:** /g/ — voiced velar stop
+### Example Phrase: **against great odds**
 
----
-
-## Practice Exercises
-
-### Example 1
-**Phrase:** against great odds
 **IPA:** `/əˈɡɛnst̚ ˈɡɹeɪt ˈɑdz/`
-
-**Notes:** Voiceless /t/ to voiced /g/: /g/ may be partially devoiced
-
----
-
-### Example 2
-**Phrase:** against going
-**IPA:** `/əˈɡɛnst̚ ˈɡoʊ̯ɪŋ/`
-
-**Notes:** Velar voicing begins during closure
+**Allophonic detail:** `[əˈɡɛnst̚ ˈɡɹeɪt ˈɑdz[`
 
 ---
 
-## Articulation Tips
+## 1. Segmental Foundations
 
-- **Starting position:** alveolar nasal + voiceless alveolar fricative + voiceless alveolar stop
-- **Target position:** voiced velar stop
-- **Key transition:** Velar voicing begins during closure
+| Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |
+|----------|---------|--------|----------|-----------|-----------|-----------|
+| First | /nst/ | nasal-alveolar-alveolar | nasal + fricative + stop | voiced then voiceless | nasal then oral | complex cluster |
+| Second | /g/ | velar | stop (plosive) | voiced | oral | short, often reduced finally |
 
-## Coarticulation Effects
-
-This combination shows:
-- Place of articulation adjustments
-- Voicing assimilation/anticipation
-- Manner of articulation transitions
-- Release/unreleased characteristics
+* **/nst/**: Voiceless /t/ to voiced /g/: /g/ may be partially devoiced
+* **/g/**: Voiced velar stop articulation follows with typical place and manner characteristics.
 
 ---
 
-[← Back to all combinations](README.md)
+## 2. Coarticulatory Mechanisms
+
+1. **Anticipatory Place Shift:**
+   The tongue/lips begin moving toward the velar target before the /nst/ gesture completes. This creates overlap between nasal-alveolar-alveolar and velar articulations.
+
+2. **Voicing Transition:**
+   The glottis shifts from voiced then voiceless to voiced. This transition may show partial devoicing or voicing anticipation depending on speech rate.
+
+3. **Stop Release Overlap:**
+   The /nst/ is typically unreleased ([nst̚]), with air pressure maintained until the /g/ closure forms. The release burst belongs to /g/.
+
+4. **Fricative-to-Stop Transition:**
+   The continuous airflow of /nst/ terminates as the /g/ closure forms. Listeners perceive a sharp acoustic boundary.
+
+5. **Specific Adaptation:**
+   Voiceless /t/ to voiced /g/: /g/ may be partially devoiced
+
+---
+
+## 3. Acoustic & Perceptual Signature
+
+| Feature                 | Acoustic Manifestation                      | Perceptual Effect               |
+| ----------------------- | ------------------------------------------- | ------------------------------- |
+| Aspiration/noise        | High-frequency energy from /nst/            | Clear fricative or burst cue    |
+| Closure gap             | Silent interval (20-80 ms)                  | Perceived stop identity         |
+| Burst/release           | Brief high-amplitude transient              | Place-of-articulation cue       |
+| Formant transitions     | F2/F3 movement into /g/                     | Place identification cue        |
+
+---
+
+## 4. Articulatory Practice
+
+### 4.1 Slow-Motion Drill
+
+1. Say **"against"** slowly, establishing full /nst/ articulation.
+2. Say **"great odds"** starting with an isolated /g/.
+3. Merge: *against great odds* — maintain voicing continuity, minimize release between segments.
+4. Record and compare:
+
+   * Over-released: Excessive separation between sounds
+   * Balanced: Natural liaison as transcribed `/əˈɡɛnst̚ ˈɡɹeɪt ˈɑdz/`
+   * Under-articulated: Loss of primary articulatory cues
+
+### 4.2 Gestural Continuity Exercise
+
+* Focus awareness on active articulators for both /nst/ and /g/.
+* Alternate "nst-g-nst-g" while maintaining voicing where applicable.
+* Notice the articulatory transition: where does one gesture end and the next begin?
+* Perform slowly, then gradually increase speed while preserving clarity.
+* The movement should feel **fluid** and **economical**, not **segmented**.
+
+---
+
+## 5. Broader Coarticulatory Insights
+
+| Type                           | Manifestation                         | Similar Pairs       |
+| ------------------------------ | ------------------------------------- | ------------------- |
+| **Place shift                 ** | nasal-alveolar-alveolar → velar       | /nst g/, similar front-back transitions |
+| **Voicing pattern             ** | voiced then voiceless to voiced       | Common in /nst g/ sequences |
+| **Manner transition           ** | nasal → stop                          | Affects timing and release |
+
+
+Understanding this combination helps refine articulation for all cross-place sequences involving nasal + fricative + stop and stop (plosive) manners.
+
+---
+
+## 6. Summary Points
+
+* /nst/ + /g/ is a **mixed-voicing, cross-place sequence** showing distinctive coarticulatory patterns.
+* The transition exhibits **anticipatory place shift**.
+* Perceptually, listeners rely on **formant transitions and temporal cues** to identify both segments.
+* Mastery involves **smooth articulatory flow** while maintaining segment identity.
+
+---
+
+### Practice Sentence Variants
+
+| Phrase | IPA | Note |
+| ---------- | ----------------- | -------------------------------------- |
+| against great odds | `/əˈɡɛnst̚ ˈɡɹeɪt ˈɑdz/` | Voiceless /t/ to voiced /g/: /g/ may be partially ... |
+| against going | `/əˈɡɛnst̚ ˈɡoʊ̯ɪŋ/` | Velar voicing begins during closure    |
+
+---
+
+*Part of a curated collection of coarticulation studies for American English.*

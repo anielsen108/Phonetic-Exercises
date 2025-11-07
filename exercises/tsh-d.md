@@ -1,36 +1,99 @@
-# Coarticulation: /tʃ/ + /d/
+# Coarticulation Study: /tʃ/ + /d/
 
-## Sound Combination
+### Sequence: voiceless postalveolar affricate → voiced alveolar stop
 
-**First sound:** /tʃ/ — voiceless postalveolar affricate
-**Second sound:** /d/ — voiced alveolar stop
+### Example Phrase: **which day**
 
----
-
-## Practice Exercises
-
-### Example 1
-**Phrase:** which day
 **IPA:** `/wɪtʃ deɪ/`
-
-**Notes:** Voiceless affricate → voiced stop
-
----
-
-## Articulation Tips
-
-- **Starting position:** voiceless postalveolar affricate
-- **Target position:** voiced alveolar stop
-- **Key transition:** Voiceless affricate → voiced stop
-
-## Coarticulation Effects
-
-This combination shows:
-- Place of articulation adjustments
-- Voicing assimilation/anticipation
-- Manner of articulation transitions
-- Release/unreleased characteristics
+**Allophonic detail:** `[wɪtʃ deɪ[`
 
 ---
 
-[← Back to all combinations](README.md)
+## 1. Segmental Foundations
+
+| Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |
+|----------|---------|--------|----------|-----------|-----------|-----------|
+| First | /tʃ/ | postalveolar | affricate | voiceless | oral | stop + fricative sequence |
+| Second | /d/ | alveolar | stop (plosive) | voiced | oral | variable, flapped intervocalically |
+
+* **/tʃ/**: Voiceless affricate → voiced stop
+* **/d/**: Voiced alveolar stop articulation follows with typical place and manner characteristics.
+
+---
+
+## 2. Coarticulatory Mechanisms
+
+1. **Anticipatory Place Shift:**
+   The tongue/lips begin moving toward the alveolar target before the /tʃ/ gesture completes. This creates overlap between postalveolar and alveolar articulations.
+
+2. **Voicing Transition:**
+   The glottis shifts from voiceless to voiced. This transition may show partial devoicing or voicing anticipation depending on speech rate.
+
+3. **Specific Adaptation:**
+   Voiceless affricate → voiced stop
+
+---
+
+## 3. Acoustic & Perceptual Signature
+
+| Feature                 | Acoustic Manifestation                      | Perceptual Effect               |
+| ----------------------- | ------------------------------------------- | ------------------------------- |
+| Aspiration/noise        | High-frequency energy from /tʃ/             | Clear fricative or burst cue    |
+| Formant transitions     | F2/F3 movement into /d/                     | Place identification cue        |
+
+---
+
+## 4. Articulatory Practice
+
+### 4.1 Slow-Motion Drill
+
+1. Say **"which"** slowly, establishing full /tʃ/ articulation.
+2. Say **"day"** starting with an isolated /d/.
+3. Merge: *which day* — maintain voicing continuity, minimize release between segments.
+4. Record and compare:
+
+   * Over-released: Excessive separation between sounds
+   * Balanced: Natural liaison as transcribed `/wɪtʃ deɪ/`
+   * Under-articulated: Loss of primary articulatory cues
+
+### 4.2 Gestural Continuity Exercise
+
+* Focus awareness on active articulators for both /tʃ/ and /d/.
+* Alternate "tʃ-d-tʃ-d" while maintaining voicing where applicable.
+* Notice the articulatory transition: where does one gesture end and the next begin?
+* Perform slowly, then gradually increase speed while preserving clarity.
+* The movement should feel **fluid** and **economical**, not **segmented**.
+
+---
+
+## 5. Broader Coarticulatory Insights
+
+| Type                           | Manifestation                         | Similar Pairs       |
+| ------------------------------ | ------------------------------------- | ------------------- |
+| **Place shift                 ** | postalveolar → alveolar               | /tʃ d/, similar front-back transitions |
+| **Voicing pattern             ** | voiceless to voiced                   | Common in /tʃ d/ sequences |
+| **Manner transition           ** | affricate → stop                      | Affects timing and release |
+
+
+Understanding this combination helps refine articulation for all cross-place sequences involving affricate and stop (plosive) manners.
+
+---
+
+## 6. Summary Points
+
+* /tʃ/ + /d/ is a **mixed-voicing, cross-place sequence** showing distinctive coarticulatory patterns.
+* The transition exhibits **anticipatory place shift**.
+* Perceptually, listeners rely on **formant transitions and temporal cues** to identify both segments.
+* Mastery involves **smooth articulatory flow** while maintaining segment identity.
+
+---
+
+### Practice Sentence Variants
+
+| Phrase | IPA | Note |
+| ---------- | ----------------- | -------------------------------------- |
+| which day  | `/wɪtʃ deɪ/     ` | Voiceless affricate → voiced stop      |
+
+---
+
+*Part of a curated collection of coarticulation studies for American English.*
