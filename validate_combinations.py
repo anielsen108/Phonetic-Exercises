@@ -301,20 +301,24 @@ def validate_and_update_or_delete(filepath: str, sound1: str, sound2: str) -> bo
     Validate a combination file. Update with proper examples or delete.
     Returns True if file kept, False if deleted.
     """
-    # Check if phonotactically possible
-    if not is_phonotactically_possible(sound1, sound2):
-        os.remove(filepath)
-        return False
+    # Import curated database
+    try:
+        from curated_combinations import get_curated_combinations
+        CURATED = get_curated_combinations()
+    except ImportError:
+        CURATED = {}
 
-    # Check if we have validated examples
+    # Merge with base valid combinations
+    all_valid = {**VALID_COMBINATIONS, **CURATED}
+
+    # Check if we have a validated example
     key = (sound1, sound2)
-    if key in VALID_COMBINATIONS:
+    if key in all_valid:
         # Update file with proper detailed examples
-        update_file_with_examples(filepath, sound1, sound2, VALID_COMBINATIONS[key])
+        update_file_with_examples(filepath, sound1, sound2, all_valid[key])
         return True
     else:
-        # For now, delete if we don't have a validated example
-        # TODO: Could try to generate/find one
+        # Delete - not in curated database
         os.remove(filepath)
         return False
 
