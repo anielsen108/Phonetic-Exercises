@@ -9,6 +9,42 @@
 
 ---
 
+## Introductory Drill
+
+Say **"breathe more"** slowly and notice how **/ð/** prepares for **/m/**. You'll feel the articulators shifting from dental to bilabial position, creating a smooth transition between the two sounds.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "breathe | more," then blend: "breathe‑more."
+* Freeze on the **/ð/**: establish clear tongue tip touches upper teeth, then feel the shift toward **/m/** (lips close, velum lowers).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/bɹið mɔɹ/`
+* Narrow (coarticulation shown): `[bɹið mɔɹ[`
+
+  * **Coarticulation** = articulators prepare for **[m]** during **[ð]**
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/m/** early, so **/ð/** begins shifting toward the bilabial target.
+* **Place assimilation:** the dental articulation moves toward bilabial, creating a smooth transition.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Record yourself saying "breathe more" at three speeds: slow, medium, fast. Listen for how the **/ð/-/m/** transition becomes smoother and more overlapped at faster tempos.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/ð/** and **/m/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

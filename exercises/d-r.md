@@ -9,6 +9,43 @@
 
 ---
 
+## Introductory Drill
+
+Say **"had reason"** slowly and notice how **/d/** prepares for **/r/**. You'll feel the articulators shifting from alveolar to postalveolar position, creating a smooth transition between the two sounds.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "had | reason," then blend: "had‑reason."
+* Freeze on the **/d/**: establish clear tongue tip contacts alveolar ridge, then feel the shift toward **/r/** (tongue bunches or curls).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/hæd̚ ˈɹizən/`
+* Narrow (coarticulation shown): `[hæd̚̚ ˈɹizən[`
+
+  * **[d̚]** = unreleased stop before word boundary or next consonant
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/r/** early, so **/d/** begins shifting toward the postalveolar target.
+* **Place assimilation:** the alveolar articulation moves toward postalveolar, creating a smooth transition.
+* **Release economy:** **/d/** may go unreleased **[d̚]**, with articulators moving directly to **/r/** position.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Record yourself saying "had reason" at three speeds: slow, medium, fast. Listen for how the **/d/-/r/** transition becomes smoother and more overlapped at faster tempos.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/d/** and **/r/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

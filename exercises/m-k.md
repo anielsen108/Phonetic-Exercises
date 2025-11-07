@@ -9,6 +9,43 @@
 
 ---
 
+## Introductory Drill
+
+Say **"time came"** slowly and feel how **/m/** begins shifting toward **/k/**. The tongue back starts rising toward the velum (soft palate) while the **/m/** articulation is still completing, creating anticipatory coarticulation.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "time | came," then blend: "time‑came."
+* Freeze on the **/m/**: establish clear lips close, velum lowers, then feel the shift toward **/k/** (tongue back contacts soft palate).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/tʰaɪm kʰeɪm/`
+* Narrow (coarticulation shown): `[tʰaɪm kʰeɪm[`
+
+  * **Voicing transition** = glottis shifts from voiced to voiceless
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/k/** early, so **/m/** begins shifting toward the velar target.
+* **Place assimilation:** the bilabial articulation moves toward velar, creating a smooth transition.
+* **Voicing adjustment:** the shift from voiced to voiceless may show partial devoicing or voicing anticipation.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Hum gently while saying "time came" to track voicing. Notice where your vocal folds stop/start vibrating as you move from **/m/** to **/k/**.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/m/** and **/k/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

@@ -9,6 +9,45 @@
 
 ---
 
+## Introductory Drill
+
+Say **"bad plan"** slowly and notice how **/d/** prepares for **/p/**. Your lips begin rounding or closing even while the tongue is still positioned for **/d/**, creating a smooth articulatory overlap.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "bad | plan," then blend: "bad‑plan."
+* Freeze on the **/d/**: establish clear tongue tip contacts alveolar ridge, then feel the shift toward **/p/** (lips close).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/bæd̥̚ pʰlæn/`
+* Narrow (coarticulation shown): `[bæd̥̚̚ pʰlæn[`
+
+  * **[d̚]** = unreleased stop before word boundary or next consonant
+  * **Voicing transition** = glottis shifts from voiced to voiceless
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/p/** early, so **/d/** begins shifting toward the bilabial target.
+* **Place assimilation:** the alveolar articulation moves toward bilabial, creating a smooth transition.
+* **Voicing adjustment:** the shift from voiced to voiceless may show partial devoicing or voicing anticipation.
+* **Release economy:** **/d/** may go unreleased **[d̚]**, with articulators moving directly to **/p/** position.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Say "bad plan" with a big pause between **/d/** and **/p/** (fully releasing **/d/**). Then say it naturally without the pause. You'll hear how the release disappears in fluent speech.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/d/** and **/p/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

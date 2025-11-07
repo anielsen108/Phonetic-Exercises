@@ -9,6 +9,43 @@
 
 ---
 
+## Introductory Drill
+
+Say **"at home"** slowly and notice how **/t/** prepares for **/h/**. You'll feel the articulators shifting from alveolar to glottal position, creating a smooth transition between the two sounds.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "at | home," then blend: "at‑home."
+* Freeze on the **/t/**: establish clear tongue tip contacts alveolar ridge, then feel the shift toward **/h/** (open glottis).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/æt̚ hoʊ̯m/`
+* Narrow (coarticulation shown): `[æt̚̚ hoʊ̯m[`
+
+  * **[t̚]** = unreleased stop before word boundary or next consonant
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/h/** early, so **/t/** begins shifting toward the glottal target.
+* **Place assimilation:** the alveolar articulation moves toward glottal, creating a smooth transition.
+* **Release economy:** **/t/** may go unreleased **[t̚]**, with articulators moving directly to **/h/** position.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Record yourself saying "at home" at three speeds: slow, medium, fast. Listen for how the **/t/-/h/** transition becomes smoother and more overlapped at faster tempos.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/t/** and **/h/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

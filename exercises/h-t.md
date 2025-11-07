@@ -9,6 +9,42 @@
 
 ---
 
+## Introductory Drill
+
+Say **"he took"** slowly and notice how **/h/** prepares for **/t/**. You'll feel the articulators shifting from glottal to alveolar position, creating a smooth transition between the two sounds.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "he | took," then blend: "he‑took."
+* Freeze on the **/h/**: establish clear open glottis, then feel the shift toward **/t/** (tongue tip contacts alveolar ridge).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/hi tʰʊk/`
+* Narrow (coarticulation shown): `[hi tʰʊk[`
+
+  * **Coarticulation** = articulators prepare for **[t]** during **[h]**
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/t/** early, so **/h/** begins shifting toward the alveolar target.
+* **Place assimilation:** the glottal articulation moves toward alveolar, creating a smooth transition.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Record yourself saying "he took" at three speeds: slow, medium, fast. Listen for how the **/h/-/t/** transition becomes smoother and more overlapped at faster tempos.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/h/** and **/t/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

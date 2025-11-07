@@ -9,6 +9,42 @@
 
 ---
 
+## Introductory Drill
+
+Say **"time now"** slowly and notice how **/m/** prepares for **/n/**. You'll feel the articulators shifting from bilabial to alveolar position, creating a smooth transition between the two sounds.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "time | now," then blend: "time‑now."
+* Freeze on the **/m/**: establish clear lips close, velum lowers, then feel the shift toward **/n/** (tongue tip contacts alveolar ridge, velum lowers).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/tʰaɪm naʊ/`
+* Narrow (coarticulation shown): `[tʰaɪm naʊ[`
+
+  * **Coarticulation** = articulators prepare for **[n]** during **[m]**
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/n/** early, so **/m/** begins shifting toward the alveolar target.
+* **Place assimilation:** the bilabial articulation moves toward alveolar, creating a smooth transition.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Record yourself saying "time now" at three speeds: slow, medium, fast. Listen for how the **/m/-/n/** transition becomes smoother and more overlapped at faster tempos.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/m/** and **/n/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

@@ -9,6 +9,43 @@
 
 ---
 
+## Introductory Drill
+
+Say **"which book"** slowly and notice how **/tʃ/** prepares for **/b/**. Your lips begin rounding or closing even while the tongue is still positioned for **/tʃ/**, creating a smooth articulatory overlap.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "which | book," then blend: "which‑book."
+* Freeze on the **/tʃ/**: establish clear tongue releases into ʃ, then feel the shift toward **/b/** (lips close).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/wɪtʃ bʊk/`
+* Narrow (coarticulation shown): `[wɪtʃ bʊk[`
+
+  * **Voicing transition** = glottis shifts from voiceless to voiced
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/b/** early, so **/tʃ/** begins shifting toward the bilabial target.
+* **Place assimilation:** the postalveolar articulation moves toward bilabial, creating a smooth transition.
+* **Voicing adjustment:** the shift from voiceless to voiced may show partial devoicing or voicing anticipation.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Hum gently while saying "which book" to track voicing. Notice where your vocal folds stop/start vibrating as you move from **/tʃ/** to **/b/**.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/tʃ/** and **/b/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

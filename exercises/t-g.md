@@ -9,6 +9,45 @@
 
 ---
 
+## Introductory Drill
+
+Say **"at going"** slowly and feel how **/t/** begins shifting toward **/g/**. The tongue back starts rising toward the velum (soft palate) while the **/t/** articulation is still completing, creating anticipatory coarticulation.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "at | going," then blend: "at‑going."
+* Freeze on the **/t/**: establish clear tongue tip contacts alveolar ridge, then feel the shift toward **/g/** (tongue back contacts soft palate).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/æt̚ ˈɡoʊ̯ɪŋ/`
+* Narrow (coarticulation shown): `[æt̚̚ ˈɡoʊ̯ɪŋ[`
+
+  * **[t̚]** = unreleased stop before word boundary or next consonant
+  * **Voicing transition** = glottis shifts from voiceless to voiced
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/g/** early, so **/t/** begins shifting toward the velar target.
+* **Place assimilation:** the alveolar articulation moves toward velar, creating a smooth transition.
+* **Voicing adjustment:** the shift from voiceless to voiced may show partial devoicing or voicing anticipation.
+* **Release economy:** **/t/** may go unreleased **[t̚]**, with articulators moving directly to **/g/** position.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Say "at going" with a big pause between **/t/** and **/g/** (fully releasing **/t/**). Then say it naturally without the pause. You'll hear how the release disappears in fluent speech.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/t/** and **/g/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

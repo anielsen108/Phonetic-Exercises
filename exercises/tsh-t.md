@@ -9,6 +9,42 @@
 
 ---
 
+## Introductory Drill
+
+Say **"which time"** slowly and notice how **/tʃ/** prepares for **/t/**. You'll feel the articulators shifting from postalveolar to alveolar position, creating a smooth transition between the two sounds.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "which | time," then blend: "which‑time."
+* Freeze on the **/tʃ/**: establish clear tongue releases into ʃ, then feel the shift toward **/t/** (tongue tip contacts alveolar ridge).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/wɪtʃ tʰaɪm/`
+* Narrow (coarticulation shown): `[wɪtʃ tʰaɪm[`
+
+  * **Coarticulation** = articulators prepare for **[t]** during **[tʃ]**
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/t/** early, so **/tʃ/** begins shifting toward the alveolar target.
+* **Place assimilation:** the postalveolar articulation moves toward alveolar, creating a smooth transition.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Record yourself saying "which time" at three speeds: slow, medium, fast. Listen for how the **/tʃ/-/t/** transition becomes smoother and more overlapped at faster tempos.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/tʃ/** and **/t/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

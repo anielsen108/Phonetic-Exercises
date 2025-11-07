@@ -9,6 +9,44 @@
 
 ---
 
+## Introductory Drill
+
+Say **"at last"** slowly and notice how **/t/** flows into **/l/**. Both sounds share the same alveolar place of articulation, but differ in their manner, creating a smooth homorganic transition.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "at | last," then blend: "at‑last."
+* Freeze on the **/t/**: establish clear tongue tip contacts alveolar ridge, then feel the shift toward **/l/** (tongue tip contacts alveolar ridge, air flows laterally).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/æt̚ læst/`
+* Narrow (coarticulation shown): `[æt̚̚ læst̚[`
+
+  * **[t̚]** = unreleased stop before word boundary or next consonant
+  * **Voicing transition** = glottis shifts from voiceless to voiced
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/l/** early, so **/t/** begins shifting toward the alveolar target.
+* **Voicing adjustment:** the shift from voiceless to voiced may show partial devoicing or voicing anticipation.
+* **Release economy:** **/t/** may go unreleased **[t̚]**, with articulators moving directly to **/l/** position.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Hum gently while saying "at last" to track voicing. Notice where your vocal folds stop/start vibrating as you move from **/t/** to **/l/**.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/t/** and **/l/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

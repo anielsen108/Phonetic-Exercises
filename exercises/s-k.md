@@ -9,6 +9,42 @@
 
 ---
 
+## Introductory Drill
+
+Say **"ask clearly"** slowly and feel how **/s/** begins shifting toward **/k/**. The tongue back starts rising toward the velum (soft palate) while the **/s/** articulation is still completing, creating anticipatory coarticulation.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "ask | clearly," then blend: "ask‑clearly."
+* Freeze on the **/s/**: establish clear tongue tip near alveolar ridge, then feel the shift toward **/k/** (tongue back contacts soft palate).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/æsk kʰliɹli/`
+* Narrow (coarticulation shown): `[æsk kʰliɹli[`
+
+  * **Coarticulation** = articulators prepare for **[k]** during **[s]**
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/k/** early, so **/s/** begins shifting toward the velar target.
+* **Place assimilation:** the alveolar articulation moves toward velar, creating a smooth transition.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Record yourself saying "ask clearly" at three speeds: slow, medium, fast. Listen for how the **/s/-/k/** transition becomes smoother and more overlapped at faster tempos.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/s/** and **/k/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

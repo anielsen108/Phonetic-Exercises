@@ -9,6 +9,43 @@
 
 ---
 
+## Introductory Drill
+
+Say **"much later"** slowly and notice how **/tʃ/** prepares for **/l/**. You'll feel the articulators shifting from postalveolar to alveolar position, creating a smooth transition between the two sounds.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "much | later," then blend: "much‑later."
+* Freeze on the **/tʃ/**: establish clear tongue releases into ʃ, then feel the shift toward **/l/** (tongue tip contacts alveolar ridge, air flows laterally).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/mʌtʃ ˈleɪtɚ/`
+* Narrow (coarticulation shown): `[mʌtʃ ˈleɪtɚ[`
+
+  * **Voicing transition** = glottis shifts from voiceless to voiced
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/l/** early, so **/tʃ/** begins shifting toward the alveolar target.
+* **Place assimilation:** the postalveolar articulation moves toward alveolar, creating a smooth transition.
+* **Voicing adjustment:** the shift from voiceless to voiced may show partial devoicing or voicing anticipation.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Hum gently while saying "much later" to track voicing. Notice where your vocal folds stop/start vibrating as you move from **/tʃ/** to **/l/**.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/tʃ/** and **/l/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

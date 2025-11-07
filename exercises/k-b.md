@@ -9,6 +9,45 @@
 
 ---
 
+## Introductory Drill
+
+Say **"back bone"** slowly and notice how **/k/** prepares for **/b/**. You'll feel the articulators shifting from velar to bilabial position, creating a smooth transition between the two sounds.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "back | bone," then blend: "back‑bone."
+* Freeze on the **/k/**: establish clear tongue back contacts soft palate, then feel the shift toward **/b/** (lips close).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/bæk̚ boʊ̯n/`
+* Narrow (coarticulation shown): `[bæk̚̚ boʊ̯n[`
+
+  * **[k̚]** = unreleased stop before word boundary or next consonant
+  * **Voicing transition** = glottis shifts from voiceless to voiced
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/b/** early, so **/k/** begins shifting toward the bilabial target.
+* **Place assimilation:** the velar articulation moves toward bilabial, creating a smooth transition.
+* **Voicing adjustment:** the shift from voiceless to voiced may show partial devoicing or voicing anticipation.
+* **Release economy:** **/k/** may go unreleased **[k̚]**, with articulators moving directly to **/b/** position.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Say "back bone" with a big pause between **/k/** and **/b/** (fully releasing **/k/**). Then say it naturally without the pause. You'll hear how the release disappears in fluent speech.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/k/** and **/b/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

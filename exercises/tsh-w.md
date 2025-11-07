@@ -9,6 +9,43 @@
 
 ---
 
+## Introductory Drill
+
+Say **"which way"** slowly and notice how **/tʃ/** prepares for **/w/**. You'll feel the articulators shifting from postalveolar to labial-velar position, creating a smooth transition between the two sounds.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "which | way," then blend: "which‑way."
+* Freeze on the **/tʃ/**: establish clear tongue releases into ʃ, then feel the shift toward **/w/** (lips round, tongue back raises).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/wɪtʃ weɪ/`
+* Narrow (coarticulation shown): `[wɪtʃ weɪ[`
+
+  * **Voicing transition** = glottis shifts from voiceless to voiced
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/w/** early, so **/tʃ/** begins shifting toward the labial-velar target.
+* **Place assimilation:** the postalveolar articulation moves toward labial-velar, creating a smooth transition.
+* **Voicing adjustment:** the shift from voiceless to voiced may show partial devoicing or voicing anticipation.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Hum gently while saying "which way" to track voicing. Notice where your vocal folds stop/start vibrating as you move from **/tʃ/** to **/w/**.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/tʃ/** and **/w/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

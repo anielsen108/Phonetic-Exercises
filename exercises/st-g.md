@@ -9,6 +9,44 @@
 
 ---
 
+## Introductory Drill
+
+Say **"best guess"** slowly and feel how **/st/** begins shifting toward **/g/**. The tongue back starts rising toward the velum (soft palate) while the **/st/** articulation is still completing, creating anticipatory coarticulation.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "best | guess," then blend: "best‑guess."
+* Freeze on the **/st/**: establish clear st articulation, then feel the shift toward **/g/** (tongue back contacts soft palate).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/bɛst̚ ɡɛs/`
+* Narrow (coarticulation shown): `[bɛst̚ ɡɛs[`
+
+  * **[st̚]** = unreleased stop before word boundary or next consonant
+  * **Voicing transition** = glottis shifts from X to voiced
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/g/** early, so **/st/** begins shifting toward the velar target.
+* **Place assimilation:** the st articulation moves toward velar, creating a smooth transition.
+* **Voicing adjustment:** the shift from X to voiced may show partial devoicing or voicing anticipation.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Hum gently while saying "best guess" to track voicing. Notice where your vocal folds stop/start vibrating as you move from **/st/** to **/g/**.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/st/** and **/g/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

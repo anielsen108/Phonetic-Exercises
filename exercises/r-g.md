@@ -9,6 +9,42 @@
 
 ---
 
+## Introductory Drill
+
+Say **"her guy"** slowly and feel how **/r/** begins shifting toward **/g/**. The tongue back starts rising toward the velum (soft palate) while the **/r/** articulation is still completing, creating anticipatory coarticulation.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "her | guy," then blend: "her‑guy."
+* Freeze on the **/r/**: establish clear tongue bunches or curls, then feel the shift toward **/g/** (tongue back contacts soft palate).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/hɚ ɡaɪ/`
+* Narrow (coarticulation shown): `[hɚ ɡaɪ[`
+
+  * **Coarticulation** = articulators prepare for **[g]** during **[r]**
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/g/** early, so **/r/** begins shifting toward the velar target.
+* **Place assimilation:** the postalveolar articulation moves toward velar, creating a smooth transition.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Record yourself saying "her guy" at three speeds: slow, medium, fast. Listen for how the **/r/-/g/** transition becomes smoother and more overlapped at faster tempos.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/r/** and **/g/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

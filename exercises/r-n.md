@@ -9,6 +9,42 @@
 
 ---
 
+## Introductory Drill
+
+Say **"born"** slowly and notice how **/r/** prepares for **/n/**. You'll feel the articulators shifting from postalveolar to alveolar position, creating a smooth transition between the two sounds.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "born," then blend: "born."
+* Freeze on the **/r/**: establish clear tongue bunches or curls, then feel the shift toward **/n/** (tongue tip contacts alveolar ridge, velum lowers).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/bɔɹn/`
+* Narrow (coarticulation shown): `[bɔɹn[`
+
+  * **Coarticulation** = articulators prepare for **[n]** during **[r]**
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/n/** early, so **/r/** begins shifting toward the alveolar target.
+* **Place assimilation:** the postalveolar articulation moves toward alveolar, creating a smooth transition.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Record yourself saying "born" at three speeds: slow, medium, fast. Listen for how the **/r/-/n/** transition becomes smoother and more overlapped at faster tempos.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/r/** and **/n/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

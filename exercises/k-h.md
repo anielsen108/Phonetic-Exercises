@@ -9,6 +9,43 @@
 
 ---
 
+## Introductory Drill
+
+Say **"back home"** slowly and notice how **/k/** prepares for **/h/**. You'll feel the articulators shifting from velar to glottal position, creating a smooth transition between the two sounds.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "back | home," then blend: "back‑home."
+* Freeze on the **/k/**: establish clear tongue back contacts soft palate, then feel the shift toward **/h/** (open glottis).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/bæk̚ hoʊm/`
+* Narrow (coarticulation shown): `[bæk̚̚ hoʊm[`
+
+  * **[k̚]** = unreleased stop before word boundary or next consonant
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/h/** early, so **/k/** begins shifting toward the glottal target.
+* **Place assimilation:** the velar articulation moves toward glottal, creating a smooth transition.
+* **Release economy:** **/k/** may go unreleased **[k̚]**, with articulators moving directly to **/h/** position.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Record yourself saying "back home" at three speeds: slow, medium, fast. Listen for how the **/k/-/h/** transition becomes smoother and more overlapped at faster tempos.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/k/** and **/h/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

@@ -9,6 +9,42 @@
 
 ---
 
+## Introductory Drill
+
+Say **"baths"** slowly and notice how **/θ/** prepares for **/s/**. You'll feel the articulators shifting from dental to alveolar position, creating a smooth transition between the two sounds.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "baths," then blend: "baths."
+* Freeze on the **/θ/**: establish clear tongue tip touches upper teeth, then feel the shift toward **/s/** (tongue tip near alveolar ridge).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/bæθs/`
+* Narrow (coarticulation shown): `[bæθs[`
+
+  * **Coarticulation** = articulators prepare for **[s]** during **[θ]**
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/s/** early, so **/θ/** begins shifting toward the alveolar target.
+* **Place assimilation:** the dental articulation moves toward alveolar, creating a smooth transition.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Record yourself saying "baths" at three speeds: slow, medium, fast. Listen for how the **/θ/-/s/** transition becomes smoother and more overlapped at faster tempos.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/θ/** and **/s/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

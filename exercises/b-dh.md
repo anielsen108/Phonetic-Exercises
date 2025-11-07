@@ -9,6 +9,44 @@
 
 ---
 
+## Introductory Drill
+
+Say **"cab the"** slowly and notice how **/b/** prepares for **/ð/**. You'll feel the articulators shifting from bilabial to dental position, creating a smooth transition between the two sounds.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "cab | the," then blend: "cab‑the."
+* Freeze on the **/b/**: establish clear lips close, then feel the shift toward **/ð/** (tongue tip touches upper teeth).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/kʰæb̪̚ ð̪ə/`
+* Narrow (coarticulation shown): `[kʰæb̪̚̚ ð̪ə[`
+
+  * **[b̚]** = unreleased stop before word boundary or next consonant
+  * **Dentalization** = tongue contact moves forward to teeth anticipating **[ð]**
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/ð/** early, so **/b/** begins shifting toward the dental target.
+* **Place assimilation:** the bilabial articulation moves toward dental, creating a smooth transition.
+* **Release economy:** **/b/** may go unreleased **[b̚]**, with articulators moving directly to **/ð/** position.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Tap your upper front teeth lightly with the tongue tip on **/b/** as you slide into **/ð/**; then do the same line forcing yourself **not** to slide (keep **/b/** at its original position). The "no-slide" version will sound choppier and less fluid.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/b/** and **/ð/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

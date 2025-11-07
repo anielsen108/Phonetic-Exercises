@@ -9,6 +9,43 @@
 
 ---
 
+## Introductory Drill
+
+Say **"Brr, George!"** slowly and notice how **/dr/** prepares for **/dʒ/**. You'll feel the articulators shifting from dr to postalveolar position, creating a smooth transition between the two sounds.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "Brr, | George!," then blend: "Brr,‑George!."
+* Freeze on the **/dr/**: establish clear dr articulation, then feel the shift toward **/dʒ/** (tongue releases into ʒ).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/bɹ̩ː d͡ʒɔɹd͡ʒ/`
+* Narrow (coarticulation shown): `[bɹ̩ː d͡ʒɔɹd͡ʒ[`
+
+  * **Voicing transition** = glottis shifts from X to voiced
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/dʒ/** early, so **/dr/** begins shifting toward the postalveolar target.
+* **Place assimilation:** the dr articulation moves toward postalveolar, creating a smooth transition.
+* **Voicing adjustment:** the shift from X to voiced may show partial devoicing or voicing anticipation.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Hum gently while saying "Brr, George!" to track voicing. Notice where your vocal folds stop/start vibrating as you move from **/dr/** to **/dʒ/**.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/dr/** and **/dʒ/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

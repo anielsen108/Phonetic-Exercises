@@ -9,6 +9,42 @@
 
 ---
 
+## Introductory Drill
+
+Say **"at school"** slowly and notice how **/t/** flows into **/s/**. Both sounds share the same alveolar place of articulation, but differ in their manner, creating a smooth homorganic transition.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "at | school," then blend: "at‑school."
+* Freeze on the **/t/**: establish clear tongue tip contacts alveolar ridge, then feel the shift toward **/s/** (tongue tip near alveolar ridge).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/æ(t̚) skuɫ/`
+* Narrow (coarticulation shown): `[æ(t̚̚) skuɫ[`
+
+  * **[t̚]** = unreleased stop before word boundary or next consonant
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/s/** early, so **/t/** begins shifting toward the alveolar target.
+* **Release economy:** **/t/** may go unreleased **[t̚]**, with articulators moving directly to **/s/** position.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Record yourself saying "at school" at three speeds: slow, medium, fast. Listen for how the **/t/-/s/** transition becomes smoother and more overlapped at faster tempos.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/t/** and **/s/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

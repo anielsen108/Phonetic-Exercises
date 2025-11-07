@@ -9,6 +9,42 @@
 
 ---
 
+## Introductory Drill
+
+Say **"this shoe"** slowly and notice how **/s/** prepares for **/ʃ/**. You'll feel the articulators shifting from alveolar to postalveolar position, creating a smooth transition between the two sounds.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "this | shoe," then blend: "this‑shoe."
+* Freeze on the **/s/**: establish clear tongue tip near alveolar ridge, then feel the shift toward **/ʃ/** (tongue blade near hard palate).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/ðɪʃ ʃu/`
+* Narrow (coarticulation shown): `[ðɪʃ ʃu[`
+
+  * **Coarticulation** = articulators prepare for **[ʃ]** during **[s]**
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/ʃ/** early, so **/s/** begins shifting toward the postalveolar target.
+* **Place assimilation:** the alveolar articulation moves toward postalveolar, creating a smooth transition.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Record yourself saying "this shoe" at three speeds: slow, medium, fast. Listen for how the **/s/-/ʃ/** transition becomes smoother and more overlapped at faster tempos.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/s/** and **/ʃ/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

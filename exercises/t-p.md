@@ -9,6 +9,43 @@
 
 ---
 
+## Introductory Drill
+
+Say **"at peace"** slowly and notice how **/t/** prepares for **/p/**. Your lips begin rounding or closing even while the tongue is still positioned for **/t/**, creating a smooth articulatory overlap.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "at | peace," then blend: "at‑peace."
+* Freeze on the **/t/**: establish clear tongue tip contacts alveolar ridge, then feel the shift toward **/p/** (lips close).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/æt̚ pʰis/`
+* Narrow (coarticulation shown): `[æt̚̚ pʰis[`
+
+  * **[t̚]** = unreleased stop before word boundary or next consonant
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/p/** early, so **/t/** begins shifting toward the bilabial target.
+* **Place assimilation:** the alveolar articulation moves toward bilabial, creating a smooth transition.
+* **Release economy:** **/t/** may go unreleased **[t̚]**, with articulators moving directly to **/p/** position.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Say "at peace" with a big pause between **/t/** and **/p/** (fully releasing **/t/**). Then say it naturally without the pause. You'll hear how the release disappears in fluent speech.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/t/** and **/p/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

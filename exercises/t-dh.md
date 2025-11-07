@@ -9,6 +9,46 @@
 
 ---
 
+## Introductory Drill
+
+Say **"at the store"** slowly and listen for how **/t/** shifts as it anticipates **/ð/**. You'll feel the tongue tip slide from the alveolar ridge toward a **dentalized** position—making contact with the back of your upper teeth as you transition into **/ð/**.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "at | the | store," then blend: "at‑the‑store."
+* Freeze on the **/t/**: establish clear tongue tip contacts alveolar ridge, then feel the shift toward **/ð/** (tongue tip touches upper teeth).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/æt̪̚ ð̪ə ˈstoɹ/`
+* Narrow (coarticulation shown): `[æt̪̪̚̚ ð̪̪ə ˈst̪̚oɹ[`
+
+  * **[t̚]** = unreleased stop before word boundary or next consonant
+  * **Dentalization** = tongue contact moves forward to teeth anticipating **[ð]**
+  * **Voicing transition** = glottis shifts from voiceless to voiced
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/ð/** early, so **/t/** begins shifting toward the dental target.
+* **Place assimilation:** the alveolar articulation moves toward dental, creating a smooth transition.
+* **Voicing adjustment:** the shift from voiceless to voiced may show partial devoicing or voicing anticipation.
+* **Release economy:** **/t/** may go unreleased **[t̚]**, with articulators moving directly to **/ð/** position.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Tap your upper front teeth lightly with the tongue tip on **/t/** as you slide into **/ð/**; then do the same line forcing yourself **not** to slide (keep **/t/** at its original position). The "no-slide" version will sound choppier and less fluid.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/t/** and **/ð/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

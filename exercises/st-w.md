@@ -9,6 +9,44 @@
 
 ---
 
+## Introductory Drill
+
+Say **"just wait"** slowly and notice how **/st/** prepares for **/w/**. You'll feel the articulators shifting from st to labial-velar position, creating a smooth transition between the two sounds.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "just | wait," then blend: "just‑wait."
+* Freeze on the **/st/**: establish clear st articulation, then feel the shift toward **/w/** (lips round, tongue back raises).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/dʒʌst̚ weɪt/`
+* Narrow (coarticulation shown): `[dʒʌst̚ weɪt[`
+
+  * **[st̚]** = unreleased stop before word boundary or next consonant
+  * **Voicing transition** = glottis shifts from X to voiced
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/w/** early, so **/st/** begins shifting toward the labial-velar target.
+* **Place assimilation:** the st articulation moves toward labial-velar, creating a smooth transition.
+* **Voicing adjustment:** the shift from X to voiced may show partial devoicing or voicing anticipation.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Hum gently while saying "just wait" to track voicing. Notice where your vocal folds stop/start vibrating as you move from **/st/** to **/w/**.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/st/** and **/w/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

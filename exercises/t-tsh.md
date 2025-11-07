@@ -9,6 +9,43 @@
 
 ---
 
+## Introductory Drill
+
+Say **"at church"** slowly and notice how **/t/** prepares for **/tʃ/**. You'll feel the articulators shifting from alveolar to postalveolar position, creating a smooth transition between the two sounds.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "at | church," then blend: "at‑church."
+* Freeze on the **/t/**: establish clear tongue tip contacts alveolar ridge, then feel the shift toward **/tʃ/** (tongue releases into ʃ).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/æt̚ tʃɝtʃ/`
+* Narrow (coarticulation shown): `[æt̚̚ t̚ʃɝt̚ʃ[`
+
+  * **[t̚]** = unreleased stop before word boundary or next consonant
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/tʃ/** early, so **/t/** begins shifting toward the postalveolar target.
+* **Place assimilation:** the alveolar articulation moves toward postalveolar, creating a smooth transition.
+* **Release economy:** **/t/** may go unreleased **[t̚]**, with articulators moving directly to **/tʃ/** position.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Record yourself saying "at church" at three speeds: slow, medium, fast. Listen for how the **/t/-/tʃ/** transition becomes smoother and more overlapped at faster tempos.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/t/** and **/tʃ/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

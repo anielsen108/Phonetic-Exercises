@@ -9,6 +9,42 @@
 
 ---
 
+## Introductory Drill
+
+Say **"felt"** slowly and notice how **/l/** flows into **/t/**. Both sounds share the same alveolar place of articulation, but differ in their manner, creating a smooth homorganic transition.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "felt," then blend: "felt."
+* Freeze on the **/l/**: establish clear tongue tip contacts alveolar ridge, air flows laterally, then feel the shift toward **/t/** (tongue tip contacts alveolar ridge).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/fɛɫt/`
+* Narrow (coarticulation shown): `[fɛɫt[`
+
+  * **Voicing transition** = glottis shifts from voiced to voiceless
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/t/** early, so **/l/** begins shifting toward the alveolar target.
+* **Voicing adjustment:** the shift from voiced to voiceless may show partial devoicing or voicing anticipation.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Hum gently while saying "felt" to track voicing. Notice where your vocal folds stop/start vibrating as you move from **/l/** to **/t/**.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/l/** and **/t/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

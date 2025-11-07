@@ -9,6 +9,41 @@
 
 ---
 
+## Introductory Drill
+
+Say **"called"** slowly and notice how **/l/** flows into **/d/**. Both sounds share the same alveolar place of articulation, but differ in their manner, creating a smooth homorganic transition.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "called," then blend: "called."
+* Freeze on the **/l/**: establish clear tongue tip contacts alveolar ridge, air flows laterally, then feel the shift toward **/d/** (tongue tip contacts alveolar ridge).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/kʰɔɫd/`
+* Narrow (coarticulation shown): `[kʰɔɫd[`
+
+  * **Coarticulation** = articulators prepare for **[d]** during **[l]**
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/d/** early, so **/l/** begins shifting toward the alveolar target.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Record yourself saying "called" at three speeds: slow, medium, fast. Listen for how the **/l/-/d/** transition becomes smoother and more overlapped at faster tempos.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/l/** and **/d/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

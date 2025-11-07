@@ -9,6 +9,45 @@
 
 ---
 
+## Introductory Drill
+
+Say **"black market"** slowly and notice how **/k/** prepares for **/m/**. You'll feel the articulators shifting from velar to bilabial position, creating a smooth transition between the two sounds.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "black | market," then blend: "black‑market."
+* Freeze on the **/k/**: establish clear tongue back contacts soft palate, then feel the shift toward **/m/** (lips close, velum lowers).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/blæk̚ ˈmɑɹkɪt/`
+* Narrow (coarticulation shown): `[blæk̚̚ ˈmɑɹk̚ɪt[`
+
+  * **[k̚]** = unreleased stop before word boundary or next consonant
+  * **Voicing transition** = glottis shifts from voiceless to voiced
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/m/** early, so **/k/** begins shifting toward the bilabial target.
+* **Place assimilation:** the velar articulation moves toward bilabial, creating a smooth transition.
+* **Voicing adjustment:** the shift from voiceless to voiced may show partial devoicing or voicing anticipation.
+* **Release economy:** **/k/** may go unreleased **[k̚]**, with articulators moving directly to **/m/** position.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Hum gently while saying "black market" to track voicing. Notice where your vocal folds stop/start vibrating as you move from **/k/** to **/m/**.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/k/** and **/m/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

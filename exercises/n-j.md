@@ -9,6 +9,42 @@
 
 ---
 
+## Introductory Drill
+
+Say **"in your"** slowly and notice how **/n/** prepares for **/j/**. You'll feel the articulators shifting from alveolar to palatal position, creating a smooth transition between the two sounds.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "in | your," then blend: "in‑your."
+* Freeze on the **/n/**: establish clear tongue tip contacts alveolar ridge, velum lowers, then feel the shift toward **/j/** (tongue front raises toward hard palate).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/ɪn jɚ/`
+* Narrow (coarticulation shown): `[ɪn jɚ[`
+
+  * **Coarticulation** = articulators prepare for **[j]** during **[n]**
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/j/** early, so **/n/** begins shifting toward the palatal target.
+* **Place assimilation:** the alveolar articulation moves toward palatal, creating a smooth transition.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Record yourself saying "in your" at three speeds: slow, medium, fast. Listen for how the **/n/-/j/** transition becomes smoother and more overlapped at faster tempos.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/n/** and **/j/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

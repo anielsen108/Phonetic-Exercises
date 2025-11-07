@@ -9,6 +9,42 @@
 
 ---
 
+## Introductory Drill
+
+Say **"her work"** slowly and notice how **/r/** prepares for **/w/**. You'll feel the articulators shifting from postalveolar to labial-velar position, creating a smooth transition between the two sounds.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "her | work," then blend: "her‑work."
+* Freeze on the **/r/**: establish clear tongue bunches or curls, then feel the shift toward **/w/** (lips round, tongue back raises).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/hɚ wɝk/`
+* Narrow (coarticulation shown): `[hɚ wɝk[`
+
+  * **Coarticulation** = articulators prepare for **[w]** during **[r]**
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/w/** early, so **/r/** begins shifting toward the labial-velar target.
+* **Place assimilation:** the postalveolar articulation moves toward labial-velar, creating a smooth transition.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Record yourself saying "her work" at three speeds: slow, medium, fast. Listen for how the **/r/-/w/** transition becomes smoother and more overlapped at faster tempos.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/r/** and **/w/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

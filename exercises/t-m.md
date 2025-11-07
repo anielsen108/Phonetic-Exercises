@@ -9,6 +9,45 @@
 
 ---
 
+## Introductory Drill
+
+Say **"at my house"** slowly and notice how **/t/** prepares for **/m/**. Your lips begin rounding or closing even while the tongue is still positioned for **/t/**, creating a smooth articulatory overlap.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "at | my | house," then blend: "at‑my‑house."
+* Freeze on the **/t/**: establish clear tongue tip contacts alveolar ridge, then feel the shift toward **/m/** (lips close, velum lowers).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/æt̚ maɪ haʊ̯s/`
+* Narrow (coarticulation shown): `[æt̚̚ maɪ haʊ̯s[`
+
+  * **[t̚]** = unreleased stop before word boundary or next consonant
+  * **Voicing transition** = glottis shifts from voiceless to voiced
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/m/** early, so **/t/** begins shifting toward the bilabial target.
+* **Place assimilation:** the alveolar articulation moves toward bilabial, creating a smooth transition.
+* **Voicing adjustment:** the shift from voiceless to voiced may show partial devoicing or voicing anticipation.
+* **Release economy:** **/t/** may go unreleased **[t̚]**, with articulators moving directly to **/m/** position.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Hum gently while saying "at my house" to track voicing. Notice where your vocal folds stop/start vibrating as you move from **/t/** to **/m/**.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/t/** and **/m/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

@@ -9,6 +9,42 @@
 
 ---
 
+## Introductory Drill
+
+Say **"sing clearly"** slowly and notice how **/ŋ/** flows into **/k/**. Both sounds share the same velar place of articulation, but differ in their manner, creating a smooth homorganic transition.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "sing | clearly," then blend: "sing‑clearly."
+* Freeze on the **/ŋ/**: establish clear tongue back contacts soft palate, velum lowers, then feel the shift toward **/k/** (tongue back contacts soft palate).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/sɪŋ kʰliɹli/`
+* Narrow (coarticulation shown): `[sɪŋ kʰliɹli[`
+
+  * **Voicing transition** = glottis shifts from voiced to voiceless
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/k/** early, so **/ŋ/** begins shifting toward the velar target.
+* **Voicing adjustment:** the shift from voiced to voiceless may show partial devoicing or voicing anticipation.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Hum gently while saying "sing clearly" to track voicing. Notice where your vocal folds stop/start vibrating as you move from **/ŋ/** to **/k/**.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/ŋ/** and **/k/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

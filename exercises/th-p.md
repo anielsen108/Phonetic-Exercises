@@ -9,6 +9,42 @@
 
 ---
 
+## Introductory Drill
+
+Say **"bath place"** slowly and notice how **/θ/** prepares for **/p/**. You'll feel the articulators shifting from dental to bilabial position, creating a smooth transition between the two sounds.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "bath | place," then blend: "bath‑place."
+* Freeze on the **/θ/**: establish clear tongue tip touches upper teeth, then feel the shift toward **/p/** (lips close).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/bæθ̚ pʰleɪs/`
+* Narrow (coarticulation shown): `[bæθ̚ pʰleɪs[`
+
+  * **[θ̚]** = unreleased stop before word boundary or next consonant
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/p/** early, so **/θ/** begins shifting toward the bilabial target.
+* **Place assimilation:** the dental articulation moves toward bilabial, creating a smooth transition.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Record yourself saying "bath place" at three speeds: slow, medium, fast. Listen for how the **/θ/-/p/** transition becomes smoother and more overlapped at faster tempos.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/θ/** and **/p/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

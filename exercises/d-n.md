@@ -9,6 +9,42 @@
 
 ---
 
+## Introductory Drill
+
+Say **"had never"** slowly and notice how **/d/** flows into **/n/**. Both sounds share the same alveolar place of articulation, but differ in their manner, creating a smooth homorganic transition.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "had | never," then blend: "had‑never."
+* Freeze on the **/d/**: establish clear tongue tip contacts alveolar ridge, then feel the shift toward **/n/** (tongue tip contacts alveolar ridge, velum lowers).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/hæd̚ ˈnɛvɚ/`
+* Narrow (coarticulation shown): `[hæd̚̚ ˈnɛvɚ[`
+
+  * **[d̚]** = unreleased stop before word boundary or next consonant
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/n/** early, so **/d/** begins shifting toward the alveolar target.
+* **Release economy:** **/d/** may go unreleased **[d̚]**, with articulators moving directly to **/n/** position.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Record yourself saying "had never" at three speeds: slow, medium, fast. Listen for how the **/d/-/n/** transition becomes smoother and more overlapped at faster tempos.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/d/** and **/n/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

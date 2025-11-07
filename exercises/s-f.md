@@ -9,6 +9,42 @@
 
 ---
 
+## Introductory Drill
+
+Say **"this food"** slowly and notice how **/s/** prepares for **/f/**. You'll feel the articulators shifting from alveolar to labiodental position, creating a smooth transition between the two sounds.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "this | food," then blend: "this‑food."
+* Freeze on the **/s/**: establish clear tongue tip near alveolar ridge, then feel the shift toward **/f/** (lower lip touches upper teeth).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/ðɪs fud/`
+* Narrow (coarticulation shown): `[ðɪs fud[`
+
+  * **Coarticulation** = articulators prepare for **[f]** during **[s]**
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/f/** early, so **/s/** begins shifting toward the labiodental target.
+* **Place assimilation:** the alveolar articulation moves toward labiodental, creating a smooth transition.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Record yourself saying "this food" at three speeds: slow, medium, fast. Listen for how the **/s/-/f/** transition becomes smoother and more overlapped at faster tempos.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/s/** and **/f/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

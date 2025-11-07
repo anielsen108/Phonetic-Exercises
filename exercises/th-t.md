@@ -9,6 +9,42 @@
 
 ---
 
+## Introductory Drill
+
+Say **"bath time"** slowly and notice how **/θ/** prepares for **/t/**. You'll feel the articulators shifting from dental to alveolar position, creating a smooth transition between the two sounds.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "bath | time," then blend: "bath‑time."
+* Freeze on the **/θ/**: establish clear tongue tip touches upper teeth, then feel the shift toward **/t/** (tongue tip contacts alveolar ridge).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/bæθ̚ tʰaɪm/`
+* Narrow (coarticulation shown): `[bæθ̚ tʰaɪm[`
+
+  * **[θ̚]** = unreleased stop before word boundary or next consonant
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/t/** early, so **/θ/** begins shifting toward the alveolar target.
+* **Place assimilation:** the dental articulation moves toward alveolar, creating a smooth transition.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Record yourself saying "bath time" at three speeds: slow, medium, fast. Listen for how the **/θ/-/t/** transition becomes smoother and more overlapped at faster tempos.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/θ/** and **/t/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

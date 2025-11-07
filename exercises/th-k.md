@@ -9,6 +9,42 @@
 
 ---
 
+## Introductory Drill
+
+Say **"bath cloth"** slowly and feel how **/θ/** begins shifting toward **/k/**. The tongue back starts rising toward the velum (soft palate) while the **/θ/** articulation is still completing, creating anticipatory coarticulation.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "bath | cloth," then blend: "bath‑cloth."
+* Freeze on the **/θ/**: establish clear tongue tip touches upper teeth, then feel the shift toward **/k/** (tongue back contacts soft palate).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/bæθ̚ kʰlɔθ/`
+* Narrow (coarticulation shown): `[bæθ̚ kʰlɔθ[`
+
+  * **[θ̚]** = unreleased stop before word boundary or next consonant
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/k/** early, so **/θ/** begins shifting toward the velar target.
+* **Place assimilation:** the dental articulation moves toward velar, creating a smooth transition.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Record yourself saying "bath cloth" at three speeds: slow, medium, fast. Listen for how the **/θ/-/k/** transition becomes smoother and more overlapped at faster tempos.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/θ/** and **/k/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

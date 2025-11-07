@@ -9,6 +9,42 @@
 
 ---
 
+## Introductory Drill
+
+Say **"judge me"** slowly and notice how **/dʒ/** prepares for **/m/**. Your lips begin rounding or closing even while the tongue is still positioned for **/dʒ/**, creating a smooth articulatory overlap.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "judge | me," then blend: "judge‑me."
+* Freeze on the **/dʒ/**: establish clear tongue releases into ʒ, then feel the shift toward **/m/** (lips close, velum lowers).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/dʒʌdʒ mi/`
+* Narrow (coarticulation shown): `[dʒʌdʒ mi[`
+
+  * **Coarticulation** = articulators prepare for **[m]** during **[dʒ]**
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/m/** early, so **/dʒ/** begins shifting toward the bilabial target.
+* **Place assimilation:** the postalveolar articulation moves toward bilabial, creating a smooth transition.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Record yourself saying "judge me" at three speeds: slow, medium, fast. Listen for how the **/dʒ/-/m/** transition becomes smoother and more overlapped at faster tempos.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/dʒ/** and **/m/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

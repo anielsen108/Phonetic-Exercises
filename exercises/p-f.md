@@ -9,6 +9,43 @@
 
 ---
 
+## Introductory Drill
+
+Say **"stop fighting"** slowly and notice how **/p/** prepares for **/f/**. You'll feel the articulators shifting from bilabial to labiodental position, creating a smooth transition between the two sounds.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "stop | fighting," then blend: "stop‑fighting."
+* Freeze on the **/p/**: establish clear lips close, then feel the shift toward **/f/** (lower lip touches upper teeth).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/stɑp̚ ˈfaɪɾɪŋ/`
+* Narrow (coarticulation shown): `[stɑp̚̚ ˈfaɪɾɪŋ[`
+
+  * **[p̚]** = unreleased stop before word boundary or next consonant
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/f/** early, so **/p/** begins shifting toward the labiodental target.
+* **Place assimilation:** the bilabial articulation moves toward labiodental, creating a smooth transition.
+* **Release economy:** **/p/** may go unreleased **[p̚]**, with articulators moving directly to **/f/** position.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Record yourself saying "stop fighting" at three speeds: slow, medium, fast. Listen for how the **/p/-/f/** transition becomes smoother and more overlapped at faster tempos.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/p/** and **/f/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

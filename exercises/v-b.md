@@ -9,6 +9,42 @@
 
 ---
 
+## Introductory Drill
+
+Say **"have been"** slowly and notice how **/v/** prepares for **/b/**. You'll feel the articulators shifting from labiodental to bilabial position, creating a smooth transition between the two sounds.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "have | been," then blend: "have‑been."
+* Freeze on the **/v/**: establish clear lower lip touches upper teeth, then feel the shift toward **/b/** (lips close).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/hæv bɪn/`
+* Narrow (coarticulation shown): `[hæv bɪn[`
+
+  * **Coarticulation** = articulators prepare for **[b]** during **[v]**
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/b/** early, so **/v/** begins shifting toward the bilabial target.
+* **Place assimilation:** the labiodental articulation moves toward bilabial, creating a smooth transition.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Record yourself saying "have been" at three speeds: slow, medium, fast. Listen for how the **/v/-/b/** transition becomes smoother and more overlapped at faster tempos.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/v/** and **/b/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

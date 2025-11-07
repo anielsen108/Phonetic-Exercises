@@ -9,6 +9,43 @@
 
 ---
 
+## Introductory Drill
+
+Say **"bad book"** slowly and notice how **/d/** prepares for **/b/**. Your lips begin rounding or closing even while the tongue is still positioned for **/d/**, creating a smooth articulatory overlap.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "bad | book," then blend: "bad‑book."
+* Freeze on the **/d/**: establish clear tongue tip contacts alveolar ridge, then feel the shift toward **/b/** (lips close).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/bæd̚ bʊk/`
+* Narrow (coarticulation shown): `[bæd̚̚ bʊk[`
+
+  * **[d̚]** = unreleased stop before word boundary or next consonant
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/b/** early, so **/d/** begins shifting toward the bilabial target.
+* **Place assimilation:** the alveolar articulation moves toward bilabial, creating a smooth transition.
+* **Release economy:** **/d/** may go unreleased **[d̚]**, with articulators moving directly to **/b/** position.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Say "bad book" with a big pause between **/d/** and **/b/** (fully releasing **/d/**). Then say it naturally without the pause. You'll hear how the release disappears in fluent speech.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/d/** and **/b/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

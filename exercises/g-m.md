@@ -9,6 +9,43 @@
 
 ---
 
+## Introductory Drill
+
+Say **"big man"** slowly and notice how **/g/** prepares for **/m/**. You'll feel the articulators shifting from velar to bilabial position, creating a smooth transition between the two sounds.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "big | man," then blend: "big‑man."
+* Freeze on the **/g/**: establish clear tongue back contacts soft palate, then feel the shift toward **/m/** (lips close, velum lowers).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/bɪɡ̚ mæn/`
+* Narrow (coarticulation shown): `[bɪɡ̚ mæn[`
+
+  * **[g̚]** = unreleased stop before word boundary or next consonant
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/m/** early, so **/g/** begins shifting toward the bilabial target.
+* **Place assimilation:** the velar articulation moves toward bilabial, creating a smooth transition.
+* **Release economy:** **/g/** may go unreleased **[g̚]**, with articulators moving directly to **/m/** position.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Record yourself saying "big man" at three speeds: slow, medium, fast. Listen for how the **/g/-/m/** transition becomes smoother and more overlapped at faster tempos.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/g/** and **/m/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

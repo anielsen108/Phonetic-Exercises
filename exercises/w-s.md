@@ -9,6 +9,43 @@
 
 ---
 
+## Introductory Drill
+
+Say **"now see"** slowly and notice how **/w/** prepares for **/s/**. You'll feel the articulators shifting from labial-velar to alveolar position, creating a smooth transition between the two sounds.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "now | see," then blend: "now‑see."
+* Freeze on the **/w/**: establish clear lips round, tongue back raises, then feel the shift toward **/s/** (tongue tip near alveolar ridge).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/naʊ si/`
+* Narrow (coarticulation shown): `[naʊ si[`
+
+  * **Voicing transition** = glottis shifts from voiced to voiceless
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/s/** early, so **/w/** begins shifting toward the alveolar target.
+* **Place assimilation:** the labial-velar articulation moves toward alveolar, creating a smooth transition.
+* **Voicing adjustment:** the shift from voiced to voiceless may show partial devoicing or voicing anticipation.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Hum gently while saying "now see" to track voicing. Notice where your vocal folds stop/start vibrating as you move from **/w/** to **/s/**.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/w/** and **/s/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

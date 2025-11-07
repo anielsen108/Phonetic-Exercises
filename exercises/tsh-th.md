@@ -9,6 +9,42 @@
 
 ---
 
+## Introductory Drill
+
+Say **"which thing"** slowly and notice how **/tʃ/** prepares for **/θ/**. You'll feel the articulators shifting from postalveolar to dental position, creating a smooth transition between the two sounds.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "which | thing," then blend: "which‑thing."
+* Freeze on the **/tʃ/**: establish clear tongue releases into ʃ, then feel the shift toward **/θ/** (tongue tip touches upper teeth).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/wɪtʃ θɪŋ/`
+* Narrow (coarticulation shown): `[wɪtʃ θɪŋ[`
+
+  * **Coarticulation** = articulators prepare for **[θ]** during **[tʃ]**
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/θ/** early, so **/tʃ/** begins shifting toward the dental target.
+* **Place assimilation:** the postalveolar articulation moves toward dental, creating a smooth transition.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Tap your upper front teeth lightly with the tongue tip on **/tʃ/** as you slide into **/θ/**; then do the same line forcing yourself **not** to slide (keep **/tʃ/** at its original position). The "no-slide" version will sound choppier and less fluid.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/tʃ/** and **/θ/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

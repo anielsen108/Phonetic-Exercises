@@ -9,6 +9,43 @@
 
 ---
 
+## Introductory Drill
+
+Say **"at shore"** slowly and notice how **/t/** prepares for **/ʃ/**. You'll feel the articulators shifting from alveolar to postalveolar position, creating a smooth transition between the two sounds.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "at | shore," then blend: "at‑shore."
+* Freeze on the **/t/**: establish clear tongue tip contacts alveolar ridge, then feel the shift toward **/ʃ/** (tongue blade near hard palate).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/æt̚ ʃoɹ/`
+* Narrow (coarticulation shown): `[æt̚̚ ʃoɹ[`
+
+  * **[t̚]** = unreleased stop before word boundary or next consonant
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/ʃ/** early, so **/t/** begins shifting toward the postalveolar target.
+* **Place assimilation:** the alveolar articulation moves toward postalveolar, creating a smooth transition.
+* **Release economy:** **/t/** may go unreleased **[t̚]**, with articulators moving directly to **/ʃ/** position.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Record yourself saying "at shore" at three speeds: slow, medium, fast. Listen for how the **/t/-/ʃ/** transition becomes smoother and more overlapped at faster tempos.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/t/** and **/ʃ/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

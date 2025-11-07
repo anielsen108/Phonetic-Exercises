@@ -9,6 +9,42 @@
 
 ---
 
+## Introductory Drill
+
+Say **"large gap"** slowly and feel how **/dʒ/** begins shifting toward **/g/**. The tongue back starts rising toward the velum (soft palate) while the **/dʒ/** articulation is still completing, creating anticipatory coarticulation.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "large | gap," then blend: "large‑gap."
+* Freeze on the **/dʒ/**: establish clear tongue releases into ʒ, then feel the shift toward **/g/** (tongue back contacts soft palate).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/lɑɹdʒ ɡæp/`
+* Narrow (coarticulation shown): `[lɑɹdʒ ɡæp[`
+
+  * **Coarticulation** = articulators prepare for **[g]** during **[dʒ]**
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/g/** early, so **/dʒ/** begins shifting toward the velar target.
+* **Place assimilation:** the postalveolar articulation moves toward velar, creating a smooth transition.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Record yourself saying "large gap" at three speeds: slow, medium, fast. Listen for how the **/dʒ/-/g/** transition becomes smoother and more overlapped at faster tempos.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/dʒ/** and **/g/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

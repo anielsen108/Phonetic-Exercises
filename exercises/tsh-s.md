@@ -9,6 +9,42 @@
 
 ---
 
+## Introductory Drill
+
+Say **"which side"** slowly and notice how **/tʃ/** prepares for **/s/**. You'll feel the articulators shifting from postalveolar to alveolar position, creating a smooth transition between the two sounds.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "which | side," then blend: "which‑side."
+* Freeze on the **/tʃ/**: establish clear tongue releases into ʃ, then feel the shift toward **/s/** (tongue tip near alveolar ridge).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/wɪtʃ saɪd/`
+* Narrow (coarticulation shown): `[wɪtʃ saɪd[`
+
+  * **Coarticulation** = articulators prepare for **[s]** during **[tʃ]**
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/s/** early, so **/tʃ/** begins shifting toward the alveolar target.
+* **Place assimilation:** the postalveolar articulation moves toward alveolar, creating a smooth transition.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Record yourself saying "which side" at three speeds: slow, medium, fast. Listen for how the **/tʃ/-/s/** transition becomes smoother and more overlapped at faster tempos.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/tʃ/** and **/s/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

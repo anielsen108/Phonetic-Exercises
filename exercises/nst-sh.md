@@ -9,6 +9,44 @@
 
 ---
 
+## Introductory Drill
+
+Say **"against shipping"** slowly and notice how **/nst/** prepares for **/ʃ/**. You'll feel the articulators shifting from nst to postalveolar position, creating a smooth transition between the two sounds.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "against | shipping," then blend: "against‑shipping."
+* Freeze on the **/nst/**: establish clear nst articulation, then feel the shift toward **/ʃ/** (tongue blade near hard palate).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/əˈɡɛnst̚ ˈʃɪpɪŋ/`
+* Narrow (coarticulation shown): `[əˈɡɛnst̚ ˈʃɪpɪŋ[`
+
+  * **[nst̚]** = unreleased stop before word boundary or next consonant
+  * **Voicing transition** = glottis shifts from X to voiceless
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/ʃ/** early, so **/nst/** begins shifting toward the postalveolar target.
+* **Place assimilation:** the nst articulation moves toward postalveolar, creating a smooth transition.
+* **Voicing adjustment:** the shift from X to voiceless may show partial devoicing or voicing anticipation.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Hum gently while saying "against shipping" to track voicing. Notice where your vocal folds stop/start vibrating as you move from **/nst/** to **/ʃ/**.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/nst/** and **/ʃ/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

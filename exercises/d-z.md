@@ -9,6 +9,42 @@
 
 ---
 
+## Introductory Drill
+
+Say **"had zero"** slowly and notice how **/d/** flows into **/z/**. Both sounds share the same alveolar place of articulation, but differ in their manner, creating a smooth homorganic transition.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "had | zero," then blend: "had‑zero."
+* Freeze on the **/d/**: establish clear tongue tip contacts alveolar ridge, then feel the shift toward **/z/** (tongue tip near alveolar ridge).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/hæd̚ ˈziɹoʊ̯/`
+* Narrow (coarticulation shown): `[hæd̚̚ ˈziɹoʊ̯[`
+
+  * **[d̚]** = unreleased stop before word boundary or next consonant
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/z/** early, so **/d/** begins shifting toward the alveolar target.
+* **Release economy:** **/d/** may go unreleased **[d̚]**, with articulators moving directly to **/z/** position.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Record yourself saying "had zero" at three speeds: slow, medium, fast. Listen for how the **/d/-/z/** transition becomes smoother and more overlapped at faster tempos.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/d/** and **/z/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

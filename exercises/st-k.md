@@ -9,6 +9,44 @@
 
 ---
 
+## Introductory Drill
+
+Say **"best car"** slowly and feel how **/st/** begins shifting toward **/k/**. The tongue back starts rising toward the velum (soft palate) while the **/st/** articulation is still completing, creating anticipatory coarticulation.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "best | car," then blend: "best‑car."
+* Freeze on the **/st/**: establish clear st articulation, then feel the shift toward **/k/** (tongue back contacts soft palate).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/bɛst̚ kʰɑɹ/`
+* Narrow (coarticulation shown): `[bɛst̚ kʰɑɹ[`
+
+  * **[st̚]** = unreleased stop before word boundary or next consonant
+  * **Voicing transition** = glottis shifts from X to voiceless
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/k/** early, so **/st/** begins shifting toward the velar target.
+* **Place assimilation:** the st articulation moves toward velar, creating a smooth transition.
+* **Voicing adjustment:** the shift from X to voiceless may show partial devoicing or voicing anticipation.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Hum gently while saying "best car" to track voicing. Notice where your vocal folds stop/start vibrating as you move from **/st/** to **/k/**.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/st/** and **/k/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

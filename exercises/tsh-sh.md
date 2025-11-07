@@ -9,6 +9,41 @@
 
 ---
 
+## Introductory Drill
+
+Say **"much shame"** slowly and notice how **/tʃ/** flows into **/ʃ/**. Both sounds share the same postalveolar place of articulation, but differ in their manner, creating a smooth homorganic transition.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "much | shame," then blend: "much‑shame."
+* Freeze on the **/tʃ/**: establish clear tongue releases into ʃ, then feel the shift toward **/ʃ/** (tongue blade near hard palate).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/mʌtʃ ʃeɪm/`
+* Narrow (coarticulation shown): `[mʌtʃ ʃeɪm[`
+
+  * **Coarticulation** = articulators prepare for **[ʃ]** during **[tʃ]**
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/ʃ/** early, so **/tʃ/** begins shifting toward the postalveolar target.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Record yourself saying "much shame" at three speeds: slow, medium, fast. Listen for how the **/tʃ/-/ʃ/** transition becomes smoother and more overlapped at faster tempos.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/tʃ/** and **/ʃ/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

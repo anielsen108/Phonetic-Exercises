@@ -9,6 +9,44 @@
 
 ---
 
+## Introductory Drill
+
+Say **"against family"** slowly and notice how **/nst/** prepares for **/f/**. You'll feel the articulators shifting from nst to labiodental position, creating a smooth transition between the two sounds.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "against | family," then blend: "against‑family."
+* Freeze on the **/nst/**: establish clear nst articulation, then feel the shift toward **/f/** (lower lip touches upper teeth).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/əˈɡɛnst̚ ˈfæməli/`
+* Narrow (coarticulation shown): `[əˈɡɛnst̚ ˈfæməli[`
+
+  * **[nst̚]** = unreleased stop before word boundary or next consonant
+  * **Voicing transition** = glottis shifts from X to voiceless
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/f/** early, so **/nst/** begins shifting toward the labiodental target.
+* **Place assimilation:** the nst articulation moves toward labiodental, creating a smooth transition.
+* **Voicing adjustment:** the shift from X to voiceless may show partial devoicing or voicing anticipation.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Hum gently while saying "against family" to track voicing. Notice where your vocal folds stop/start vibrating as you move from **/nst/** to **/f/**.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/nst/** and **/f/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

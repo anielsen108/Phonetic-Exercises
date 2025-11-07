@@ -9,6 +9,42 @@
 
 ---
 
+## Introductory Drill
+
+Say **"which person"** slowly and notice how **/tʃ/** prepares for **/p/**. Your lips begin rounding or closing even while the tongue is still positioned for **/tʃ/**, creating a smooth articulatory overlap.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "which | person," then blend: "which‑person."
+* Freeze on the **/tʃ/**: establish clear tongue releases into ʃ, then feel the shift toward **/p/** (lips close).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/wɪtʃ ˈpʰɝsən/`
+* Narrow (coarticulation shown): `[wɪtʃ ˈpʰɝsən[`
+
+  * **Coarticulation** = articulators prepare for **[p]** during **[tʃ]**
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/p/** early, so **/tʃ/** begins shifting toward the bilabial target.
+* **Place assimilation:** the postalveolar articulation moves toward bilabial, creating a smooth transition.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Record yourself saying "which person" at three speeds: slow, medium, fast. Listen for how the **/tʃ/-/p/** transition becomes smoother and more overlapped at faster tempos.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/tʃ/** and **/p/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

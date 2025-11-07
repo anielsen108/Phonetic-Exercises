@@ -9,6 +9,43 @@
 
 ---
 
+## Introductory Drill
+
+Say **"her son"** slowly and notice how **/r/** prepares for **/s/**. You'll feel the articulators shifting from postalveolar to alveolar position, creating a smooth transition between the two sounds.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "her | son," then blend: "her‑son."
+* Freeze on the **/r/**: establish clear tongue bunches or curls, then feel the shift toward **/s/** (tongue tip near alveolar ridge).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/hɚ sʌn/`
+* Narrow (coarticulation shown): `[hɚ sʌn[`
+
+  * **Voicing transition** = glottis shifts from voiced to voiceless
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/s/** early, so **/r/** begins shifting toward the alveolar target.
+* **Place assimilation:** the postalveolar articulation moves toward alveolar, creating a smooth transition.
+* **Voicing adjustment:** the shift from voiced to voiceless may show partial devoicing or voicing anticipation.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Hum gently while saying "her son" to track voicing. Notice where your vocal folds stop/start vibrating as you move from **/r/** to **/s/**.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/r/** and **/s/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

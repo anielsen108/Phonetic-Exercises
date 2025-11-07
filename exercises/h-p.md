@@ -9,6 +9,42 @@
 
 ---
 
+## Introductory Drill
+
+Say **"he pulled"** slowly and notice how **/h/** prepares for **/p/**. You'll feel the articulators shifting from glottal to bilabial position, creating a smooth transition between the two sounds.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "he | pulled," then blend: "he‑pulled."
+* Freeze on the **/h/**: establish clear open glottis, then feel the shift toward **/p/** (lips close).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/hi pʰʊɫd/`
+* Narrow (coarticulation shown): `[hi pʰʊɫd[`
+
+  * **Coarticulation** = articulators prepare for **[p]** during **[h]**
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/p/** early, so **/h/** begins shifting toward the bilabial target.
+* **Place assimilation:** the glottal articulation moves toward bilabial, creating a smooth transition.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Record yourself saying "he pulled" at three speeds: slow, medium, fast. Listen for how the **/h/-/p/** transition becomes smoother and more overlapped at faster tempos.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/h/** and **/p/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

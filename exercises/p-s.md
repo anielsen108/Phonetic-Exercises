@@ -9,6 +9,43 @@
 
 ---
 
+## Introductory Drill
+
+Say **"lapse"** slowly and notice how **/p/** prepares for **/s/**. You'll feel the articulators shifting from bilabial to alveolar position, creating a smooth transition between the two sounds.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "lapse," then blend: "lapse."
+* Freeze on the **/p/**: establish clear lips close, then feel the shift toward **/s/** (tongue tip near alveolar ridge).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/læps/`
+* Narrow (coarticulation shown): `[læp̚s[`
+
+  * **[p̚]** = unreleased stop before word boundary or next consonant
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/s/** early, so **/p/** begins shifting toward the alveolar target.
+* **Place assimilation:** the bilabial articulation moves toward alveolar, creating a smooth transition.
+* **Release economy:** **/p/** may go unreleased **[p̚]**, with articulators moving directly to **/s/** position.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Record yourself saying "lapse" at three speeds: slow, medium, fast. Listen for how the **/p/-/s/** transition becomes smoother and more overlapped at faster tempos.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/p/** and **/s/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

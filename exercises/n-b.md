@@ -9,6 +9,42 @@
 
 ---
 
+## Introductory Drill
+
+Say **"in bed"** slowly and notice how **/n/** prepares for **/b/**. Your lips begin rounding or closing even while the tongue is still positioned for **/n/**, creating a smooth articulatory overlap.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "in | bed," then blend: "in‑bed."
+* Freeze on the **/n/**: establish clear tongue tip contacts alveolar ridge, velum lowers, then feel the shift toward **/b/** (lips close).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/ɪn bɛd/`
+* Narrow (coarticulation shown): `[ɪn bɛd[`
+
+  * **Coarticulation** = articulators prepare for **[b]** during **[n]**
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/b/** early, so **/n/** begins shifting toward the bilabial target.
+* **Place assimilation:** the alveolar articulation moves toward bilabial, creating a smooth transition.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Record yourself saying "in bed" at three speeds: slow, medium, fast. Listen for how the **/n/-/b/** transition becomes smoother and more overlapped at faster tempos.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/n/** and **/b/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

@@ -9,6 +9,42 @@
 
 ---
 
+## Introductory Drill
+
+Say **"has the"** slowly and listen for how **/z/** shifts as it anticipates **/ð/**. You'll feel the tongue tip slide from the alveolar ridge toward a **dentalized** position—making contact with the back of your upper teeth as you transition into **/ð/**.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "has | the," then blend: "has‑the."
+* Freeze on the **/z/**: establish clear tongue tip near alveolar ridge, then feel the shift toward **/ð/** (tongue tip touches upper teeth).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/hæz̪ ð̪ə/`
+* Narrow (coarticulation shown): `[hæz̪̪ ð̪̪ə[`
+
+  * **Dentalization** = tongue contact moves forward to teeth anticipating **[ð]**
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/ð/** early, so **/z/** begins shifting toward the dental target.
+* **Place assimilation:** the alveolar articulation moves toward dental, creating a smooth transition.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Tap your upper front teeth lightly with the tongue tip on **/z/** as you slide into **/ð/**; then do the same line forcing yourself **not** to slide (keep **/z/** at its original position). The "no-slide" version will sound choppier and less fluid.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/z/** and **/ð/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

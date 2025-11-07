@@ -9,6 +9,43 @@
 
 ---
 
+## Introductory Drill
+
+Say **"slept"** slowly and notice how **/p/** prepares for **/t/**. You'll feel the articulators shifting from bilabial to alveolar position, creating a smooth transition between the two sounds.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "slept," then blend: "slept."
+* Freeze on the **/p/**: establish clear lips close, then feel the shift toward **/t/** (tongue tip contacts alveolar ridge).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/slɛpt̚/`
+* Narrow (coarticulation shown): `[slɛp̚t̚[`
+
+  * **[p̚]** = unreleased stop before word boundary or next consonant
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/t/** early, so **/p/** begins shifting toward the alveolar target.
+* **Place assimilation:** the bilabial articulation moves toward alveolar, creating a smooth transition.
+* **Release economy:** **/p/** may go unreleased **[p̚]**, with articulators moving directly to **/t/** position.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Say "slept" with a big pause between **/p/** and **/t/** (fully releasing **/p/**). Then say it naturally without the pause. You'll hear how the release disappears in fluent speech.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/p/** and **/t/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

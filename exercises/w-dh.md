@@ -9,6 +9,42 @@
 
 ---
 
+## Introductory Drill
+
+Say **"now they"** slowly and notice how **/w/** prepares for **/ð/**. You'll feel the articulators shifting from labial-velar to dental position, creating a smooth transition between the two sounds.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "now | they," then blend: "now‑they."
+* Freeze on the **/w/**: establish clear lips round, tongue back raises, then feel the shift toward **/ð/** (tongue tip touches upper teeth).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/naʊ ðeɪ/`
+* Narrow (coarticulation shown): `[naʊ ðeɪ[`
+
+  * **Coarticulation** = articulators prepare for **[ð]** during **[w]**
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/ð/** early, so **/w/** begins shifting toward the dental target.
+* **Place assimilation:** the labial-velar articulation moves toward dental, creating a smooth transition.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Tap your upper front teeth lightly with the tongue tip on **/w/** as you slide into **/ð/**; then do the same line forcing yourself **not** to slide (keep **/w/** at its original position). The "no-slide" version will sound choppier and less fluid.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/w/** and **/ð/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

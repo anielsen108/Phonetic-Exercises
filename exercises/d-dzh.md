@@ -9,6 +9,43 @@
 
 ---
 
+## Introductory Drill
+
+Say **"bad joke"** slowly and notice how **/d/** prepares for **/dʒ/**. You'll feel the articulators shifting from alveolar to postalveolar position, creating a smooth transition between the two sounds.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "bad | joke," then blend: "bad‑joke."
+* Freeze on the **/d/**: establish clear tongue tip contacts alveolar ridge, then feel the shift toward **/dʒ/** (tongue releases into ʒ).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/bæd̚ d͡ʒoʊ̯k/`
+* Narrow (coarticulation shown): `[bæd̚̚ d̚͡ʒoʊ̯k[`
+
+  * **[d̚]** = unreleased stop before word boundary or next consonant
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/dʒ/** early, so **/d/** begins shifting toward the postalveolar target.
+* **Place assimilation:** the alveolar articulation moves toward postalveolar, creating a smooth transition.
+* **Release economy:** **/d/** may go unreleased **[d̚]**, with articulators moving directly to **/dʒ/** position.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Record yourself saying "bad joke" at three speeds: slow, medium, fast. Listen for how the **/d/-/dʒ/** transition becomes smoother and more overlapped at faster tempos.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/d/** and **/dʒ/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

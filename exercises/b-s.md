@@ -9,6 +9,45 @@
 
 ---
 
+## Introductory Drill
+
+Say **"cabs"** slowly and notice how **/b/** prepares for **/s/**. You'll feel the articulators shifting from bilabial to alveolar position, creating a smooth transition between the two sounds.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "cabs," then blend: "cabs."
+* Freeze on the **/b/**: establish clear lips close, then feel the shift toward **/s/** (tongue tip near alveolar ridge).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/kʰæbz/`
+* Narrow (coarticulation shown): `[kʰæb̚z[`
+
+  * **[b̚]** = unreleased stop before word boundary or next consonant
+  * **Voicing transition** = glottis shifts from voiced to voiceless
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/s/** early, so **/b/** begins shifting toward the alveolar target.
+* **Place assimilation:** the bilabial articulation moves toward alveolar, creating a smooth transition.
+* **Voicing adjustment:** the shift from voiced to voiceless may show partial devoicing or voicing anticipation.
+* **Release economy:** **/b/** may go unreleased **[b̚]**, with articulators moving directly to **/s/** position.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Hum gently while saying "cabs" to track voicing. Notice where your vocal folds stop/start vibrating as you move from **/b/** to **/s/**.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/b/** and **/s/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

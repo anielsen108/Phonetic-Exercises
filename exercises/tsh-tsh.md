@@ -9,6 +9,41 @@
 
 ---
 
+## Introductory Drill
+
+Say **"which choice"** slowly and notice how **/tʃ/** flows into **/tʃ/**. Both sounds share the same postalveolar place of articulation, but differ in their manner, creating a smooth homorganic transition.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "which | choice," then blend: "which‑choice."
+* Freeze on the **/tʃ/**: establish clear tongue releases into ʃ, then feel the shift toward **/tʃ/** (tongue releases into ʃ).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/wɪtʃ tʃɔɪs/`
+* Narrow (coarticulation shown): `[wɪtʃ tʃɔɪs[`
+
+  * **Coarticulation** = articulators prepare for **[tʃ]** during **[tʃ]**
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/tʃ/** early, so **/tʃ/** begins shifting toward the postalveolar target.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Record yourself saying "which choice" at three speeds: slow, medium, fast. Listen for how the **/tʃ/-/tʃ/** transition becomes smoother and more overlapped at faster tempos.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/tʃ/** and **/tʃ/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

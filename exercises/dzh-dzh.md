@@ -9,6 +9,41 @@
 
 ---
 
+## Introductory Drill
+
+Say **"large judge"** slowly and notice how **/dʒ/** flows into **/dʒ/**. Both sounds share the same postalveolar place of articulation, but differ in their manner, creating a smooth homorganic transition.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "large | judge," then blend: "large‑judge."
+* Freeze on the **/dʒ/**: establish clear tongue releases into ʒ, then feel the shift toward **/dʒ/** (tongue releases into ʒ).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/lɑɹd͡ʒ d͡ʒʌd͡ʒ/`
+* Narrow (coarticulation shown): `[lɑɹd͡ʒ d͡ʒʌd͡ʒ[`
+
+  * **Coarticulation** = articulators prepare for **[dʒ]** during **[dʒ]**
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/dʒ/** early, so **/dʒ/** begins shifting toward the postalveolar target.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Record yourself saying "large judge" at three speeds: slow, medium, fast. Listen for how the **/dʒ/-/dʒ/** transition becomes smoother and more overlapped at faster tempos.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/dʒ/** and **/dʒ/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

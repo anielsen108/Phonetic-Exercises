@@ -9,6 +9,42 @@
 
 ---
 
+## Introductory Drill
+
+Say **"wash place"** slowly and notice how **/ʃ/** prepares for **/p/**. Your lips begin rounding or closing even while the tongue is still positioned for **/ʃ/**, creating a smooth articulatory overlap.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "wash | place," then blend: "wash‑place."
+* Freeze on the **/ʃ/**: establish clear tongue blade near hard palate, then feel the shift toward **/p/** (lips close).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/wɑʃ pʰleɪs/`
+* Narrow (coarticulation shown): `[wɑʃ pʰleɪs[`
+
+  * **Coarticulation** = articulators prepare for **[p]** during **[ʃ]**
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/p/** early, so **/ʃ/** begins shifting toward the bilabial target.
+* **Place assimilation:** the postalveolar articulation moves toward bilabial, creating a smooth transition.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Record yourself saying "wash place" at three speeds: slow, medium, fast. Listen for how the **/ʃ/-/p/** transition becomes smoother and more overlapped at faster tempos.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/ʃ/** and **/p/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

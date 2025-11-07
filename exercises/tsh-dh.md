@@ -9,6 +9,43 @@
 
 ---
 
+## Introductory Drill
+
+Say **"which they"** slowly and notice how **/tʃ/** prepares for **/ð/**. You'll feel the articulators shifting from postalveolar to dental position, creating a smooth transition between the two sounds.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "which | they," then blend: "which‑they."
+* Freeze on the **/tʃ/**: establish clear tongue releases into ʃ, then feel the shift toward **/ð/** (tongue tip touches upper teeth).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/wɪtʃ ðeɪ/`
+* Narrow (coarticulation shown): `[wɪtʃ ðeɪ[`
+
+  * **Voicing transition** = glottis shifts from voiceless to voiced
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/ð/** early, so **/tʃ/** begins shifting toward the dental target.
+* **Place assimilation:** the postalveolar articulation moves toward dental, creating a smooth transition.
+* **Voicing adjustment:** the shift from voiceless to voiced may show partial devoicing or voicing anticipation.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Tap your upper front teeth lightly with the tongue tip on **/tʃ/** as you slide into **/ð/**; then do the same line forcing yourself **not** to slide (keep **/tʃ/** at its original position). The "no-slide" version will sound choppier and less fluid.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/tʃ/** and **/ð/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

@@ -9,6 +9,42 @@
 
 ---
 
+## Introductory Drill
+
+Say **"if things"** slowly and notice how **/f/** prepares for **/θ/**. You'll feel the articulators shifting from labiodental to dental position, creating a smooth transition between the two sounds.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "if | things," then blend: "if‑things."
+* Freeze on the **/f/**: establish clear lower lip touches upper teeth, then feel the shift toward **/θ/** (tongue tip touches upper teeth).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/ɪf̪ θ̪ɪŋz/`
+* Narrow (coarticulation shown): `[ɪf̪ θ̪ɪŋz[`
+
+  * **Dentalization** = tongue contact moves forward to teeth anticipating **[θ]**
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/θ/** early, so **/f/** begins shifting toward the dental target.
+* **Place assimilation:** the labiodental articulation moves toward dental, creating a smooth transition.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Tap your upper front teeth lightly with the tongue tip on **/f/** as you slide into **/θ/**; then do the same line forcing yourself **not** to slide (keep **/f/** at its original position). The "no-slide" version will sound choppier and less fluid.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/f/** and **/θ/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |
