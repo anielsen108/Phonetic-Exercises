@@ -9,6 +9,43 @@
 
 ---
 
+## Introductory Drill
+
+Say **"had wanted"** slowly and notice how **/d/** prepares for **/w/**. You'll feel the articulators shifting from alveolar to labial-velar position, creating a smooth transition between the two sounds.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "had | wanted," then blend: "had‑wanted."
+* Freeze on the **/d/**: establish clear tongue tip contacts alveolar ridge, then feel the shift toward **/w/** (lips round, tongue back raises).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/hæd̚ ˈwɑntɪd/`
+* Narrow (coarticulation shown): `[hæd̚̚ ˈwɑntɪd̚[`
+
+  * **[d̚]** = unreleased stop before word boundary or next consonant
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/w/** early, so **/d/** begins shifting toward the labial-velar target.
+* **Place assimilation:** the alveolar articulation moves toward labial-velar, creating a smooth transition.
+* **Release economy:** **/d/** may go unreleased **[d̚]**, with articulators moving directly to **/w/** position.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Record yourself saying "had wanted" at three speeds: slow, medium, fast. Listen for how the **/d/-/w/** transition becomes smoother and more overlapped at faster tempos.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/d/** and **/w/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

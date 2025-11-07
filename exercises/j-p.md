@@ -9,6 +9,43 @@
 
 ---
 
+## Introductory Drill
+
+Say **"my plan"** slowly and notice how **/j/** prepares for **/p/**. You'll feel the articulators shifting from palatal to bilabial position, creating a smooth transition between the two sounds.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "my | plan," then blend: "my‑plan."
+* Freeze on the **/j/**: establish clear tongue front raises toward hard palate, then feel the shift toward **/p/** (lips close).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/maɪ pʰlæn/`
+* Narrow (coarticulation shown): `[maɪ pʰlæn[`
+
+  * **Voicing transition** = glottis shifts from voiced to voiceless
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/p/** early, so **/j/** begins shifting toward the bilabial target.
+* **Place assimilation:** the palatal articulation moves toward bilabial, creating a smooth transition.
+* **Voicing adjustment:** the shift from voiced to voiceless may show partial devoicing or voicing anticipation.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Hum gently while saying "my plan" to track voicing. Notice where your vocal folds stop/start vibrating as you move from **/j/** to **/p/**.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/j/** and **/p/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

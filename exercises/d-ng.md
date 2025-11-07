@@ -9,6 +9,43 @@
 
 ---
 
+## Introductory Drill
+
+Say **"had Nguyen"** slowly and feel how **/d/** begins shifting toward **/ŋ/**. The tongue back starts rising toward the velum (soft palate) while the **/d/** articulation is still completing, creating anticipatory coarticulation.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "had | Nguyen," then blend: "had‑Nguyen."
+* Freeze on the **/d/**: establish clear tongue tip contacts alveolar ridge, then feel the shift toward **/ŋ/** (tongue back contacts soft palate, velum lowers).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/hæd̥̚ ŋwiən/`
+* Narrow (coarticulation shown): `[hæd̥̚̚ ŋwiən[`
+
+  * **[d̚]** = unreleased stop before word boundary or next consonant
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/ŋ/** early, so **/d/** begins shifting toward the velar target.
+* **Place assimilation:** the alveolar articulation moves toward velar, creating a smooth transition.
+* **Release economy:** **/d/** may go unreleased **[d̚]**, with articulators moving directly to **/ŋ/** position.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Record yourself saying "had Nguyen" at three speeds: slow, medium, fast. Listen for how the **/d/-/ŋ/** transition becomes smoother and more overlapped at faster tempos.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/d/** and **/ŋ/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

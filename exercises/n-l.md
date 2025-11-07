@@ -9,6 +9,41 @@
 
 ---
 
+## Introductory Drill
+
+Say **"in late"** slowly and notice how **/n/** flows into **/l/**. Both sounds share the same alveolar place of articulation, but differ in their manner, creating a smooth homorganic transition.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "in | late," then blend: "in‑late."
+* Freeze on the **/n/**: establish clear tongue tip contacts alveolar ridge, velum lowers, then feel the shift toward **/l/** (tongue tip contacts alveolar ridge, air flows laterally).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/ɪn leɪt/`
+* Narrow (coarticulation shown): `[ɪn leɪt[`
+
+  * **Coarticulation** = articulators prepare for **[l]** during **[n]**
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/l/** early, so **/n/** begins shifting toward the alveolar target.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Record yourself saying "in late" at three speeds: slow, medium, fast. Listen for how the **/n/-/l/** transition becomes smoother and more overlapped at faster tempos.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/n/** and **/l/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

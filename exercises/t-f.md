@@ -9,6 +9,43 @@
 
 ---
 
+## Introductory Drill
+
+Say **"at first"** slowly and notice how **/t/** prepares for **/f/**. You'll feel the articulators shifting from alveolar to labiodental position, creating a smooth transition between the two sounds.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "at | first," then blend: "at‑first."
+* Freeze on the **/t/**: establish clear tongue tip contacts alveolar ridge, then feel the shift toward **/f/** (lower lip touches upper teeth).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/æt̚ fɝst/`
+* Narrow (coarticulation shown): `[æt̚̚ fɝst̚[`
+
+  * **[t̚]** = unreleased stop before word boundary or next consonant
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/f/** early, so **/t/** begins shifting toward the labiodental target.
+* **Place assimilation:** the alveolar articulation moves toward labiodental, creating a smooth transition.
+* **Release economy:** **/t/** may go unreleased **[t̚]**, with articulators moving directly to **/f/** position.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Record yourself saying "at first" at three speeds: slow, medium, fast. Listen for how the **/t/-/f/** transition becomes smoother and more overlapped at faster tempos.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/t/** and **/f/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

@@ -9,6 +9,42 @@
 
 ---
 
+## Introductory Drill
+
+Say **"this place"** slowly and notice how **/s/** prepares for **/p/**. Your lips begin rounding or closing even while the tongue is still positioned for **/s/**, creating a smooth articulatory overlap.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "this | place," then blend: "this‑place."
+* Freeze on the **/s/**: establish clear tongue tip near alveolar ridge, then feel the shift toward **/p/** (lips close).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/ðɪs pʰleɪs/`
+* Narrow (coarticulation shown): `[ðɪs pʰleɪs[`
+
+  * **Coarticulation** = articulators prepare for **[p]** during **[s]**
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/p/** early, so **/s/** begins shifting toward the bilabial target.
+* **Place assimilation:** the alveolar articulation moves toward bilabial, creating a smooth transition.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Record yourself saying "this place" at three speeds: slow, medium, fast. Listen for how the **/s/-/p/** transition becomes smoother and more overlapped at faster tempos.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/s/** and **/p/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

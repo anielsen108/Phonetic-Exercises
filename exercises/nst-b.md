@@ -9,6 +9,44 @@
 
 ---
 
+## Introductory Drill
+
+Say **"against better judgment"** slowly and notice how **/nst/** prepares for **/b/**. You'll feel the articulators shifting from nst to bilabial position, creating a smooth transition between the two sounds.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "against | better | judgment," then blend: "against‑better‑judgment."
+* Freeze on the **/nst/**: establish clear nst articulation, then feel the shift toward **/b/** (lips close).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/əˈɡɛnst̚ ˈbɛɾɚ ˈd͡ʒʌd͡ʒmənt/`
+* Narrow (coarticulation shown): `[əˈɡɛnst̚ ˈbɛɾɚ ˈd͡ʒʌd͡ʒmənt[`
+
+  * **[nst̚]** = unreleased stop before word boundary or next consonant
+  * **Voicing transition** = glottis shifts from X to voiced
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/b/** early, so **/nst/** begins shifting toward the bilabial target.
+* **Place assimilation:** the nst articulation moves toward bilabial, creating a smooth transition.
+* **Voicing adjustment:** the shift from X to voiced may show partial devoicing or voicing anticipation.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Hum gently while saying "against better judgment" to track voicing. Notice where your vocal folds stop/start vibrating as you move from **/nst/** to **/b/**.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/nst/** and **/b/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

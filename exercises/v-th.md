@@ -9,6 +9,44 @@
 
 ---
 
+## Introductory Drill
+
+Say **"have three"** slowly and notice how **/v/** prepares for **/θ/**. You'll feel the articulators shifting from labiodental to dental position, creating a smooth transition between the two sounds.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "have | three," then blend: "have‑three."
+* Freeze on the **/v/**: establish clear lower lip touches upper teeth, then feel the shift toward **/θ/** (tongue tip touches upper teeth).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/hæv̪ θ̪ɹi/`
+* Narrow (coarticulation shown): `[hæv̪ θ̪ɹi[`
+
+  * **Dentalization** = tongue contact moves forward to teeth anticipating **[θ]**
+  * **Voicing transition** = glottis shifts from voiced to voiceless
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/θ/** early, so **/v/** begins shifting toward the dental target.
+* **Place assimilation:** the labiodental articulation moves toward dental, creating a smooth transition.
+* **Voicing adjustment:** the shift from voiced to voiceless may show partial devoicing or voicing anticipation.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Tap your upper front teeth lightly with the tongue tip on **/v/** as you slide into **/θ/**; then do the same line forcing yourself **not** to slide (keep **/v/** at its original position). The "no-slide" version will sound choppier and less fluid.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/v/** and **/θ/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

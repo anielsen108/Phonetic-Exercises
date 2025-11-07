@@ -9,6 +9,45 @@
 
 ---
 
+## Introductory Drill
+
+Say **"at just"** slowly and notice how **/t/** prepares for **/dʒ/**. You'll feel the articulators shifting from alveolar to postalveolar position, creating a smooth transition between the two sounds.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "at | just," then blend: "at‑just."
+* Freeze on the **/t/**: establish clear tongue tip contacts alveolar ridge, then feel the shift toward **/dʒ/** (tongue releases into ʒ).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/æt̚ d͡ʒʌst/`
+* Narrow (coarticulation shown): `[æt̚̚ d͡ʒʌst̚[`
+
+  * **[t̚]** = unreleased stop before word boundary or next consonant
+  * **Voicing transition** = glottis shifts from voiceless to voiced
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/dʒ/** early, so **/t/** begins shifting toward the postalveolar target.
+* **Place assimilation:** the alveolar articulation moves toward postalveolar, creating a smooth transition.
+* **Voicing adjustment:** the shift from voiceless to voiced may show partial devoicing or voicing anticipation.
+* **Release economy:** **/t/** may go unreleased **[t̚]**, with articulators moving directly to **/dʒ/** position.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Hum gently while saying "at just" to track voicing. Notice where your vocal folds stop/start vibrating as you move from **/t/** to **/dʒ/**.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/t/** and **/dʒ/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

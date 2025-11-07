@@ -9,6 +9,44 @@
 
 ---
 
+## Introductory Drill
+
+Say **"best year"** slowly and notice how **/st/** prepares for **/j/**. You'll feel the articulators shifting from st to palatal position, creating a smooth transition between the two sounds.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "best | year," then blend: "best‑year."
+* Freeze on the **/st/**: establish clear st articulation, then feel the shift toward **/j/** (tongue front raises toward hard palate).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/bɛst̚ jiɹ/`
+* Narrow (coarticulation shown): `[bɛst̚ jiɹ[`
+
+  * **[st̚]** = unreleased stop before word boundary or next consonant
+  * **Voicing transition** = glottis shifts from X to voiced
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/j/** early, so **/st/** begins shifting toward the palatal target.
+* **Place assimilation:** the st articulation moves toward palatal, creating a smooth transition.
+* **Voicing adjustment:** the shift from X to voiced may show partial devoicing or voicing anticipation.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Hum gently while saying "best year" to track voicing. Notice where your vocal folds stop/start vibrating as you move from **/st/** to **/j/**.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/st/** and **/j/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

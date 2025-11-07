@@ -9,6 +9,45 @@
 
 ---
 
+## Introductory Drill
+
+Say **"back yard"** slowly and notice how **/k/** prepares for **/j/**. You'll feel the articulators shifting from velar to palatal position, creating a smooth transition between the two sounds.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "back | yard," then blend: "back‑yard."
+* Freeze on the **/k/**: establish clear tongue back contacts soft palate, then feel the shift toward **/j/** (tongue front raises toward hard palate).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/bæk jɑɹd/`
+* Narrow (coarticulation shown): `[bæk̚ jɑɹd[`
+
+  * **[k̚]** = unreleased stop before word boundary or next consonant
+  * **Voicing transition** = glottis shifts from voiceless to voiced
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/j/** early, so **/k/** begins shifting toward the palatal target.
+* **Place assimilation:** the velar articulation moves toward palatal, creating a smooth transition.
+* **Voicing adjustment:** the shift from voiceless to voiced may show partial devoicing or voicing anticipation.
+* **Release economy:** **/k/** may go unreleased **[k̚]**, with articulators moving directly to **/j/** position.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Hum gently while saying "back yard" to track voicing. Notice where your vocal folds stop/start vibrating as you move from **/k/** to **/j/**.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/k/** and **/j/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

@@ -9,6 +9,44 @@
 
 ---
 
+## Introductory Drill
+
+Say **"at three"** slowly and listen for how **/t/** shifts as it anticipates **/θ/**. You'll feel the tongue tip slide from the alveolar ridge toward a **dentalized** position—making contact with the back of your upper teeth as you transition into **/θ/**.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "at | three," then blend: "at‑three."
+* Freeze on the **/t/**: establish clear tongue tip contacts alveolar ridge, then feel the shift toward **/θ/** (tongue tip touches upper teeth).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/æt̪̚ θ̪ɹi/`
+* Narrow (coarticulation shown): `[æt̪̪̚̚ θ̪̪ɹi[`
+
+  * **[t̚]** = unreleased stop before word boundary or next consonant
+  * **Dentalization** = tongue contact moves forward to teeth anticipating **[θ]**
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/θ/** early, so **/t/** begins shifting toward the dental target.
+* **Place assimilation:** the alveolar articulation moves toward dental, creating a smooth transition.
+* **Release economy:** **/t/** may go unreleased **[t̚]**, with articulators moving directly to **/θ/** position.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Tap your upper front teeth lightly with the tongue tip on **/t/** as you slide into **/θ/**; then do the same line forcing yourself **not** to slide (keep **/t/** at its original position). The "no-slide" version will sound choppier and less fluid.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/t/** and **/θ/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

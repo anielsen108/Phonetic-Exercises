@@ -9,6 +9,45 @@
 
 ---
 
+## Introductory Drill
+
+Say **"against thinking"** slowly and notice how **/nst/** prepares for **/θ/**. You'll feel the articulators shifting from nst to dental position, creating a smooth transition between the two sounds.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "against | thinking," then blend: "against‑thinking."
+* Freeze on the **/nst/**: establish clear nst articulation, then feel the shift toward **/θ/** (tongue tip touches upper teeth).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/əˈɡɛns̪t̪̚ θ̪ɪŋkɪŋ/`
+* Narrow (coarticulation shown): `[əˈɡɛns̪t̪̚ θ̪ɪŋkɪŋ[`
+
+  * **[nst̚]** = unreleased stop before word boundary or next consonant
+  * **Dentalization** = tongue contact moves forward to teeth anticipating **[θ]**
+  * **Voicing transition** = glottis shifts from X to voiceless
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/θ/** early, so **/nst/** begins shifting toward the dental target.
+* **Place assimilation:** the nst articulation moves toward dental, creating a smooth transition.
+* **Voicing adjustment:** the shift from X to voiceless may show partial devoicing or voicing anticipation.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Tap your upper front teeth lightly with the tongue tip on **/nst/** as you slide into **/θ/**; then do the same line forcing yourself **not** to slide (keep **/nst/** at its original position). The "no-slide" version will sound choppier and less fluid.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/nst/** and **/θ/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

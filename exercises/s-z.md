@@ -9,6 +9,42 @@
 
 ---
 
+## Introductory Drill
+
+Say **"this zone"** slowly and notice how **/s/** flows into **/z/**. Both sounds share the same alveolar place of articulation, but differ in their manner, creating a smooth homorganic transition.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "this | zone," then blend: "this‑zone."
+* Freeze on the **/s/**: establish clear tongue tip near alveolar ridge, then feel the shift toward **/z/** (tongue tip near alveolar ridge).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/ðɪz zoʊn/`
+* Narrow (coarticulation shown): `[ðɪz zoʊn[`
+
+  * **Voicing transition** = glottis shifts from voiceless to voiced
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/z/** early, so **/s/** begins shifting toward the alveolar target.
+* **Voicing adjustment:** the shift from voiceless to voiced may show partial devoicing or voicing anticipation.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Hum gently while saying "this zone" to track voicing. Notice where your vocal folds stop/start vibrating as you move from **/s/** to **/z/**.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/s/** and **/z/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

@@ -9,6 +9,43 @@
 
 ---
 
+## Introductory Drill
+
+Say **"which guy"** slowly and feel how **/tʃ/** begins shifting toward **/g/**. The tongue back starts rising toward the velum (soft palate) while the **/tʃ/** articulation is still completing, creating anticipatory coarticulation.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "which | guy," then blend: "which‑guy."
+* Freeze on the **/tʃ/**: establish clear tongue releases into ʃ, then feel the shift toward **/g/** (tongue back contacts soft palate).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/wɪtʃ ɡaɪ/`
+* Narrow (coarticulation shown): `[wɪtʃ ɡaɪ[`
+
+  * **Voicing transition** = glottis shifts from voiceless to voiced
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/g/** early, so **/tʃ/** begins shifting toward the velar target.
+* **Place assimilation:** the postalveolar articulation moves toward velar, creating a smooth transition.
+* **Voicing adjustment:** the shift from voiceless to voiced may show partial devoicing or voicing anticipation.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Hum gently while saying "which guy" to track voicing. Notice where your vocal folds stop/start vibrating as you move from **/tʃ/** to **/g/**.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/tʃ/** and **/g/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

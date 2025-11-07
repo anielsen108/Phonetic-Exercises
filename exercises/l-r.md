@@ -9,6 +9,42 @@
 
 ---
 
+## Introductory Drill
+
+Say **"will run"** slowly and notice how **/l/** prepares for **/r/**. You'll feel the articulators shifting from alveolar to postalveolar position, creating a smooth transition between the two sounds.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "will | run," then blend: "will‑run."
+* Freeze on the **/l/**: establish clear tongue tip contacts alveolar ridge, air flows laterally, then feel the shift toward **/r/** (tongue bunches or curls).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/wɪɫ ɹʌn/`
+* Narrow (coarticulation shown): `[wɪɫ ɹʌn[`
+
+  * **Coarticulation** = articulators prepare for **[r]** during **[l]**
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/r/** early, so **/l/** begins shifting toward the postalveolar target.
+* **Place assimilation:** the alveolar articulation moves toward postalveolar, creating a smooth transition.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Record yourself saying "will run" at three speeds: slow, medium, fast. Listen for how the **/l/-/r/** transition becomes smoother and more overlapped at faster tempos.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/l/** and **/r/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

@@ -9,6 +9,42 @@
 
 ---
 
+## Introductory Drill
+
+Say **"which car"** slowly and feel how **/tʃ/** begins shifting toward **/k/**. The tongue back starts rising toward the velum (soft palate) while the **/tʃ/** articulation is still completing, creating anticipatory coarticulation.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "which | car," then blend: "which‑car."
+* Freeze on the **/tʃ/**: establish clear tongue releases into ʃ, then feel the shift toward **/k/** (tongue back contacts soft palate).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/wɪtʃ kʰɑɹ/`
+* Narrow (coarticulation shown): `[wɪtʃ kʰɑɹ[`
+
+  * **Coarticulation** = articulators prepare for **[k]** during **[tʃ]**
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/k/** early, so **/tʃ/** begins shifting toward the velar target.
+* **Place assimilation:** the postalveolar articulation moves toward velar, creating a smooth transition.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Record yourself saying "which car" at three speeds: slow, medium, fast. Listen for how the **/tʃ/-/k/** transition becomes smoother and more overlapped at faster tempos.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/tʃ/** and **/k/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

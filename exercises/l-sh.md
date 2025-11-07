@@ -9,6 +9,43 @@
 
 ---
 
+## Introductory Drill
+
+Say **"will show"** slowly and notice how **/l/** prepares for **/ʃ/**. You'll feel the articulators shifting from alveolar to postalveolar position, creating a smooth transition between the two sounds.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "will | show," then blend: "will‑show."
+* Freeze on the **/l/**: establish clear tongue tip contacts alveolar ridge, air flows laterally, then feel the shift toward **/ʃ/** (tongue blade near hard palate).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/wɪɫ ʃoʊ/`
+* Narrow (coarticulation shown): `[wɪɫ ʃoʊ[`
+
+  * **Voicing transition** = glottis shifts from voiced to voiceless
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/ʃ/** early, so **/l/** begins shifting toward the postalveolar target.
+* **Place assimilation:** the alveolar articulation moves toward postalveolar, creating a smooth transition.
+* **Voicing adjustment:** the shift from voiced to voiceless may show partial devoicing or voicing anticipation.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Hum gently while saying "will show" to track voicing. Notice where your vocal folds stop/start vibrating as you move from **/l/** to **/ʃ/**.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/l/** and **/ʃ/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

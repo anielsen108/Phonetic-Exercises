@@ -9,6 +9,43 @@
 
 ---
 
+## Introductory Drill
+
+Say **"beige car"** slowly and feel how **/ʒ/** begins shifting toward **/k/**. The tongue back starts rising toward the velum (soft palate) while the **/ʒ/** articulation is still completing, creating anticipatory coarticulation.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "beige | car," then blend: "beige‑car."
+* Freeze on the **/ʒ/**: establish clear tongue blade near hard palate, then feel the shift toward **/k/** (tongue back contacts soft palate).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/beɪʒ kʰɑɹ/`
+* Narrow (coarticulation shown): `[beɪʒ kʰɑɹ[`
+
+  * **Voicing transition** = glottis shifts from voiced to voiceless
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/k/** early, so **/ʒ/** begins shifting toward the velar target.
+* **Place assimilation:** the postalveolar articulation moves toward velar, creating a smooth transition.
+* **Voicing adjustment:** the shift from voiced to voiceless may show partial devoicing or voicing anticipation.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Hum gently while saying "beige car" to track voicing. Notice where your vocal folds stop/start vibrating as you move from **/ʒ/** to **/k/**.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/ʒ/** and **/k/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

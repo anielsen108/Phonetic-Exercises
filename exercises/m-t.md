@@ -9,6 +9,43 @@
 
 ---
 
+## Introductory Drill
+
+Say **"time to"** slowly and notice how **/m/** prepares for **/t/**. You'll feel the articulators shifting from bilabial to alveolar position, creating a smooth transition between the two sounds.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "time | to," then blend: "time‑to."
+* Freeze on the **/m/**: establish clear lips close, velum lowers, then feel the shift toward **/t/** (tongue tip contacts alveolar ridge).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/tʰaɪm tə/`
+* Narrow (coarticulation shown): `[tʰaɪm tə[`
+
+  * **Voicing transition** = glottis shifts from voiced to voiceless
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/t/** early, so **/m/** begins shifting toward the alveolar target.
+* **Place assimilation:** the bilabial articulation moves toward alveolar, creating a smooth transition.
+* **Voicing adjustment:** the shift from voiced to voiceless may show partial devoicing or voicing anticipation.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Hum gently while saying "time to" to track voicing. Notice where your vocal folds stop/start vibrating as you move from **/m/** to **/t/**.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/m/** and **/t/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

@@ -9,6 +9,45 @@
 
 ---
 
+## Introductory Drill
+
+Say **"big problem"** slowly and notice how **/g/** prepares for **/p/**. You'll feel the articulators shifting from velar to bilabial position, creating a smooth transition between the two sounds.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "big | problem," then blend: "big‑problem."
+* Freeze on the **/g/**: establish clear tongue back contacts soft palate, then feel the shift toward **/p/** (lips close).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/bɪɡ̊̚ ˈpʰɹɑbləm/`
+* Narrow (coarticulation shown): `[bɪɡ̊̚ ˈpʰɹɑbləm[`
+
+  * **[g̚]** = unreleased stop before word boundary or next consonant
+  * **Voicing transition** = glottis shifts from voiced to voiceless
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/p/** early, so **/g/** begins shifting toward the bilabial target.
+* **Place assimilation:** the velar articulation moves toward bilabial, creating a smooth transition.
+* **Voicing adjustment:** the shift from voiced to voiceless may show partial devoicing or voicing anticipation.
+* **Release economy:** **/g/** may go unreleased **[g̚]**, with articulators moving directly to **/p/** position.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Say "big problem" with a big pause between **/g/** and **/p/** (fully releasing **/g/**). Then say it naturally without the pause. You'll hear how the release disappears in fluent speech.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/g/** and **/p/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

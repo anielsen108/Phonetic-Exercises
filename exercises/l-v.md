@@ -9,6 +9,42 @@
 
 ---
 
+## Introductory Drill
+
+Say **"will very"** slowly and notice how **/l/** prepares for **/v/**. You'll feel the articulators shifting from alveolar to labiodental position, creating a smooth transition between the two sounds.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "will | very," then blend: "will‑very."
+* Freeze on the **/l/**: establish clear tongue tip contacts alveolar ridge, air flows laterally, then feel the shift toward **/v/** (lower lip touches upper teeth).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/wɪɫ ˈvɛɹi/`
+* Narrow (coarticulation shown): `[wɪɫ ˈvɛɹi[`
+
+  * **Coarticulation** = articulators prepare for **[v]** during **[l]**
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/v/** early, so **/l/** begins shifting toward the labiodental target.
+* **Place assimilation:** the alveolar articulation moves toward labiodental, creating a smooth transition.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Record yourself saying "will very" at three speeds: slow, medium, fast. Listen for how the **/l/-/v/** transition becomes smoother and more overlapped at faster tempos.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/l/** and **/v/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

@@ -9,6 +9,42 @@
 
 ---
 
+## Introductory Drill
+
+Say **"her book"** slowly and notice how **/r/** prepares for **/b/**. Your lips begin rounding or closing even while the tongue is still positioned for **/r/**, creating a smooth articulatory overlap.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "her | book," then blend: "her‑book."
+* Freeze on the **/r/**: establish clear tongue bunches or curls, then feel the shift toward **/b/** (lips close).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/hɚ bʊk/`
+* Narrow (coarticulation shown): `[hɚ bʊk[`
+
+  * **Coarticulation** = articulators prepare for **[b]** during **[r]**
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/b/** early, so **/r/** begins shifting toward the bilabial target.
+* **Place assimilation:** the postalveolar articulation moves toward bilabial, creating a smooth transition.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Record yourself saying "her book" at three speeds: slow, medium, fast. Listen for how the **/r/-/b/** transition becomes smoother and more overlapped at faster tempos.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/r/** and **/b/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

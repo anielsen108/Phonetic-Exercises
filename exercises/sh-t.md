@@ -9,6 +9,42 @@
 
 ---
 
+## Introductory Drill
+
+Say **"wash time"** slowly and notice how **/ʃ/** prepares for **/t/**. You'll feel the articulators shifting from postalveolar to alveolar position, creating a smooth transition between the two sounds.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "wash | time," then blend: "wash‑time."
+* Freeze on the **/ʃ/**: establish clear tongue blade near hard palate, then feel the shift toward **/t/** (tongue tip contacts alveolar ridge).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/wɑʃ tʰaɪm/`
+* Narrow (coarticulation shown): `[wɑʃ tʰaɪm[`
+
+  * **Coarticulation** = articulators prepare for **[t]** during **[ʃ]**
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/t/** early, so **/ʃ/** begins shifting toward the alveolar target.
+* **Place assimilation:** the postalveolar articulation moves toward alveolar, creating a smooth transition.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Record yourself saying "wash time" at three speeds: slow, medium, fast. Listen for how the **/ʃ/-/t/** transition becomes smoother and more overlapped at faster tempos.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/ʃ/** and **/t/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

@@ -9,6 +9,42 @@
 
 ---
 
+## Introductory Drill
+
+Say **"time done"** slowly and notice how **/m/** prepares for **/d/**. You'll feel the articulators shifting from bilabial to alveolar position, creating a smooth transition between the two sounds.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "time | done," then blend: "time‑done."
+* Freeze on the **/m/**: establish clear lips close, velum lowers, then feel the shift toward **/d/** (tongue tip contacts alveolar ridge).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/tʰaɪm dʌn/`
+* Narrow (coarticulation shown): `[tʰaɪm dʌn[`
+
+  * **Coarticulation** = articulators prepare for **[d]** during **[m]**
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/d/** early, so **/m/** begins shifting toward the alveolar target.
+* **Place assimilation:** the bilabial articulation moves toward alveolar, creating a smooth transition.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Record yourself saying "time done" at three speeds: slow, medium, fast. Listen for how the **/m/-/d/** transition becomes smoother and more overlapped at faster tempos.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/m/** and **/d/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

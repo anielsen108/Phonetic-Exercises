@@ -9,6 +9,41 @@
 
 ---
 
+## Introductory Drill
+
+Say **"large room"** slowly and notice how **/dʒ/** flows into **/r/**. Both sounds share the same postalveolar place of articulation, but differ in their manner, creating a smooth homorganic transition.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "large | room," then blend: "large‑room."
+* Freeze on the **/dʒ/**: establish clear tongue releases into ʒ, then feel the shift toward **/r/** (tongue bunches or curls).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/lɑɹdʒ ɹum/`
+* Narrow (coarticulation shown): `[lɑɹdʒ ɹum[`
+
+  * **Coarticulation** = articulators prepare for **[r]** during **[dʒ]**
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/r/** early, so **/dʒ/** begins shifting toward the postalveolar target.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Record yourself saying "large room" at three speeds: slow, medium, fast. Listen for how the **/dʒ/-/r/** transition becomes smoother and more overlapped at faster tempos.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/dʒ/** and **/r/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

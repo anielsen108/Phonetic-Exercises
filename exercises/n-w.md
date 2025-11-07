@@ -9,6 +9,42 @@
 
 ---
 
+## Introductory Drill
+
+Say **"in work"** slowly and notice how **/n/** prepares for **/w/**. You'll feel the articulators shifting from alveolar to labial-velar position, creating a smooth transition between the two sounds.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "in | work," then blend: "in‑work."
+* Freeze on the **/n/**: establish clear tongue tip contacts alveolar ridge, velum lowers, then feel the shift toward **/w/** (lips round, tongue back raises).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/ɪn wɝk/`
+* Narrow (coarticulation shown): `[ɪn wɝk[`
+
+  * **Coarticulation** = articulators prepare for **[w]** during **[n]**
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/w/** early, so **/n/** begins shifting toward the labial-velar target.
+* **Place assimilation:** the alveolar articulation moves toward labial-velar, creating a smooth transition.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Record yourself saying "in work" at three speeds: slow, medium, fast. Listen for how the **/n/-/w/** transition becomes smoother and more overlapped at faster tempos.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/n/** and **/w/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

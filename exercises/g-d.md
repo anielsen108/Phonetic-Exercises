@@ -9,6 +9,43 @@
 
 ---
 
+## Introductory Drill
+
+Say **"big deal"** slowly and notice how **/g/** prepares for **/d/**. You'll feel the articulators shifting from velar to alveolar position, creating a smooth transition between the two sounds.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "big | deal," then blend: "big‑deal."
+* Freeze on the **/g/**: establish clear tongue back contacts soft palate, then feel the shift toward **/d/** (tongue tip contacts alveolar ridge).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/bɪɡ̚ dil/`
+* Narrow (coarticulation shown): `[bɪɡ̚ dil[`
+
+  * **[g̚]** = unreleased stop before word boundary or next consonant
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/d/** early, so **/g/** begins shifting toward the alveolar target.
+* **Place assimilation:** the velar articulation moves toward alveolar, creating a smooth transition.
+* **Release economy:** **/g/** may go unreleased **[g̚]**, with articulators moving directly to **/d/** position.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Say "big deal" with a big pause between **/g/** and **/d/** (fully releasing **/g/**). Then say it naturally without the pause. You'll hear how the release disappears in fluent speech.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/g/** and **/d/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

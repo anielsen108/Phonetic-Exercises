@@ -9,6 +9,43 @@
 
 ---
 
+## Introductory Drill
+
+Say **"big window"** slowly and notice how **/g/** prepares for **/w/**. You'll feel the articulators shifting from velar to labial-velar position, creating a smooth transition between the two sounds.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "big | window," then blend: "big‑window."
+* Freeze on the **/g/**: establish clear tongue back contacts soft palate, then feel the shift toward **/w/** (lips round, tongue back raises).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/bɪɡ̚ ˈwɪndoʊ/`
+* Narrow (coarticulation shown): `[bɪɡ̚ ˈwɪndoʊ[`
+
+  * **[g̚]** = unreleased stop before word boundary or next consonant
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/w/** early, so **/g/** begins shifting toward the labial-velar target.
+* **Place assimilation:** the velar articulation moves toward labial-velar, creating a smooth transition.
+* **Release economy:** **/g/** may go unreleased **[g̚]**, with articulators moving directly to **/w/** position.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Record yourself saying "big window" at three speeds: slow, medium, fast. Listen for how the **/g/-/w/** transition becomes smoother and more overlapped at faster tempos.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/g/** and **/w/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

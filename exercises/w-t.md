@@ -9,6 +9,43 @@
 
 ---
 
+## Introductory Drill
+
+Say **"now take"** slowly and notice how **/w/** prepares for **/t/**. You'll feel the articulators shifting from labial-velar to alveolar position, creating a smooth transition between the two sounds.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "now | take," then blend: "now‑take."
+* Freeze on the **/w/**: establish clear lips round, tongue back raises, then feel the shift toward **/t/** (tongue tip contacts alveolar ridge).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/naʊ tʰeɪk/`
+* Narrow (coarticulation shown): `[naʊ tʰeɪk[`
+
+  * **Voicing transition** = glottis shifts from voiced to voiceless
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/t/** early, so **/w/** begins shifting toward the alveolar target.
+* **Place assimilation:** the labial-velar articulation moves toward alveolar, creating a smooth transition.
+* **Voicing adjustment:** the shift from voiced to voiceless may show partial devoicing or voicing anticipation.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Hum gently while saying "now take" to track voicing. Notice where your vocal folds stop/start vibrating as you move from **/w/** to **/t/**.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/w/** and **/t/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

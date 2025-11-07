@@ -9,6 +9,41 @@
 
 ---
 
+## Introductory Drill
+
+Say **"some boys"** slowly and notice how **/m/** flows into **/b/**. Both sounds share the same bilabial place of articulation, but differ in their manner, creating a smooth homorganic transition.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "some | boys," then blend: "some‑boys."
+* Freeze on the **/m/**: establish clear lips close, velum lowers, then feel the shift toward **/b/** (lips close).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/sʌm bɔɪz/`
+* Narrow (coarticulation shown): `[sʌm bɔɪz[`
+
+  * **Coarticulation** = articulators prepare for **[b]** during **[m]**
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/b/** early, so **/m/** begins shifting toward the bilabial target.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Record yourself saying "some boys" at three speeds: slow, medium, fast. Listen for how the **/m/-/b/** transition becomes smoother and more overlapped at faster tempos.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/m/** and **/b/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

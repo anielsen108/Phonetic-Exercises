@@ -9,6 +9,43 @@
 
 ---
 
+## Introductory Drill
+
+Say **"time soon"** slowly and notice how **/m/** prepares for **/s/**. You'll feel the articulators shifting from bilabial to alveolar position, creating a smooth transition between the two sounds.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "time | soon," then blend: "time‑soon."
+* Freeze on the **/m/**: establish clear lips close, velum lowers, then feel the shift toward **/s/** (tongue tip near alveolar ridge).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/tʰaɪm sun/`
+* Narrow (coarticulation shown): `[tʰaɪm sun[`
+
+  * **Voicing transition** = glottis shifts from voiced to voiceless
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/s/** early, so **/m/** begins shifting toward the alveolar target.
+* **Place assimilation:** the bilabial articulation moves toward alveolar, creating a smooth transition.
+* **Voicing adjustment:** the shift from voiced to voiceless may show partial devoicing or voicing anticipation.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Hum gently while saying "time soon" to track voicing. Notice where your vocal folds stop/start vibrating as you move from **/m/** to **/s/**.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/m/** and **/s/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

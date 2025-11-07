@@ -9,6 +9,44 @@
 
 ---
 
+## Introductory Drill
+
+Say **"this the one"** slowly and listen for how **/s/** shifts as it anticipates **/ð/**. You'll feel the tongue tip slide from the alveolar ridge toward a **dentalized** position—making contact with the back of your upper teeth as you transition into **/ð/**.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "this | the | one," then blend: "this‑the‑one."
+* Freeze on the **/s/**: establish clear tongue tip near alveolar ridge, then feel the shift toward **/ð/** (tongue tip touches upper teeth).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/ðɪs̪ ð̪ə wʌn/`
+* Narrow (coarticulation shown): `[ð̪ɪs̪̪ ð̪̪ə wʌn[`
+
+  * **Dentalization** = tongue contact moves forward to teeth anticipating **[ð]**
+  * **Voicing transition** = glottis shifts from voiceless to voiced
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/ð/** early, so **/s/** begins shifting toward the dental target.
+* **Place assimilation:** the alveolar articulation moves toward dental, creating a smooth transition.
+* **Voicing adjustment:** the shift from voiceless to voiced may show partial devoicing or voicing anticipation.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Tap your upper front teeth lightly with the tongue tip on **/s/** as you slide into **/ð/**; then do the same line forcing yourself **not** to slide (keep **/s/** at its original position). The "no-slide" version will sound choppier and less fluid.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/s/** and **/ð/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

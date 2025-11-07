@@ -9,6 +9,42 @@
 
 ---
 
+## Introductory Drill
+
+Say **"in good"** slowly and feel how **/n/** begins shifting toward **/g/**. The tongue back starts rising toward the velum (soft palate) while the **/n/** articulation is still completing, creating anticipatory coarticulation.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "in | good," then blend: "in‑good."
+* Freeze on the **/n/**: establish clear tongue tip contacts alveolar ridge, velum lowers, then feel the shift toward **/g/** (tongue back contacts soft palate).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/ɪŋ ɡʊd/`
+* Narrow (coarticulation shown): `[ɪŋ ɡʊd[`
+
+  * **Coarticulation** = articulators prepare for **[g]** during **[n]**
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/g/** early, so **/n/** begins shifting toward the velar target.
+* **Place assimilation:** the alveolar articulation moves toward velar, creating a smooth transition.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Record yourself saying "in good" at three speeds: slow, medium, fast. Listen for how the **/n/-/g/** transition becomes smoother and more overlapped at faster tempos.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/n/** and **/g/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

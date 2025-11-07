@@ -9,6 +9,43 @@
 
 ---
 
+## Introductory Drill
+
+Say **"bad guy"** slowly and feel how **/d/** begins shifting toward **/g/**. The tongue back starts rising toward the velum (soft palate) while the **/d/** articulation is still completing, creating anticipatory coarticulation.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "bad | guy," then blend: "bad‑guy."
+* Freeze on the **/d/**: establish clear tongue tip contacts alveolar ridge, then feel the shift toward **/g/** (tongue back contacts soft palate).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/bæd̚ ɡaɪ/`
+* Narrow (coarticulation shown): `[bæd̚̚ ɡaɪ[`
+
+  * **[d̚]** = unreleased stop before word boundary or next consonant
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/g/** early, so **/d/** begins shifting toward the velar target.
+* **Place assimilation:** the alveolar articulation moves toward velar, creating a smooth transition.
+* **Release economy:** **/d/** may go unreleased **[d̚]**, with articulators moving directly to **/g/** position.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Say "bad guy" with a big pause between **/d/** and **/g/** (fully releasing **/d/**). Then say it naturally without the pause. You'll hear how the release disappears in fluent speech.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/d/** and **/g/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

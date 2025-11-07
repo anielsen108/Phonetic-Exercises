@@ -9,6 +9,42 @@
 
 ---
 
+## Introductory Drill
+
+Say **"large dog"** slowly and notice how **/dʒ/** prepares for **/d/**. You'll feel the articulators shifting from postalveolar to alveolar position, creating a smooth transition between the two sounds.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "large | dog," then blend: "large‑dog."
+* Freeze on the **/dʒ/**: establish clear tongue releases into ʒ, then feel the shift toward **/d/** (tongue tip contacts alveolar ridge).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/lɑɹdʒ dɔɡ/`
+* Narrow (coarticulation shown): `[lɑɹdʒ dɔɡ[`
+
+  * **Coarticulation** = articulators prepare for **[d]** during **[dʒ]**
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/d/** early, so **/dʒ/** begins shifting toward the alveolar target.
+* **Place assimilation:** the postalveolar articulation moves toward alveolar, creating a smooth transition.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Record yourself saying "large dog" at three speeds: slow, medium, fast. Listen for how the **/dʒ/-/d/** transition becomes smoother and more overlapped at faster tempos.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/dʒ/** and **/d/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

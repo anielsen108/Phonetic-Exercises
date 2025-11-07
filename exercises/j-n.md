@@ -9,6 +9,42 @@
 
 ---
 
+## Introductory Drill
+
+Say **"my name"** slowly and notice how **/j/** prepares for **/n/**. You'll feel the articulators shifting from palatal to alveolar position, creating a smooth transition between the two sounds.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "my | name," then blend: "my‑name."
+* Freeze on the **/j/**: establish clear tongue front raises toward hard palate, then feel the shift toward **/n/** (tongue tip contacts alveolar ridge, velum lowers).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/maɪ neɪm/`
+* Narrow (coarticulation shown): `[maɪ neɪm[`
+
+  * **Coarticulation** = articulators prepare for **[n]** during **[j]**
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/n/** early, so **/j/** begins shifting toward the alveolar target.
+* **Place assimilation:** the palatal articulation moves toward alveolar, creating a smooth transition.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Record yourself saying "my name" at three speeds: slow, medium, fast. Listen for how the **/j/-/n/** transition becomes smoother and more overlapped at faster tempos.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/j/** and **/n/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

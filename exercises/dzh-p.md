@@ -9,6 +9,43 @@
 
 ---
 
+## Introductory Drill
+
+Say **"large piece"** slowly and notice how **/dʒ/** prepares for **/p/**. Your lips begin rounding or closing even while the tongue is still positioned for **/dʒ/**, creating a smooth articulatory overlap.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "large | piece," then blend: "large‑piece."
+* Freeze on the **/dʒ/**: establish clear tongue releases into ʒ, then feel the shift toward **/p/** (lips close).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/lɑɹdʒ pʰis/`
+* Narrow (coarticulation shown): `[lɑɹdʒ pʰis[`
+
+  * **Voicing transition** = glottis shifts from voiced to voiceless
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/p/** early, so **/dʒ/** begins shifting toward the bilabial target.
+* **Place assimilation:** the postalveolar articulation moves toward bilabial, creating a smooth transition.
+* **Voicing adjustment:** the shift from voiced to voiceless may show partial devoicing or voicing anticipation.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Hum gently while saying "large piece" to track voicing. Notice where your vocal folds stop/start vibrating as you move from **/dʒ/** to **/p/**.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/dʒ/** and **/p/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

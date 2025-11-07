@@ -9,6 +9,44 @@
 
 ---
 
+## Introductory Drill
+
+Say **"needs"** slowly and notice how **/d/** flows into **/s/**. Both sounds share the same alveolar place of articulation, but differ in their manner, creating a smooth homorganic transition.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "needs," then blend: "needs."
+* Freeze on the **/d/**: establish clear tongue tip contacts alveolar ridge, then feel the shift toward **/s/** (tongue tip near alveolar ridge).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/nidz/`
+* Narrow (coarticulation shown): `[nid̚z[`
+
+  * **[d̚]** = unreleased stop before word boundary or next consonant
+  * **Voicing transition** = glottis shifts from voiced to voiceless
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/s/** early, so **/d/** begins shifting toward the alveolar target.
+* **Voicing adjustment:** the shift from voiced to voiceless may show partial devoicing or voicing anticipation.
+* **Release economy:** **/d/** may go unreleased **[d̚]**, with articulators moving directly to **/s/** position.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Hum gently while saying "needs" to track voicing. Notice where your vocal folds stop/start vibrating as you move from **/d/** to **/s/**.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/d/** and **/s/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

@@ -9,6 +9,42 @@
 
 ---
 
+## Introductory Drill
+
+Say **"this day"** slowly and notice how **/s/** flows into **/d/**. Both sounds share the same alveolar place of articulation, but differ in their manner, creating a smooth homorganic transition.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "this | day," then blend: "this‑day."
+* Freeze on the **/s/**: establish clear tongue tip near alveolar ridge, then feel the shift toward **/d/** (tongue tip contacts alveolar ridge).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/ðɪz deɪ/`
+* Narrow (coarticulation shown): `[ðɪz deɪ[`
+
+  * **Voicing transition** = glottis shifts from voiceless to voiced
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/d/** early, so **/s/** begins shifting toward the alveolar target.
+* **Voicing adjustment:** the shift from voiceless to voiced may show partial devoicing or voicing anticipation.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Hum gently while saying "this day" to track voicing. Notice where your vocal folds stop/start vibrating as you move from **/s/** to **/d/**.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/s/** and **/d/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

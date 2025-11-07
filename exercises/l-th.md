@@ -9,6 +9,44 @@
 
 ---
 
+## Introductory Drill
+
+Say **"health"** slowly and listen for how **/l/** shifts as it anticipates **/θ/**. You'll feel the tongue tip slide from the alveolar ridge toward a **dentalized** position—making contact with the back of your upper teeth as you transition into **/θ/**.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "health," then blend: "health."
+* Freeze on the **/l/**: establish clear tongue tip contacts alveolar ridge, air flows laterally, then feel the shift toward **/θ/** (tongue tip touches upper teeth).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/hɛɫθ/`
+* Narrow (coarticulation shown): `[hɛɫθ̪[`
+
+  * **Dentalization** = tongue contact moves forward to teeth anticipating **[θ]**
+  * **Voicing transition** = glottis shifts from voiced to voiceless
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/θ/** early, so **/l/** begins shifting toward the dental target.
+* **Place assimilation:** the alveolar articulation moves toward dental, creating a smooth transition.
+* **Voicing adjustment:** the shift from voiced to voiceless may show partial devoicing or voicing anticipation.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Tap your upper front teeth lightly with the tongue tip on **/l/** as you slide into **/θ/**; then do the same line forcing yourself **not** to slide (keep **/l/** at its original position). The "no-slide" version will sound choppier and less fluid.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/l/** and **/θ/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

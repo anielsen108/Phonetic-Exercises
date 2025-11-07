@@ -9,6 +9,41 @@
 
 ---
 
+## Introductory Drill
+
+Say **"last time"** slowly and notice how **/s/** flows into **/t/**. Both sounds share the same alveolar place of articulation, but differ in their manner, creating a smooth homorganic transition.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "last | time," then blend: "last‑time."
+* Freeze on the **/s/**: establish clear tongue tip near alveolar ridge, then feel the shift toward **/t/** (tongue tip contacts alveolar ridge).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/læst̚ tʰaɪm/`
+* Narrow (coarticulation shown): `[læst̚ tʰaɪm[`
+
+  * **[s̚]** = unreleased stop before word boundary or next consonant
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/t/** early, so **/s/** begins shifting toward the alveolar target.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Record yourself saying "last time" at three speeds: slow, medium, fast. Listen for how the **/s/-/t/** transition becomes smoother and more overlapped at faster tempos.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/s/** and **/t/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

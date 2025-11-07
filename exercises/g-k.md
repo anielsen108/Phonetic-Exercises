@@ -9,6 +9,44 @@
 
 ---
 
+## Introductory Drill
+
+Say **"big car"** slowly and notice how **/g/** flows into **/k/**. Both sounds share the same velar place of articulation, but differ in their manner, creating a smooth homorganic transition.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "big | car," then blend: "big‑car."
+* Freeze on the **/g/**: establish clear tongue back contacts soft palate, then feel the shift toward **/k/** (tongue back contacts soft palate).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/bɪɡ̊̚ kʰɑɹ/`
+* Narrow (coarticulation shown): `[bɪɡ̊̚ kʰɑɹ[`
+
+  * **[g̚]** = unreleased stop before word boundary or next consonant
+  * **Voicing transition** = glottis shifts from voiced to voiceless
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/k/** early, so **/g/** begins shifting toward the velar target.
+* **Voicing adjustment:** the shift from voiced to voiceless may show partial devoicing or voicing anticipation.
+* **Release economy:** **/g/** may go unreleased **[g̚]**, with articulators moving directly to **/k/** position.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Say "big car" with a big pause between **/g/** and **/k/** (fully releasing **/g/**). Then say it naturally without the pause. You'll hear how the release disappears in fluent speech.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/g/** and **/k/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

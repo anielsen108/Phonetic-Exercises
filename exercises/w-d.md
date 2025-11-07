@@ -9,6 +9,42 @@
 
 ---
 
+## Introductory Drill
+
+Say **"how did"** slowly and notice how **/w/** prepares for **/d/**. You'll feel the articulators shifting from labial-velar to alveolar position, creating a smooth transition between the two sounds.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "how | did," then blend: "how‑did."
+* Freeze on the **/w/**: establish clear lips round, tongue back raises, then feel the shift toward **/d/** (tongue tip contacts alveolar ridge).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/haʊ dɪd/`
+* Narrow (coarticulation shown): `[haʊ dɪd[`
+
+  * **Coarticulation** = articulators prepare for **[d]** during **[w]**
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/d/** early, so **/w/** begins shifting toward the alveolar target.
+* **Place assimilation:** the labial-velar articulation moves toward alveolar, creating a smooth transition.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Record yourself saying "how did" at three speeds: slow, medium, fast. Listen for how the **/w/-/d/** transition becomes smoother and more overlapped at faster tempos.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/w/** and **/d/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

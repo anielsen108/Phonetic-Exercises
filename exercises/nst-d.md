@@ -9,6 +9,44 @@
 
 ---
 
+## Introductory Drill
+
+Say **"against darkness"** slowly and notice how **/nst/** prepares for **/d/**. You'll feel the articulators shifting from nst to alveolar position, creating a smooth transition between the two sounds.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "against | darkness," then blend: "against‑darkness."
+* Freeze on the **/nst/**: establish clear nst articulation, then feel the shift toward **/d/** (tongue tip contacts alveolar ridge).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/əˈɡɛnst̚ ˈdɑɹknəs/`
+* Narrow (coarticulation shown): `[əˈɡɛnst̚ ˈdɑɹknəs[`
+
+  * **[nst̚]** = unreleased stop before word boundary or next consonant
+  * **Voicing transition** = glottis shifts from X to voiced
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/d/** early, so **/nst/** begins shifting toward the alveolar target.
+* **Place assimilation:** the nst articulation moves toward alveolar, creating a smooth transition.
+* **Voicing adjustment:** the shift from X to voiced may show partial devoicing or voicing anticipation.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Hum gently while saying "against darkness" to track voicing. Notice where your vocal folds stop/start vibrating as you move from **/nst/** to **/d/**.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/nst/** and **/d/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

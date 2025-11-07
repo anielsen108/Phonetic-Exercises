@@ -9,6 +9,42 @@
 
 ---
 
+## Introductory Drill
+
+Say **"large yacht"** slowly and notice how **/dʒ/** prepares for **/j/**. You'll feel the articulators shifting from postalveolar to palatal position, creating a smooth transition between the two sounds.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "large | yacht," then blend: "large‑yacht."
+* Freeze on the **/dʒ/**: establish clear tongue releases into ʒ, then feel the shift toward **/j/** (tongue front raises toward hard palate).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/lɑɹdʒ jɑt/`
+* Narrow (coarticulation shown): `[lɑɹdʒ jɑt[`
+
+  * **Coarticulation** = articulators prepare for **[j]** during **[dʒ]**
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/j/** early, so **/dʒ/** begins shifting toward the palatal target.
+* **Place assimilation:** the postalveolar articulation moves toward palatal, creating a smooth transition.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Record yourself saying "large yacht" at three speeds: slow, medium, fast. Listen for how the **/dʒ/-/j/** transition becomes smoother and more overlapped at faster tempos.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/dʒ/** and **/j/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

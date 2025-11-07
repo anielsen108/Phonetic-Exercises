@@ -9,6 +9,45 @@
 
 ---
 
+## Introductory Drill
+
+Say **"stop running"** slowly and notice how **/p/** prepares for **/r/**. You'll feel the articulators shifting from bilabial to postalveolar position, creating a smooth transition between the two sounds.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "stop | running," then blend: "stop‑running."
+* Freeze on the **/p/**: establish clear lips close, then feel the shift toward **/r/** (tongue bunches or curls).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/stɑp̚ ˈɹʌnɪŋ/`
+* Narrow (coarticulation shown): `[stɑp̚̚ ˈɹʌnɪŋ[`
+
+  * **[p̚]** = unreleased stop before word boundary or next consonant
+  * **Voicing transition** = glottis shifts from voiceless to voiced
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/r/** early, so **/p/** begins shifting toward the postalveolar target.
+* **Place assimilation:** the bilabial articulation moves toward postalveolar, creating a smooth transition.
+* **Voicing adjustment:** the shift from voiceless to voiced may show partial devoicing or voicing anticipation.
+* **Release economy:** **/p/** may go unreleased **[p̚]**, with articulators moving directly to **/r/** position.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Hum gently while saying "stop running" to track voicing. Notice where your vocal folds stop/start vibrating as you move from **/p/** to **/r/**.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/p/** and **/r/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

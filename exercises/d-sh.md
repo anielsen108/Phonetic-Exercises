@@ -9,6 +9,45 @@
 
 ---
 
+## Introductory Drill
+
+Say **"had shoes"** slowly and notice how **/d/** prepares for **/ʃ/**. You'll feel the articulators shifting from alveolar to postalveolar position, creating a smooth transition between the two sounds.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "had | shoes," then blend: "had‑shoes."
+* Freeze on the **/d/**: establish clear tongue tip contacts alveolar ridge, then feel the shift toward **/ʃ/** (tongue blade near hard palate).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/hæd̥̚ ʃuz/`
+* Narrow (coarticulation shown): `[hæd̥̚̚ ʃuz[`
+
+  * **[d̚]** = unreleased stop before word boundary or next consonant
+  * **Voicing transition** = glottis shifts from voiced to voiceless
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/ʃ/** early, so **/d/** begins shifting toward the postalveolar target.
+* **Place assimilation:** the alveolar articulation moves toward postalveolar, creating a smooth transition.
+* **Voicing adjustment:** the shift from voiced to voiceless may show partial devoicing or voicing anticipation.
+* **Release economy:** **/d/** may go unreleased **[d̚]**, with articulators moving directly to **/ʃ/** position.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Hum gently while saying "had shoes" to track voicing. Notice where your vocal folds stop/start vibrating as you move from **/d/** to **/ʃ/**.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/d/** and **/ʃ/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

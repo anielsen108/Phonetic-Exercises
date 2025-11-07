@@ -9,6 +9,42 @@
 
 ---
 
+## Introductory Drill
+
+Say **"large ship"** slowly and notice how **/dʒ/** flows into **/ʃ/**. Both sounds share the same postalveolar place of articulation, but differ in their manner, creating a smooth homorganic transition.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "large | ship," then blend: "large‑ship."
+* Freeze on the **/dʒ/**: establish clear tongue releases into ʒ, then feel the shift toward **/ʃ/** (tongue blade near hard palate).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/lɑɹdʒ ʃɪp/`
+* Narrow (coarticulation shown): `[lɑɹdʒ ʃɪp[`
+
+  * **Voicing transition** = glottis shifts from voiced to voiceless
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/ʃ/** early, so **/dʒ/** begins shifting toward the postalveolar target.
+* **Voicing adjustment:** the shift from voiced to voiceless may show partial devoicing or voicing anticipation.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Hum gently while saying "large ship" to track voicing. Notice where your vocal folds stop/start vibrating as you move from **/dʒ/** to **/ʃ/**.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/dʒ/** and **/ʃ/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

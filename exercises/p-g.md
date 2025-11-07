@@ -9,6 +9,45 @@
 
 ---
 
+## Introductory Drill
+
+Say **"stop going"** slowly and feel how **/p/** begins shifting toward **/g/**. The tongue back starts rising toward the velum (soft palate) while the **/p/** articulation is still completing, creating anticipatory coarticulation.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "stop | going," then blend: "stop‑going."
+* Freeze on the **/p/**: establish clear lips close, then feel the shift toward **/g/** (tongue back contacts soft palate).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/stɑp̚ ˈɡoʊɪŋ/`
+* Narrow (coarticulation shown): `[stɑp̚̚ ˈɡoʊɪŋ[`
+
+  * **[p̚]** = unreleased stop before word boundary or next consonant
+  * **Voicing transition** = glottis shifts from voiceless to voiced
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/g/** early, so **/p/** begins shifting toward the velar target.
+* **Place assimilation:** the bilabial articulation moves toward velar, creating a smooth transition.
+* **Voicing adjustment:** the shift from voiceless to voiced may show partial devoicing or voicing anticipation.
+* **Release economy:** **/p/** may go unreleased **[p̚]**, with articulators moving directly to **/g/** position.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Say "stop going" with a big pause between **/p/** and **/g/** (fully releasing **/p/**). Then say it naturally without the pause. You'll hear how the release disappears in fluent speech.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/p/** and **/g/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

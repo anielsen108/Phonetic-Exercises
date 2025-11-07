@@ -9,6 +9,42 @@
 
 ---
 
+## Introductory Drill
+
+Say **"large wall"** slowly and notice how **/dʒ/** prepares for **/w/**. You'll feel the articulators shifting from postalveolar to labial-velar position, creating a smooth transition between the two sounds.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "large | wall," then blend: "large‑wall."
+* Freeze on the **/dʒ/**: establish clear tongue releases into ʒ, then feel the shift toward **/w/** (lips round, tongue back raises).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/lɑɹdʒ wɔl/`
+* Narrow (coarticulation shown): `[lɑɹdʒ wɔl[`
+
+  * **Coarticulation** = articulators prepare for **[w]** during **[dʒ]**
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/w/** early, so **/dʒ/** begins shifting toward the labial-velar target.
+* **Place assimilation:** the postalveolar articulation moves toward labial-velar, creating a smooth transition.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Record yourself saying "large wall" at three speeds: slow, medium, fast. Listen for how the **/dʒ/-/w/** transition becomes smoother and more overlapped at faster tempos.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/dʒ/** and **/w/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

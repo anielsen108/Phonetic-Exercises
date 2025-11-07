@@ -9,6 +9,44 @@
 
 ---
 
+## Introductory Drill
+
+Say **"against wishes"** slowly and notice how **/nst/** prepares for **/w/**. You'll feel the articulators shifting from nst to labial-velar position, creating a smooth transition between the two sounds.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "against | wishes," then blend: "against‑wishes."
+* Freeze on the **/nst/**: establish clear nst articulation, then feel the shift toward **/w/** (lips round, tongue back raises).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/əˈɡɛnst̚ ˈwɪʃɪz/`
+* Narrow (coarticulation shown): `[əˈɡɛnst̚ ˈwɪʃɪz[`
+
+  * **[nst̚]** = unreleased stop before word boundary or next consonant
+  * **Voicing transition** = glottis shifts from X to voiced
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/w/** early, so **/nst/** begins shifting toward the labial-velar target.
+* **Place assimilation:** the nst articulation moves toward labial-velar, creating a smooth transition.
+* **Voicing adjustment:** the shift from X to voiced may show partial devoicing or voicing anticipation.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Hum gently while saying "against wishes" to track voicing. Notice where your vocal folds stop/start vibrating as you move from **/nst/** to **/w/**.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/nst/** and **/w/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

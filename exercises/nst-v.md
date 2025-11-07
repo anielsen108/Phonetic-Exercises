@@ -9,6 +9,44 @@
 
 ---
 
+## Introductory Drill
+
+Say **"against violence"** slowly and notice how **/nst/** prepares for **/v/**. You'll feel the articulators shifting from nst to labiodental position, creating a smooth transition between the two sounds.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "against | violence," then blend: "against‑violence."
+* Freeze on the **/nst/**: establish clear nst articulation, then feel the shift toward **/v/** (lower lip touches upper teeth).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/əˈɡɛnst̚ ˈvaɪələns/`
+* Narrow (coarticulation shown): `[əˈɡɛnst̚ ˈvaɪələns[`
+
+  * **[nst̚]** = unreleased stop before word boundary or next consonant
+  * **Voicing transition** = glottis shifts from X to voiced
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/v/** early, so **/nst/** begins shifting toward the labiodental target.
+* **Place assimilation:** the nst articulation moves toward labiodental, creating a smooth transition.
+* **Voicing adjustment:** the shift from X to voiced may show partial devoicing or voicing anticipation.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Hum gently while saying "against violence" to track voicing. Notice where your vocal folds stop/start vibrating as you move from **/nst/** to **/v/**.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/nst/** and **/v/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

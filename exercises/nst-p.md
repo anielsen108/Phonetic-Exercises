@@ -9,6 +9,44 @@
 
 ---
 
+## Introductory Drill
+
+Say **"against protocol"** slowly and notice how **/nst/** prepares for **/p/**. You'll feel the articulators shifting from nst to bilabial position, creating a smooth transition between the two sounds.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "against | protocol," then blend: "against‑protocol."
+* Freeze on the **/nst/**: establish clear nst articulation, then feel the shift toward **/p/** (lips close).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/əˈɡɛnst̚ pʰɹoʊ̯təˌkʰɑl/`
+* Narrow (coarticulation shown): `[əˈɡɛnst̚ pʰɹoʊ̯təˌkʰɑl[`
+
+  * **[nst̚]** = unreleased stop before word boundary or next consonant
+  * **Voicing transition** = glottis shifts from X to voiceless
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/p/** early, so **/nst/** begins shifting toward the bilabial target.
+* **Place assimilation:** the nst articulation moves toward bilabial, creating a smooth transition.
+* **Voicing adjustment:** the shift from X to voiceless may show partial devoicing or voicing anticipation.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Hum gently while saying "against protocol" to track voicing. Notice where your vocal folds stop/start vibrating as you move from **/nst/** to **/p/**.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/nst/** and **/p/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

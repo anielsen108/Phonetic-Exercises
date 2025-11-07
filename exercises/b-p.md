@@ -9,6 +9,44 @@
 
 ---
 
+## Introductory Drill
+
+Say **"cab pulled"** slowly and notice how **/b/** flows into **/p/**. Both sounds share the same bilabial place of articulation, but differ in their manner, creating a smooth homorganic transition.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "cab | pulled," then blend: "cab‑pulled."
+* Freeze on the **/b/**: establish clear lips close, then feel the shift toward **/p/** (lips close).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/kʰæb̥̚ pʰʊɫd/`
+* Narrow (coarticulation shown): `[kʰæb̥̚̚ pʰʊɫd[`
+
+  * **[b̚]** = unreleased stop before word boundary or next consonant
+  * **Voicing transition** = glottis shifts from voiced to voiceless
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/p/** early, so **/b/** begins shifting toward the bilabial target.
+* **Voicing adjustment:** the shift from voiced to voiceless may show partial devoicing or voicing anticipation.
+* **Release economy:** **/b/** may go unreleased **[b̚]**, with articulators moving directly to **/p/** position.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Say "cab pulled" with a big pause between **/b/** and **/p/** (fully releasing **/b/**). Then say it naturally without the pause. You'll hear how the release disappears in fluent speech.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/b/** and **/p/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

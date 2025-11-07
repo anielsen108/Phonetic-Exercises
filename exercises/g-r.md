@@ -9,6 +9,43 @@
 
 ---
 
+## Introductory Drill
+
+Say **"big red"** slowly and notice how **/g/** prepares for **/r/**. You'll feel the articulators shifting from velar to postalveolar position, creating a smooth transition between the two sounds.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "big | red," then blend: "big‑red."
+* Freeze on the **/g/**: establish clear tongue back contacts soft palate, then feel the shift toward **/r/** (tongue bunches or curls).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/bɪɡ̚ ɹɛd/`
+* Narrow (coarticulation shown): `[bɪɡ̚ ɹɛd[`
+
+  * **[g̚]** = unreleased stop before word boundary or next consonant
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/r/** early, so **/g/** begins shifting toward the postalveolar target.
+* **Place assimilation:** the velar articulation moves toward postalveolar, creating a smooth transition.
+* **Release economy:** **/g/** may go unreleased **[g̚]**, with articulators moving directly to **/r/** position.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Record yourself saying "big red" at three speeds: slow, medium, fast. Listen for how the **/g/-/r/** transition becomes smoother and more overlapped at faster tempos.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/g/** and **/r/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

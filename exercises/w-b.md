@@ -9,6 +9,42 @@
 
 ---
 
+## Introductory Drill
+
+Say **"now buy"** slowly and notice how **/w/** prepares for **/b/**. You'll feel the articulators shifting from labial-velar to bilabial position, creating a smooth transition between the two sounds.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "now | buy," then blend: "now‑buy."
+* Freeze on the **/w/**: establish clear lips round, tongue back raises, then feel the shift toward **/b/** (lips close).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/naʊ baɪ/`
+* Narrow (coarticulation shown): `[naʊ baɪ[`
+
+  * **Coarticulation** = articulators prepare for **[b]** during **[w]**
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/b/** early, so **/w/** begins shifting toward the bilabial target.
+* **Place assimilation:** the labial-velar articulation moves toward bilabial, creating a smooth transition.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Record yourself saying "now buy" at three speeds: slow, medium, fast. Listen for how the **/w/-/b/** transition becomes smoother and more overlapped at faster tempos.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/w/** and **/b/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

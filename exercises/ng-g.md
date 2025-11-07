@@ -9,6 +9,41 @@
 
 ---
 
+## Introductory Drill
+
+Say **"sing good"** slowly and notice how **/ŋ/** flows into **/g/**. Both sounds share the same velar place of articulation, but differ in their manner, creating a smooth homorganic transition.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "sing | good," then blend: "sing‑good."
+* Freeze on the **/ŋ/**: establish clear tongue back contacts soft palate, velum lowers, then feel the shift toward **/g/** (tongue back contacts soft palate).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/sɪŋ ɡʊd/`
+* Narrow (coarticulation shown): `[sɪŋ ɡʊd[`
+
+  * **Coarticulation** = articulators prepare for **[g]** during **[ŋ]**
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/g/** early, so **/ŋ/** begins shifting toward the velar target.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Record yourself saying "sing good" at three speeds: slow, medium, fast. Listen for how the **/ŋ/-/g/** transition becomes smoother and more overlapped at faster tempos.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/ŋ/** and **/g/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |

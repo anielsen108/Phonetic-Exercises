@@ -9,6 +9,42 @@
 
 ---
 
+## Introductory Drill
+
+Say **"beige door"** slowly and notice how **/ʒ/** prepares for **/d/**. You'll feel the articulators shifting from postalveolar to alveolar position, creating a smooth transition between the two sounds.
+
+🗣️ **What to do**
+
+* Speak it in slow motion: "beige | door," then blend: "beige‑door."
+* Freeze on the **/ʒ/**: establish clear tongue blade near hard palate, then feel the shift toward **/d/** (tongue tip contacts alveolar ridge).
+* Repeat in three tempos: whisper → comfortable → projected.
+* Add three intentions: confidential, neutral, declarative-authoritative.
+
+📌 **Tight IPA (Neutral Broadcast GA)**
+
+* Broad: `/beɪʒ dɔɹ/`
+* Narrow (coarticulation shown): `[beɪʒ dɔɹ[`
+
+  * **Coarticulation** = articulators prepare for **[d]** during **[ʒ]**
+
+🔎 **What you're noticing (plain English)**
+
+* **Anticipatory coarticulation:** your brain preps **/d/** early, so **/ʒ/** begins shifting toward the alveolar target.
+* **Place assimilation:** the postalveolar articulation moves toward alveolar, creating a smooth transition.
+
+🎧 **Mini-experiment (no gear required)**
+
+* Record yourself saying "beige door" at three speeds: slow, medium, fast. Listen for how the **/ʒ/-/d/** transition becomes smoother and more overlapped at faster tempos.
+
+🎼 **Performance tweak**
+
+* For clarity: maintain distinct **/ʒ/** and **/d/** articulations—crisp, news-reader polish.
+* For intimacy: let the articulations blend and overlap more—warmer, more conversational flow.
+
+---
+
+---
+
 ## 1. Segmental Foundations
 
 | Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |
