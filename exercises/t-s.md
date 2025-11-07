@@ -11,25 +11,25 @@
 
 ### Example 1
 **Phrase:** at school
-**IPA:** `/æt̚ skul/`
+**IPA:** `/æ(t̚) skuɫ/`
 
-**Notes:** Natural phrase from connected speechFocus on the transition from voiceless alveolar stop to voiceless alveolar fricative.
+**Notes:** Homorganic alveolar: /t/ often deleted before /s/; or unreleased /t̚s/
 
 ---
 
 ### Example 2
-**Phrase:** great service
-**IPA:** `/ɡɹeɪt̚ ˈsɜɹvɪs/`
+**Phrase:** cats
+**IPA:** `/kʰæts/`
 
-**Notes:** Natural phrase from connected speechPractice in connected speech across word boundaries.
+**Notes:** Released /t/ within word: audible [ts] sequence
 
 ---
 
 ### Example 3
-**Phrase:** not some
-**IPA:** `//nɑt̚ sʌm///`
+**Phrase:** it seems
+**IPA:** `/ɪt̚ simz/`
 
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** /t/ may be deleted or unreleased before /s/
 
 ---
 
@@ -37,15 +37,15 @@
 
 - **Starting position:** voiceless alveolar stop
 - **Target position:** voiceless alveolar fricative
-- **Key transition:** Move smoothly from the final position of /t/ to the initial position of /s/. Anticipate the second sound while completing the first.
+- **Key transition:** /t/ may be deleted or unreleased before /s/
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

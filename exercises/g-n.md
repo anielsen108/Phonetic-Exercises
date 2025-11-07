@@ -10,26 +10,10 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** big new
-**IPA:** `//bɪɡ̚ nu///`
+**Phrase:** big nose
+**IPA:** `/bɪɡ̚ noʊz/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from voiced velar stop to alveolar nasal.
-
----
-
-### Example 2
-**Phrase:** bag now
-**IPA:** `//bæɡ̚ naʊ///`
-
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** dog next
-**IPA:** `//dɔɡ̚ nɛkst///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Velar → alveolar nasal
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** voiced velar stop
 - **Target position:** alveolar nasal
-- **Key transition:** Move smoothly from the final position of /g/ to the initial position of /n/. Anticipate the second sound while completing the first.
+- **Key transition:** Velar → alveolar nasal
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

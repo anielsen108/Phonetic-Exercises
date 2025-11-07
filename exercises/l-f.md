@@ -10,26 +10,10 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** call first
-**IPA:** `//kʰɔl fɜɹst///`
+**Phrase:** self
+**IPA:** `/sɛɫf/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from alveolar lateral to voiceless labiodental fricative.
-
----
-
-### Example 2
-**Phrase:** will five
-**IPA:** `//wɪl faɪv///`
-
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** all for
-**IPA:** `//ɔl fɔɹ///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Dark lateral → labiodental
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** alveolar lateral
 - **Target position:** voiceless labiodental fricative
-- **Key transition:** Move smoothly from the final position of /l/ to the initial position of /f/. Anticipate the second sound while completing the first.
+- **Key transition:** Dark lateral → labiodental
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

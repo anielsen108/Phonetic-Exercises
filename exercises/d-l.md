@@ -10,26 +10,18 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** had late
-**IPA:** `//hæd̚ leɪt///`
+**Phrase:** bad luck
+**IPA:** `/bæd̚ lʌk/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from voiced alveolar stop to alveolar lateral.
+**Notes:** Lateral release: sides lower during /l/
 
 ---
 
 ### Example 2
-**Phrase:** need look
-**IPA:** `//nid̚ lʊk///`
+**Phrase:** middle
+**IPA:** `/ˈmɪdɫ̩/`
 
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** read last
-**IPA:** `//ɹid̚ læst///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Dark lateral [ɫ̩] syllabic
 
 ---
 
@@ -37,15 +29,15 @@
 
 - **Starting position:** voiced alveolar stop
 - **Target position:** alveolar lateral
-- **Key transition:** Move smoothly from the final position of /d/ to the initial position of /l/. Anticipate the second sound while completing the first.
+- **Key transition:** Dark lateral [ɫ̩] syllabic
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

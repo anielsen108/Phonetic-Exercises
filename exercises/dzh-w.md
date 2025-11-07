@@ -10,26 +10,10 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** judge way
-**IPA:** `//dʒʌdʒ weɪ///`
+**Phrase:** large wall
+**IPA:** `/lɑɹdʒ wɔl/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from voiced postalveolar affricate to labial-velar approximant.
-
----
-
-### Example 2
-**Phrase:** edge will
-**IPA:** `//ɛdʒ wɪl///`
-
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** large want
-**IPA:** `//lɑɹdʒ wɑnt///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Affricate → labiovelar
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** voiced postalveolar affricate
 - **Target position:** labial-velar approximant
-- **Key transition:** Move smoothly from the final position of /dʒ/ to the initial position of /w/. Anticipate the second sound while completing the first.
+- **Key transition:** Affricate → labiovelar
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

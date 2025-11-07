@@ -10,26 +10,10 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** judge yes
-**IPA:** `//dʒʌdʒ jɛs///`
+**Phrase:** large yacht
+**IPA:** `/lɑɹdʒ jɑt/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from voiced postalveolar affricate to palatal approximant.
-
----
-
-### Example 2
-**Phrase:** edge you
-**IPA:** `//ɛdʒ ju///`
-
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** large year
-**IPA:** `//lɑɹdʒ jiɹ///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Affricate → palatal approximant
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** voiced postalveolar affricate
 - **Target position:** palatal approximant
-- **Key transition:** Move smoothly from the final position of /dʒ/ to the initial position of /j/. Anticipate the second sound while completing the first.
+- **Key transition:** Affricate → palatal approximant
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

@@ -13,23 +13,15 @@
 **Phrase:** had vision
 **IPA:** `/hæd̚ ˈvɪʒən/`
 
-**Notes:** Natural phrase from connected speechFocus on the transition from voiced alveolar stop to voiced labiodental fricative.
+**Notes:** Voiced continuity: maintained voicing through transition
 
 ---
 
 ### Example 2
-**Phrase:** red vest
-**IPA:** `/ɹɛd̚ vɛst/`
+**Phrase:** good value
+**IPA:** `/ɡʊd̚ ˈvælju/`
 
-**Notes:** Natural phrase from connected speechPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** read value
-**IPA:** `//ɹid̚ ˈvælju///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Labiodental voicing
 
 ---
 
@@ -37,15 +29,15 @@
 
 - **Starting position:** voiced alveolar stop
 - **Target position:** voiced labiodental fricative
-- **Key transition:** Move smoothly from the final position of /d/ to the initial position of /v/. Anticipate the second sound while completing the first.
+- **Key transition:** Labiodental voicing
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

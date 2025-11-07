@@ -11,25 +11,9 @@
 
 ### Example 1
 **Phrase:** in late
-**IPA:** `//ɪn leɪt///`
+**IPA:** `/ɪn leɪt/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from alveolar nasal to alveolar lateral.
-
----
-
-### Example 2
-**Phrase:** when look
-**IPA:** `//wɛn lʊk///`
-
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** can last
-**IPA:** `//kʰæn læst///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Nasal → lateral
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** alveolar nasal
 - **Target position:** alveolar lateral
-- **Key transition:** Move smoothly from the final position of /n/ to the initial position of /l/. Anticipate the second sound while completing the first.
+- **Key transition:** Nasal → lateral
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

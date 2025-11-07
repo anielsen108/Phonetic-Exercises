@@ -10,26 +10,18 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** have time
-**IPA:** `//hæv tʰaɪm///`
+**Phrase:** have to
+**IPA:** `/hæv tə/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from voiced labiodental fricative to voiceless alveolar stop.
+**Notes:** Voiced fricative → voiceless stop: /t/ may devoice /v/ slightly
 
 ---
 
 ### Example 2
-**Phrase:** save take
-**IPA:** `//seɪv tʰeɪk///`
+**Phrase:** five times
+**IPA:** `/faɪv tʰaɪmz/`
 
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** give today
-**IPA:** `//ɡɪv təˈdeɪ///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Labiodental → alveolar
 
 ---
 
@@ -37,15 +29,15 @@
 
 - **Starting position:** voiced labiodental fricative
 - **Target position:** voiceless alveolar stop
-- **Key transition:** Move smoothly from the final position of /v/ to the initial position of /t/. Anticipate the second sound while completing the first.
+- **Key transition:** Labiodental → alveolar
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

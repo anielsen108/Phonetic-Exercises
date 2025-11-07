@@ -10,26 +10,18 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** had yes
-**IPA:** `//hæd̚ jɛs///`
+**Phrase:** did you
+**IPA:** `/dɪd͡ʒ ju/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from voiced alveolar stop to palatal approximant.
+**Notes:** Coalescence to [d͡ʒ]: palatalization
 
 ---
 
 ### Example 2
-**Phrase:** need you
-**IPA:** `//nid̚ ju///`
+**Phrase:** would you
+**IPA:** `/wʊd͡ʒ ju/`
 
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** read year
-**IPA:** `//ɹid̚ jiɹ///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Common /dj/ → [d͡ʒ] merger
 
 ---
 
@@ -37,15 +29,15 @@
 
 - **Starting position:** voiced alveolar stop
 - **Target position:** palatal approximant
-- **Key transition:** Move smoothly from the final position of /d/ to the initial position of /j/. Anticipate the second sound while completing the first.
+- **Key transition:** Common /dj/ → [d͡ʒ] merger
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

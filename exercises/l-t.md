@@ -10,26 +10,18 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** call time
-**IPA:** `//kʰɔl tʰaɪm///`
+**Phrase:** felt
+**IPA:** `/fɛɫt/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from alveolar lateral to voiceless alveolar stop.
+**Notes:** Dark /ɫ/ before alveolar stop
 
 ---
 
 ### Example 2
 **Phrase:** will take
-**IPA:** `//wɪl tʰeɪk///`
+**IPA:** `/wɪɫ tʰeɪk/`
 
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** all today
-**IPA:** `//ɔl təˈdeɪ///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Lateral → stop
 
 ---
 
@@ -37,15 +29,15 @@
 
 - **Starting position:** alveolar lateral
 - **Target position:** voiceless alveolar stop
-- **Key transition:** Move smoothly from the final position of /l/ to the initial position of /t/. Anticipate the second sound while completing the first.
+- **Key transition:** Lateral → stop
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

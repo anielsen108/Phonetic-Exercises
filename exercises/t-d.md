@@ -13,23 +13,23 @@
 **Phrase:** at dawn
 **IPA:** `/æt̚ dɔn/`
 
-**Notes:** Natural phrase from connected speechFocus on the transition from voiceless alveolar stop to voiced alveolar stop.
+**Notes:** Homorganic: same place, different voicing; may merge to single [t̚] or [d̚]
 
 ---
 
 ### Example 2
-**Phrase:** great day
-**IPA:** `/ɡɹeɪt̚ deɪ/`
+**Phrase:** not done
+**IPA:** `/nɑt̚ dʌn/`
 
-**Notes:** Natural phrase from connected speechPractice in connected speech across word boundaries.
+**Notes:** Often realized as single stop with ambiguous voicing
 
 ---
 
 ### Example 3
-**Phrase:** not doing
-**IPA:** `//nɑt̚ ˈduɪŋ///`
+**Phrase:** quite dark
+**IPA:** `/kʰwaɪt̚ dɑɹk/`
 
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Voicing contrast at same articulation point
 
 ---
 
@@ -37,15 +37,15 @@
 
 - **Starting position:** voiceless alveolar stop
 - **Target position:** voiced alveolar stop
-- **Key transition:** Move smoothly from the final position of /t/ to the initial position of /d/. Anticipate the second sound while completing the first.
+- **Key transition:** Voicing contrast at same articulation point
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

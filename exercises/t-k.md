@@ -13,7 +13,7 @@
 **Phrase:** at camp
 **IPA:** `/æt̚ kʰæmp/`
 
-**Notes:** Natural phrase from connected speechFocus on the transition from voiceless alveolar stop to voiceless velar stop.
+**Notes:** Place shift alveolar→velar; /t̚/ unreleased, /kʰ/ aspirated
 
 ---
 
@@ -21,15 +21,15 @@
 **Phrase:** not clean
 **IPA:** `/nɑt̚ kʰlin/`
 
-**Notes:** Natural phrase from connected speechPractice in connected speech across word boundaries.
+**Notes:** Tongue tip stays at alveolar ridge through velar closure
 
 ---
 
 ### Example 3
-**Phrase:** not came
-**IPA:** `//nɑt̚ kʰeɪm///`
+**Phrase:** night club
+**IPA:** `/naɪt̚ kʰlʌb/`
 
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Double articulation: maintain /t/ contact during /k/ closure
 
 ---
 
@@ -37,15 +37,15 @@
 
 - **Starting position:** voiceless alveolar stop
 - **Target position:** voiceless velar stop
-- **Key transition:** Move smoothly from the final position of /t/ to the initial position of /k/. Anticipate the second sound while completing the first.
+- **Key transition:** Double articulation: maintain /t/ contact during /k/ closure
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

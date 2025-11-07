@@ -10,26 +10,10 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** [Example phrase 1 - j+t]
-**IPA:** `/...jt.../  `
+**Phrase:** my turn
+**IPA:** `/maɪ tʰɝn/`
 
-**Notes:** Note: /j/ rarely occurs in word-final position in EnglishFocus on the transition from palatal approximant to voiceless alveolar stop.
-
----
-
-### Example 2
-**Phrase:** [Example phrase 2 - j+t]
-**IPA:** `/...jt.../  `
-
-**Notes:** Note: /j/ rarely occurs in word-final position in EnglishPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** [Example phrase 3 - j+t]
-**IPA:** `/...jt.../  `
-
-**Notes:** Note: /j/ rarely occurs in word-final position in EnglishMaintain natural timing and rhythm.
+**Notes:** Palatal → alveolar stop
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** palatal approximant
 - **Target position:** voiceless alveolar stop
-- **Key transition:** Move smoothly from the final position of /j/ to the initial position of /t/. Anticipate the second sound while completing the first.
+- **Key transition:** Palatal → alveolar stop
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

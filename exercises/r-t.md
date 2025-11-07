@@ -10,26 +10,18 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** far time
-**IPA:** `//fɑɹ tʰaɪm///`
+**Phrase:** hurt
+**IPA:** `/hɝt/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from alveolar approximant to voiceless alveolar stop.
+**Notes:** Rhotic vowel + alveolar stop
 
 ---
 
 ### Example 2
-**Phrase:** here take
-**IPA:** `//hiɹ tʰeɪk///`
+**Phrase:** eart
+**IPA:** `/ɚt/`
 
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** more today
-**IPA:** `//moɹ təˈdeɪ///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Retroflex → alveolar
 
 ---
 
@@ -37,15 +29,15 @@
 
 - **Starting position:** alveolar approximant
 - **Target position:** voiceless alveolar stop
-- **Key transition:** Move smoothly from the final position of /r/ to the initial position of /t/. Anticipate the second sound while completing the first.
+- **Key transition:** Retroflex → alveolar
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

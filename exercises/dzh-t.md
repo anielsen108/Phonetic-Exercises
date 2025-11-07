@@ -10,26 +10,10 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** judge time
-**IPA:** `//dʒʌdʒ tʰaɪm///`
+**Phrase:** large tent
+**IPA:** `/lɑɹdʒ tʰɛnt/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from voiced postalveolar affricate to voiceless alveolar stop.
-
----
-
-### Example 2
-**Phrase:** edge take
-**IPA:** `//ɛdʒ tʰeɪk///`
-
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** large today
-**IPA:** `//lɑɹdʒ təˈdeɪ///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Voiced → voiceless stop
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** voiced postalveolar affricate
 - **Target position:** voiceless alveolar stop
-- **Key transition:** Move smoothly from the final position of /dʒ/ to the initial position of /t/. Anticipate the second sound while completing the first.
+- **Key transition:** Voiced → voiceless stop
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

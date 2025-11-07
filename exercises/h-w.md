@@ -10,26 +10,10 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** [Example phrase 1 - h+w]
-**IPA:** `/...hw.../  `
+**Phrase:** he will
+**IPA:** `/hi wɪɫ/`
 
-**Notes:** Note: /h/ rarely occurs in word-final position in EnglishFocus on the transition from voiceless glottal fricative to labial-velar approximant.
-
----
-
-### Example 2
-**Phrase:** [Example phrase 2 - h+w]
-**IPA:** `/...hw.../  `
-
-**Notes:** Note: /h/ rarely occurs in word-final position in EnglishPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** [Example phrase 3 - h+w]
-**IPA:** `/...hw.../  `
-
-**Notes:** Note: /h/ rarely occurs in word-final position in EnglishMaintain natural timing and rhythm.
+**Notes:** Glottal → labiovelar
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** voiceless glottal fricative
 - **Target position:** labial-velar approximant
-- **Key transition:** Move smoothly from the final position of /h/ to the initial position of /w/. Anticipate the second sound while completing the first.
+- **Key transition:** Glottal → labiovelar
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

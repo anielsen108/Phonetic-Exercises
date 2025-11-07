@@ -10,26 +10,18 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** had way
-**IPA:** `//hæd̚ weɪ///`
+**Phrase:** had wanted
+**IPA:** `/hæd̚ ˈwɑntɪd/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from voiced alveolar stop to labial-velar approximant.
+**Notes:** Labial gesture: lip rounding begins during /d/
 
 ---
 
 ### Example 2
-**Phrase:** need will
-**IPA:** `//nid̚ wɪl///`
+**Phrase:** good wine
+**IPA:** `/ɡʊd̚ waɪn/`
 
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** read want
-**IPA:** `//ɹid̚ wɑnt///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Labiovelar approximant after stop
 
 ---
 
@@ -37,15 +29,15 @@
 
 - **Starting position:** voiced alveolar stop
 - **Target position:** labial-velar approximant
-- **Key transition:** Move smoothly from the final position of /d/ to the initial position of /w/. Anticipate the second sound while completing the first.
+- **Key transition:** Labiovelar approximant after stop
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

@@ -10,26 +10,10 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** big way
-**IPA:** `//bɪɡ̚ weɪ///`
+**Phrase:** big window
+**IPA:** `/bɪɡ̚ ˈwɪndoʊ/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from voiced velar stop to labial-velar approximant.
-
----
-
-### Example 2
-**Phrase:** bag will
-**IPA:** `//bæɡ̚ wɪl///`
-
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** dog want
-**IPA:** `//dɔɡ̚ wɑnt///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Labialization anticipation
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** voiced velar stop
 - **Target position:** labial-velar approximant
-- **Key transition:** Move smoothly from the final position of /g/ to the initial position of /w/. Anticipate the second sound while completing the first.
+- **Key transition:** Labialization anticipation
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

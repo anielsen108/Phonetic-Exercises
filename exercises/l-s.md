@@ -10,26 +10,10 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** call say
-**IPA:** `//kʰɔl seɪ///`
-
-**Notes:** Practice the transition across word boundaryFocus on the transition from alveolar lateral to voiceless alveolar fricative.
-
----
-
-### Example 2
 **Phrase:** will see
-**IPA:** `//wɪl si///`
+**IPA:** `/wɪɫ si/`
 
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** all some
-**IPA:** `//ɔl sʌm///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Lateral → alveolar fricative
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** alveolar lateral
 - **Target position:** voiceless alveolar fricative
-- **Key transition:** Move smoothly from the final position of /l/ to the initial position of /s/. Anticipate the second sound while completing the first.
+- **Key transition:** Lateral → alveolar fricative
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

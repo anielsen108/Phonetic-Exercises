@@ -11,25 +11,17 @@
 
 ### Example 1
 **Phrase:** against my will
-**IPA:** `/əˈɡɛns̪t̪ maɪ ˈwɪl/`
+**IPA:** `/əˈɡɛnst̚ maɪ wɪɫ/`
 
-**Notes:** Natural phrase from connected speechFocus on the transition from alveolar nasal + voiceless alveolar fricative + voiceless alveolar stop to bilabial nasal.
+**Notes:** Oral stop to nasal: velum lowers during /m/ closure
 
 ---
 
 ### Example 2
 **Phrase:** against modern values
-**IPA:** `/əˈɡɛns̪t̪ ˈmɑdəɹn ˈvæljuz/`
+**IPA:** `/əˈɡɛnst̚ ˈmɑdɚn ˈvæljuz/`
 
-**Notes:** Natural phrase from connected speechPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** against make
-**IPA:** `//əˈɡɛns̪t̪̚ meɪk///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Nasal release possible
 
 ---
 
@@ -37,15 +29,15 @@
 
 - **Starting position:** alveolar nasal + voiceless alveolar fricative + voiceless alveolar stop
 - **Target position:** bilabial nasal
-- **Key transition:** Move smoothly from the final position of /nst/ to the initial position of /m/. Anticipate the second sound while completing the first.
+- **Key transition:** Nasal release possible
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

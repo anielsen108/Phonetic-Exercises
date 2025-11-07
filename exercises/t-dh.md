@@ -13,7 +13,7 @@
 **Phrase:** at the store
 **IPA:** `/æt̪̚ ð̪ə ˈstoɹ/`
 
-**Notes:** Natural phrase from connected speechFocus on the transition from voiceless alveolar stop to voiced dental fricative.
+**Notes:** Dentalized unreleased /t̪̚/: tongue tip contact moves forward to teeth anticipating /ð̪/
 
 ---
 
@@ -21,15 +21,15 @@
 **Phrase:** not the one
 **IPA:** `/nɑt̪̚ ð̪ə wʌn/`
 
-**Notes:** Natural phrase from connected speechPractice in connected speech across word boundaries.
+**Notes:** Complete dental place assimilation; alveolar → dental
 
 ---
 
 ### Example 3
-**Phrase:** not them
-**IPA:** `//nɑt̚ ðɛm///`
+**Phrase:** hit them hard
+**IPA:** `/hɪt̪̚ ð̪əm hɑɹd/`
 
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Tongue tip at teeth throughout transition
 
 ---
 
@@ -37,15 +37,15 @@
 
 - **Starting position:** voiceless alveolar stop
 - **Target position:** voiced dental fricative
-- **Key transition:** Move smoothly from the final position of /t/ to the initial position of /ð/. Anticipate the second sound while completing the first.
+- **Key transition:** Tongue tip at teeth throughout transition
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

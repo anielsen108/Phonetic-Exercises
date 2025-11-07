@@ -10,26 +10,10 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** [Example phrase 1 - h+p]
-**IPA:** `/...hp.../  `
+**Phrase:** he pulled
+**IPA:** `/hi pʰʊɫd/`
 
-**Notes:** Note: /h/ rarely occurs in word-final position in EnglishFocus on the transition from voiceless glottal fricative to voiceless bilabial stop.
-
----
-
-### Example 2
-**Phrase:** [Example phrase 2 - h+p]
-**IPA:** `/...hp.../  `
-
-**Notes:** Note: /h/ rarely occurs in word-final position in EnglishPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** [Example phrase 3 - h+p]
-**IPA:** `/...hp.../  `
-
-**Notes:** Note: /h/ rarely occurs in word-final position in EnglishMaintain natural timing and rhythm.
+**Notes:** Glottal fricative → bilabial stop
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** voiceless glottal fricative
 - **Target position:** voiceless bilabial stop
-- **Key transition:** Move smoothly from the final position of /h/ to the initial position of /p/. Anticipate the second sound while completing the first.
+- **Key transition:** Glottal fricative → bilabial stop
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

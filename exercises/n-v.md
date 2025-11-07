@@ -11,25 +11,9 @@
 
 ### Example 1
 **Phrase:** in very
-**IPA:** `//ɪn ˈvɛɹi///`
+**IPA:** `/ɪn ˈvɛɹi/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from alveolar nasal to voiced labiodental fricative.
-
----
-
-### Example 2
-**Phrase:** when vision
-**IPA:** `//wɛn ˈvɪʒən///`
-
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** can value
-**IPA:** `//kʰæn ˈvælju///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Nasal → voiced fricative
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** alveolar nasal
 - **Target position:** voiced labiodental fricative
-- **Key transition:** Move smoothly from the final position of /n/ to the initial position of /v/. Anticipate the second sound while completing the first.
+- **Key transition:** Nasal → voiced fricative
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

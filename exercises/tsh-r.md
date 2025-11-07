@@ -10,26 +10,10 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** catch right
-**IPA:** `//kʰætʃ ɹaɪt///`
+**Phrase:** much reason
+**IPA:** `/mʌtʃ ˈɹizən/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from voiceless postalveolar affricate to alveolar approximant.
-
----
-
-### Example 2
-**Phrase:** which red
-**IPA:** `//wɪtʃ ɹɛd///`
-
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** much run
-**IPA:** `//mʌtʃ ɹʌn///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Affricate → rhotic
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** voiceless postalveolar affricate
 - **Target position:** alveolar approximant
-- **Key transition:** Move smoothly from the final position of /tʃ/ to the initial position of /r/. Anticipate the second sound while completing the first.
+- **Key transition:** Affricate → rhotic
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

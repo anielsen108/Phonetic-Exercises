@@ -10,26 +10,10 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** just way
-**IPA:** `//dʒʌst̚ weɪ///`
+**Phrase:** just wait
+**IPA:** `/dʒʌst̚ weɪt/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from s + voiceless alveolar stop to labial-velar approximant.
-
----
-
-### Example 2
-**Phrase:** first will
-**IPA:** `//fɜɹst̚ wɪl///`
-
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** against want
-**IPA:** `//əˈɡɛns̪t̪̚ wɑnt///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Cluster → labiovelar
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** s + voiceless alveolar stop
 - **Target position:** labial-velar approximant
-- **Key transition:** Move smoothly from the final position of /st/ to the initial position of /w/. Anticipate the second sound while completing the first.
+- **Key transition:** Cluster → labiovelar
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

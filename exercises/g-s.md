@@ -10,26 +10,10 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** big say
-**IPA:** `//bɪɡ̚ seɪ///`
+**Phrase:** big storm
+**IPA:** `/bɪɡ̊̚ stɔɹm/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from voiced velar stop to voiceless alveolar fricative.
-
----
-
-### Example 2
-**Phrase:** bag see
-**IPA:** `//bæɡ̚ si///`
-
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** dog some
-**IPA:** `//dɔɡ̚ sʌm///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Devoicing before voiceless cluster
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** voiced velar stop
 - **Target position:** voiceless alveolar fricative
-- **Key transition:** Move smoothly from the final position of /g/ to the initial position of /s/. Anticipate the second sound while completing the first.
+- **Key transition:** Devoicing before voiceless cluster
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

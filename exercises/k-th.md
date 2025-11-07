@@ -10,26 +10,10 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** back think
-**IPA:** `//bæk̚ θɪŋk///`
+**Phrase:** back three
+**IPA:** `/bæk̪̚ θ̪ɹi/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from voiceless velar stop to voiceless dental fricative.
-
----
-
-### Example 2
-**Phrase:** quick three
-**IPA:** `//kwɪk̚ θɹi///`
-
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** make thank
-**IPA:** `//meɪk̚ θæŋk///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Velar → dental place shift
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** voiceless velar stop
 - **Target position:** voiceless dental fricative
-- **Key transition:** Move smoothly from the final position of /k/ to the initial position of /θ/. Anticipate the second sound while completing the first.
+- **Key transition:** Velar → dental place shift
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

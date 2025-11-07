@@ -11,25 +11,17 @@
 
 ### Example 1
 **Phrase:** bad time
-**IPA:** `/bæd̚ tʰaɪm/`
+**IPA:** `/bæd̥̚ tʰaɪm/`
 
-**Notes:** Natural phrase from connected speechFocus on the transition from voiced alveolar stop to voiceless alveolar stop.
+**Notes:** Devoicing of /d/ before /t/: often merges to [t̚]
 
 ---
 
 ### Example 2
-**Phrase:** need to go
-**IPA:** `/nid̚ tə ɡoʊ/`
+**Phrase:** need to
+**IPA:** `/nid̚ tə/`
 
-**Notes:** Natural phrase from connected speechPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** read today
-**IPA:** `//ɹid̚ təˈdeɪ///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** May reduce to single [t̚] or remain [d̚t]
 
 ---
 
@@ -37,15 +29,15 @@
 
 - **Starting position:** voiced alveolar stop
 - **Target position:** voiceless alveolar stop
-- **Key transition:** Move smoothly from the final position of /d/ to the initial position of /t/. Anticipate the second sound while completing the first.
+- **Key transition:** May reduce to single [t̚] or remain [d̚t]
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

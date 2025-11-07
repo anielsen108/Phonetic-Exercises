@@ -10,26 +10,10 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** catch show
-**IPA:** `//kʰætʃ ʃoʊ///`
+**Phrase:** much shame
+**IPA:** `/mʌtʃ ʃeɪm/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from voiceless postalveolar affricate to voiceless postalveolar fricative.
-
----
-
-### Example 2
-**Phrase:** which ship
-**IPA:** `//wɪtʃ ʃɪp///`
-
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** much sure
-**IPA:** `//mʌtʃ ʃʊɹ///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Similar place: postalveolar continuity
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** voiceless postalveolar affricate
 - **Target position:** voiceless postalveolar fricative
-- **Key transition:** Move smoothly from the final position of /tʃ/ to the initial position of /ʃ/. Anticipate the second sound while completing the first.
+- **Key transition:** Similar place: postalveolar continuity
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

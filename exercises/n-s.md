@@ -10,26 +10,10 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** in say
-**IPA:** `//ɪn seɪ///`
+**Phrase:** dance
+**IPA:** `/dæns/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from alveolar nasal to voiceless alveolar fricative.
-
----
-
-### Example 2
-**Phrase:** when see
-**IPA:** `//wɛn si///`
-
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** can some
-**IPA:** `//kʰæn sʌm///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Homorganic alveolar
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** alveolar nasal
 - **Target position:** voiceless alveolar fricative
-- **Key transition:** Move smoothly from the final position of /n/ to the initial position of /s/. Anticipate the second sound while completing the first.
+- **Key transition:** Homorganic alveolar
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

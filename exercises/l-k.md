@@ -10,26 +10,18 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** call call
-**IPA:** `//kʰɔl kʰɔl///`
+**Phrase:** milk
+**IPA:** `/mɪɫk/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from alveolar lateral to voiceless velar stop.
+**Notes:** Velarized lateral before velar
 
 ---
 
 ### Example 2
-**Phrase:** will keep
-**IPA:** `//wɪl kʰip///`
+**Phrase:** will come
+**IPA:** `/wɪɫ kʰʌm/`
 
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** all came
-**IPA:** `//ɔl kʰeɪm///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Homorganic velar quality
 
 ---
 
@@ -37,15 +29,15 @@
 
 - **Starting position:** alveolar lateral
 - **Target position:** voiceless velar stop
-- **Key transition:** Move smoothly from the final position of /l/ to the initial position of /k/. Anticipate the second sound while completing the first.
+- **Key transition:** Homorganic velar quality
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

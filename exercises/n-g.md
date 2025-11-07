@@ -10,26 +10,10 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** in going
-**IPA:** `//ɪn ˈɡoʊɪŋ///`
+**Phrase:** in good
+**IPA:** `/ɪŋ ɡʊd/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from alveolar nasal to voiced velar stop.
-
----
-
-### Example 2
-**Phrase:** when get
-**IPA:** `//wɛn ɡɛt///`
-
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** can gave
-**IPA:** `//kʰæn ɡeɪv///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Velar assimilation before /g/
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** alveolar nasal
 - **Target position:** voiced velar stop
-- **Key transition:** Move smoothly from the final position of /n/ to the initial position of /g/. Anticipate the second sound while completing the first.
+- **Key transition:** Velar assimilation before /g/
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

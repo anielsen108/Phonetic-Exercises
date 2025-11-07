@@ -10,26 +10,10 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** in way
-**IPA:** `//ɪn weɪ///`
+**Phrase:** in work
+**IPA:** `/ɪn wɝk/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from alveolar nasal to labial-velar approximant.
-
----
-
-### Example 2
-**Phrase:** when will
-**IPA:** `//wɛn wɪl///`
-
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** can want
-**IPA:** `//kʰæn wɑnt///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Alveolar → labiovelar
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** alveolar nasal
 - **Target position:** labial-velar approximant
-- **Key transition:** Move smoothly from the final position of /n/ to the initial position of /w/. Anticipate the second sound while completing the first.
+- **Key transition:** Alveolar → labiovelar
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

@@ -10,26 +10,26 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** at yes
-**IPA:** `//æt̚ jɛs///`
+**Phrase:** at your place
+**IPA:** `/ætʃ jɚ pʰleɪs/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from voiceless alveolar stop to palatal approximant.
+**Notes:** Coalescence common: /t/+/j/ → [tʃ]
 
 ---
 
 ### Example 2
-**Phrase:** it you
-**IPA:** `//ɪt̚ ju///`
+**Phrase:** not yet
+**IPA:** `/nɑtʃ jɛt/`
 
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
+**Notes:** Palatalization: merges to affricate
 
 ---
 
 ### Example 3
-**Phrase:** not year
-**IPA:** `//nɑt̚ jiɹ///`
+**Phrase:** situation
+**IPA:** `/ˌsɪtʃuˈeɪʃən/`
 
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Within-word palatalization
 
 ---
 
@@ -37,15 +37,15 @@
 
 - **Starting position:** voiceless alveolar stop
 - **Target position:** palatal approximant
-- **Key transition:** Move smoothly from the final position of /t/ to the initial position of /j/. Anticipate the second sound while completing the first.
+- **Key transition:** Within-word palatalization
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

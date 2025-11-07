@@ -10,26 +10,10 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** far book
-**IPA:** `//fɑɹ bʊk///`
+**Phrase:** her book
+**IPA:** `/hɚ bʊk/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from alveolar approximant to voiced bilabial stop.
-
----
-
-### Example 2
-**Phrase:** here best
-**IPA:** `//hiɹ bɛst///`
-
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** more big
-**IPA:** `//moɹ bɪɡ///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Rhotic → voiced bilabial
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** alveolar approximant
 - **Target position:** voiced bilabial stop
-- **Key transition:** Move smoothly from the final position of /r/ to the initial position of /b/. Anticipate the second sound while completing the first.
+- **Key transition:** Rhotic → voiced bilabial
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

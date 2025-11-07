@@ -10,26 +10,10 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** cab way
-**IPA:** `//kʰæb̚ weɪ///`
+**Phrase:** cab waiting
+**IPA:** `/kʰæb̚ ˈweɪɾɪŋ/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from voiced bilabial stop to labial-velar approximant.
-
----
-
-### Example 2
-**Phrase:** web will
-**IPA:** `//wɛb̚ wɪl///`
-
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** job want
-**IPA:** `//dʒɑb̚ wɑnt///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Labialization
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** voiced bilabial stop
 - **Target position:** labial-velar approximant
-- **Key transition:** Move smoothly from the final position of /b/ to the initial position of /w/. Anticipate the second sound while completing the first.
+- **Key transition:** Labialization
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

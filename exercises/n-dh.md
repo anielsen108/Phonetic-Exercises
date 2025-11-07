@@ -11,25 +11,9 @@
 
 ### Example 1
 **Phrase:** in the
-**IPA:** `//ɪn ðə///`
+**IPA:** `/ɪn̪ ð̪ə/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from alveolar nasal to voiced dental fricative.
-
----
-
-### Example 2
-**Phrase:** when that
-**IPA:** `//wɛn ðæt///`
-
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** can them
-**IPA:** `//kʰæn ðɛm///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Dentalized /n̪/ before /ð̪/
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** alveolar nasal
 - **Target position:** voiced dental fricative
-- **Key transition:** Move smoothly from the final position of /n/ to the initial position of /ð/. Anticipate the second sound while completing the first.
+- **Key transition:** Dentalized /n̪/ before /ð̪/
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

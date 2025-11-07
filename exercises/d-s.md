@@ -10,26 +10,18 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** had some
-**IPA:** `/hæd̚ sʌm/`
+**Phrase:** needs
+**IPA:** `/nidz/`
 
-**Notes:** Natural phrase from connected speechFocus on the transition from voiced alveolar stop to voiceless alveolar fricative.
+**Notes:** Voiced /z/ allomorph of plural: voicing maintained
 
 ---
 
 ### Example 2
-**Phrase:** needs
-**IPA:** `/nidz/`
+**Phrase:** had some
+**IPA:** `/hæd̥̚ sʌm/`
 
-**Notes:** Natural phrase from connected speechPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** read some
-**IPA:** `//ɹid̚ sʌm///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Devoicing to [t̚s] or [d̥s]
 
 ---
 
@@ -37,15 +29,15 @@
 
 - **Starting position:** voiced alveolar stop
 - **Target position:** voiceless alveolar fricative
-- **Key transition:** Move smoothly from the final position of /d/ to the initial position of /s/. Anticipate the second sound while completing the first.
+- **Key transition:** Devoicing to [t̚s] or [d̥s]
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

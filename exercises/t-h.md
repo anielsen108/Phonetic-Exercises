@@ -11,9 +11,9 @@
 
 ### Example 1
 **Phrase:** at home
-**IPA:** `/æt̚ hoʊm/`
+**IPA:** `/æt̚ hoʊ̯m/`
 
-**Notes:** Natural phrase from connected speechFocus on the transition from voiceless alveolar stop to voiceless glottal fricative.
+**Notes:** Stop release may be glottalized [ʔ] or breathy
 
 ---
 
@@ -21,15 +21,15 @@
 **Phrase:** not here
 **IPA:** `/nɑt̚ hiɹ/`
 
-**Notes:** Natural phrase from connected speechPractice in connected speech across word boundaries.
+**Notes:** Breathy transition: /h/ provides release
 
 ---
 
 ### Example 3
-**Phrase:** not help
-**IPA:** `//nɑt̚ hɛlp///`
+**Phrase:** night hour
+**IPA:** `/naɪt̚ ˈaʊ̯ɚ/`
 
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Glottal onset after alveolar closure
 
 ---
 
@@ -37,15 +37,15 @@
 
 - **Starting position:** voiceless alveolar stop
 - **Target position:** voiceless glottal fricative
-- **Key transition:** Move smoothly from the final position of /t/ to the initial position of /h/. Anticipate the second sound while completing the first.
+- **Key transition:** Glottal onset after alveolar closure
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

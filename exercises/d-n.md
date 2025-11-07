@@ -10,26 +10,18 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** had new
-**IPA:** `//hæd̚ nu///`
+**Phrase:** had never
+**IPA:** `/hæd̚ ˈnɛvɚ/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from voiced alveolar stop to alveolar nasal.
+**Notes:** Nasal release: homorganic alveolar /d/ → /n/
 
 ---
 
 ### Example 2
-**Phrase:** need now
-**IPA:** `//nid̚ naʊ///`
+**Phrase:** sudden
+**IPA:** `/ˈsʌdn̩/`
 
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** read next
-**IPA:** `//ɹid̚ nɛkst///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Syllabic nasal with lateral release
 
 ---
 
@@ -37,15 +29,15 @@
 
 - **Starting position:** voiced alveolar stop
 - **Target position:** alveolar nasal
-- **Key transition:** Move smoothly from the final position of /d/ to the initial position of /n/. Anticipate the second sound while completing the first.
+- **Key transition:** Syllabic nasal with lateral release
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

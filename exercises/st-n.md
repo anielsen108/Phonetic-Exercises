@@ -10,26 +10,10 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** just new
-**IPA:** `//dʒʌst̚ nu///`
+**Phrase:** first name
+**IPA:** `/fɝst̚ neɪm/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from s + voiceless alveolar stop to alveolar nasal.
-
----
-
-### Example 2
-**Phrase:** first now
-**IPA:** `//fɜɹst̚ naʊ///`
-
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** against next
-**IPA:** `//əˈɡɛns̪t̪̚ nɛkst///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Cluster → alveolar nasal
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** s + voiceless alveolar stop
 - **Target position:** alveolar nasal
-- **Key transition:** Move smoothly from the final position of /st/ to the initial position of /n/. Anticipate the second sound while completing the first.
+- **Key transition:** Cluster → alveolar nasal
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

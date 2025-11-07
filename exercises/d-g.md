@@ -13,23 +13,15 @@
 **Phrase:** bad guy
 **IPA:** `/bæd̚ ɡaɪ/`
 
-**Notes:** Natural phrase from connected speechFocus on the transition from voiced alveolar stop to voiced velar stop.
+**Notes:** Voiced sequence maintained: both stops fully voiced
 
 ---
 
 ### Example 2
-**Phrase:** need guidance
-**IPA:** `/nid̚ ˈɡaɪdəns/`
+**Phrase:** good game
+**IPA:** `/ɡʊd̚ ɡeɪm/`
 
-**Notes:** Natural phrase from connected speechPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** read gave
-**IPA:** `//ɹid̚ ɡeɪv///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Homorganic voicing throughout
 
 ---
 
@@ -37,15 +29,15 @@
 
 - **Starting position:** voiced alveolar stop
 - **Target position:** voiced velar stop
-- **Key transition:** Move smoothly from the final position of /d/ to the initial position of /g/. Anticipate the second sound while completing the first.
+- **Key transition:** Homorganic voicing throughout
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

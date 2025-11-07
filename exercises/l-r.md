@@ -10,26 +10,10 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** call right
-**IPA:** `//kʰɔl ɹaɪt///`
+**Phrase:** will run
+**IPA:** `/wɪɫ ɹʌn/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from alveolar lateral to alveolar approximant.
-
----
-
-### Example 2
-**Phrase:** will red
-**IPA:** `//wɪl ɹɛd///`
-
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** all run
-**IPA:** `//ɔl ɹʌn///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Lateral → rhotic
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** alveolar lateral
 - **Target position:** alveolar approximant
-- **Key transition:** Move smoothly from the final position of /l/ to the initial position of /r/. Anticipate the second sound while completing the first.
+- **Key transition:** Lateral → rhotic
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

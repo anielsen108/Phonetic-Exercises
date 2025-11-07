@@ -783,6 +783,786 @@ CURATED_COMBINATIONS = {
         ('Brr, judge!', '/bɹ̩ː d͡ʒʌd͡ʒ/',
          'Syllabic rhotic → voiced postalveolar affricate'),
     ],
+
+    # ============= V + CONSONANT COMBINATIONS =============
+    ('v', 't'): [
+        ('have to', '/hæv tə/',
+         'Voiced fricative → voiceless stop: /t/ may devoice /v/ slightly'),
+        ('five times', '/faɪv tʰaɪmz/',
+         'Labiodental → alveolar'),
+    ],
+    ('v', 'θ'): [
+        ('have three', '/hæv̪ θ̪ɹi/',
+         'Labiodental → dental place shift'),
+    ],
+    ('v', 'ð'): [
+        ('have the', '/hæv̪ ð̪ə/',
+         'Voiced fricative continuity: labiodental → dental'),
+    ],
+    ('v', 'b'): [
+        ('have been', '/hæv bɪn/',
+         'Fricative → stop, both voiced labial'),
+    ],
+    ('v', 'd'): [
+        ('have done', '/hæv dʌn/',
+         'Voiced fricative → voiced stop'),
+    ],
+
+    # ============= θ (THETA) + CONSONANT COMBINATIONS =============
+    ('θ', 'p'): [
+        ('bath place', '/bæθ̚ pʰleɪs/',
+         'Dental fricative → bilabial stop'),
+    ],
+    ('θ', 't'): [
+        ('bath time', '/bæθ̚ tʰaɪm/',
+         'Dental /θ/ → alveolar /t/: tongue tip moves back'),
+    ],
+    ('θ', 'k'): [
+        ('bath cloth', '/bæθ̚ kʰlɔθ/',
+         'Dental → velar place shift'),
+    ],
+    ('θ', 's'): [
+        ('baths', '/bæθs/',
+         'Dental → alveolar fricative sequence'),
+    ],
+
+    # ============= ð (ETH) + CONSONANT COMBINATIONS =============
+    ('ð', 'p'): [
+        ('breathe peacefully', '/bɹið̥̚ ˈpʰisfəli/',
+         'Devoicing of /ð̥/ before voiceless /p/'),
+    ],
+    ('ð', 't'): [
+        ('breathe two', '/bɹið̥̚ tʰu/',
+         'Devoicing + place shift: dental → alveolar'),
+    ],
+    ('ð', 'b'): [
+        ('breathe better', '/bɹið bɛɾɚ/',
+         'Maintained voicing: dental → bilabial'),
+    ],
+    ('ð', 'd'): [
+        ('breathe deeply', '/bɹið diˈpli/',
+         'Voiced dental → voiced alveolar'),
+    ],
+    ('ð', 'm'): [
+        ('breathe more', '/bɹið mɔɹ/',
+         'Dental → bilabial nasal'),
+    ],
+
+    # ============= ʃ (SH) + CONSONANT COMBINATIONS =============
+    ('ʃ', 't'): [
+        ('wash time', '/wɑʃ tʰaɪm/',
+         'Postalveolar → alveolar: tongue moves forward'),
+    ],
+    ('ʃ', 'p'): [
+        ('wash place', '/wɑʃ pʰleɪs/',
+         'Fricative → stop'),
+    ],
+    ('ʃ', 'm'): [
+        ('wash my', '/wɑʃ maɪ/',
+         'Postalveolar → bilabial nasal'),
+    ],
+
+    # ============= ŋ (NG) + CONSONANT COMBINATIONS =============
+    ('ŋ', 'k'): [
+        ('sing clearly', '/sɪŋ kʰliɹli/',
+         'Homorganic: velar nasal → velar stop'),
+        ('thank', '/θæŋk/',
+         'Within-word cluster'),
+    ],
+    ('ŋ', 'g'): [
+        ('sing good', '/sɪŋ ɡʊd/',
+         'Homorganic voiced: velar nasal → velar stop'),
+        ('finger', '/ˈfɪŋɡɚ/',
+         'Within-word cluster'),
+    ],
+
+    # ============= MORE P COMBINATIONS =============
+    ('p', 'ð'): [
+        ('stop the', '/stɑp̪̚ ð̪ə/',
+         'Slight dentalization of /p̪/ anticipating /ð̪/'),
+    ],
+    ('p', 'θ'): [
+        ('stop thinking', '/stɑp̪̚ θ̪ɪŋkɪŋ/',
+         'Dentalization before /θ/'),
+    ],
+    ('p', 'f'): [
+        ('stop fighting', '/stɑp̚ ˈfaɪɾɪŋ/',
+         'Bilabial → labiodental'),
+    ],
+    ('p', 'b'): [
+        ('stop being', '/stɑp̚ ˈbiɪŋ/',
+         'Voiceless → voiced bilabial'),
+    ],
+    ('p', 'd'): [
+        ('stop doing', '/stɑp̚ ˈduɪŋ/',
+         'Voiceless bilabial → voiced alveolar'),
+    ],
+    ('p', 'g'): [
+        ('stop going', '/stɑp̚ ˈɡoʊɪŋ/',
+         'Bilabial → velar'),
+    ],
+    ('p', 'm'): [
+        ('stop me', '/stɑp̚ mi/',
+         'Oral → nasal, homorganic bilabial'),
+    ],
+    ('p', 'n'): [
+        ('stop now', '/stɑp̚ naʊ/',
+         'Bilabial → alveolar nasal'),
+    ],
+    ('p', 'r'): [
+        ('stop running', '/stɑp̚ ˈɹʌnɪŋ/',
+         'Bilabial → retroflex'),
+    ],
+    ('p', 'w'): [
+        ('stop working', '/stɑp̚ ˈwɝkɪŋ/',
+         'Lip rounding anticipation'),
+    ],
+
+    # ============= MORE B COMBINATIONS =============
+    ('b', 'ð'): [
+        ('cab the', '/kʰæb̪̚ ð̪ə/',
+         'Slight dentalization + voicing maintained'),
+    ],
+    ('b', 'k'): [
+        ('cab came', '/kʰæb̥̚ kʰeɪm/',
+         'Devoicing before /k/'),
+    ],
+    ('b', 'g'): [
+        ('cab going', '/kʰæb̚ ˈɡoʊɪŋ/',
+         'Voiced sequence'),
+    ],
+    ('b', 's'): [
+        ('cabs', '/kʰæbz/',
+         'Voiced /z/ allomorph'),
+    ],
+    ('b', 'm'): [
+        ('cab man', '/kʰæb̚ mæn/',
+         'Homorganic bilabial: oral → nasal'),
+    ],
+    ('b', 'n'): [
+        ('cab now', '/kʰæb̚ naʊ/',
+         'Bilabial → alveolar nasal'),
+    ],
+    ('b', 'r'): [
+        ('cab ride', '/kʰæb̚ ɹaɪd/',
+         'Bilabial → rhotic'),
+    ],
+    ('b', 'w'): [
+        ('cab waiting', '/kʰæb̚ ˈweɪɾɪŋ/',
+         'Labialization'),
+    ],
+
+    # ============= MORE G COMBINATIONS =============
+    ('g', 'k'): [
+        ('big car', '/bɪɡ̊̚ kʰɑɹ/',
+         'Homorganic: devoiced /g̊/ → voiceless /k/'),
+    ],
+    ('g', 'b'): [
+        ('big boy', '/bɪɡ̚ bɔɪ/',
+         'Voiced sequence maintained'),
+    ],
+    ('g', 's'): [
+        ('big storm', '/bɪɡ̊̚ stɔɹm/',
+         'Devoicing before voiceless cluster'),
+    ],
+    ('g', 'm'): [
+        ('big man', '/bɪɡ̚ mæn/',
+         'Velar → bilabial nasal'),
+    ],
+    ('g', 'n'): [
+        ('big nose', '/bɪɡ̚ noʊz/',
+         'Velar → alveolar nasal'),
+    ],
+    ('g', 'r'): [
+        ('big red', '/bɪɡ̚ ɹɛd/',
+         'Velar → rhotic'),
+    ],
+    ('g', 'w'): [
+        ('big window', '/bɪɡ̚ ˈwɪndoʊ/',
+         'Labialization anticipation'),
+    ],
+
+    # ============= MORE K COMBINATIONS =============
+    ('k', 'θ'): [
+        ('back three', '/bæk̪̚ θ̪ɹi/',
+         'Velar → dental place shift'),
+    ],
+    ('k', 'ð'): [
+        ('back the', '/bæk̪̚ ð̪ə/',
+         'Velar → dental'),
+    ],
+    ('k', 'v'): [
+        ('back view', '/bæk̚ vju/',
+         'Velar → labiodental'),
+    ],
+    ('k', 'z'): [
+        ('backs', '/bæks/',
+         'Plural /s/ after voiceless'),
+    ],
+    ('k', 'h'): [
+        ('back home', '/bæk̚ hoʊm/',
+         'Velar → glottal'),
+    ],
+    ('k', 'dʒ'): [
+        ('back job', '/bæk̥̚ d͡ʒɑb/',
+         'Slight devoicing of /dʒ/'),
+    ],
+    ('k', 'j'): [
+        ('back yard', '/bæk jɑɹd/',
+         'Velar → palatal approximant'),
+    ],
+
+    # ============= MORE S COMBINATIONS =============
+    ('s', 'b'): [
+        ('this boy', '/ðɪz bɔɪ/',
+         'Voiced /z/ before voiced stop'),
+    ],
+    ('s', 'd'): [
+        ('this day', '/ðɪz deɪ/',
+         'Voiced alveolar continuity'),
+    ],
+    ('s', 'g'): [
+        ('this guy', '/ðɪz ɡaɪ/',
+         'Voiced fricative → voiced stop'),
+    ],
+    ('s', 'f'): [
+        ('this food', '/ðɪs fud/',
+         'Alveolar → labiodental'),
+    ],
+    ('s', 'v'): [
+        ('this very', '/ðɪz ˈvɛɹi/',
+         'Voiced continuity'),
+    ],
+    ('s', 'h'): [
+        ('this house', '/ðɪs haʊs/',
+         'Fricative → glottal'),
+    ],
+    ('s', 'z'): [
+        ('this zone', '/ðɪz zoʊn/',
+         'Voiced sibilant sequence'),
+    ],
+    ('s', 'ʃ'): [
+        ('this shoe', '/ðɪʃ ʃu/',
+         'Alveolar → postalveolar assimilation'),
+    ],
+    ('s', 'tʃ'): [
+        ('this choice', '/ðɪʃ tʃɔɪs/',
+         'Coalescence to [ʃ]'),
+    ],
+    ('s', 'dʒ'): [
+        ('this job', '/ðɪʒ d͡ʒɑb/',
+         'Voicing + place assimilation'),
+    ],
+    ('s', 'r'): [
+        ('this road', '/ðɪs ɹoʊd/',
+         'Alveolar → rhotic'),
+    ],
+    ('s', 'j'): [
+        ('this year', '/ðɪʃ jiɹ/',
+         'Palatalization to [ʃ]'),
+    ],
+
+    # ============= MORE M COMBINATIONS =============
+    ('m', 'd'): [
+        ('time done', '/tʰaɪm dʌn/',
+         'Nasal → voiced stop'),
+    ],
+    ('m', 'k'): [
+        ('time came', '/tʰaɪm kʰeɪm/',
+         'Bilabial → velar'),
+    ],
+    ('m', 'g'): [
+        ('time going', '/tʰaɪm ˈɡoʊɪŋ/',
+         'Bilabial nasal → velar stop'),
+    ],
+    ('m', 's'): [
+        ('time soon', '/tʰaɪm sun/',
+         'Nasal → fricative'),
+    ],
+    ('m', 'n'): [
+        ('time now', '/tʰaɪm naʊ/',
+         'Bilabial → alveolar nasal'),
+    ],
+    ('m', 'l'): [
+        ('time late', '/tʰaɪm leɪt/',
+         'Nasal → lateral'),
+    ],
+    ('m', 'w'): [
+        ('time will', '/tʰaɪm wɪl/',
+         'Bilabial nasal → labiovelar'),
+    ],
+
+    # ============= MORE N COMBINATIONS =============
+    ('n', 'p'): [
+        ('in place', '/ɪn pʰleɪs/',
+         'Alveolar → bilabial'),
+    ],
+    ('n', 'b'): [
+        ('in bed', '/ɪn bɛd/',
+         'Alveolar → bilabial, voiced'),
+    ],
+    ('n', 'k'): [
+        ('in class', '/ɪn kʰlæs/',
+         'Alveolar → velar'),
+    ],
+    ('n', 'g'): [
+        ('in good', '/ɪŋ ɡʊd/',
+         'Velar assimilation before /g/'),
+    ],
+    ('n', 'f'): [
+        ('in five', '/ɪn faɪv/',
+         'Alveolar → labiodental'),
+    ],
+    ('n', 'v'): [
+        ('in very', '/ɪn ˈvɛɹi/',
+         'Nasal → voiced fricative'),
+    ],
+    ('n', 'm'): [
+        ('in my', '/ɪn maɪ/',
+         'Alveolar → bilabial nasal'),
+    ],
+    ('n', 'l'): [
+        ('in late', '/ɪn leɪt/',
+         'Nasal → lateral'),
+    ],
+    ('n', 'r'): [
+        ('in red', '/ɪn ɹɛd/',
+         'Nasal → rhotic'),
+    ],
+    ('n', 'w'): [
+        ('in work', '/ɪn wɝk/',
+         'Alveolar → labiovelar'),
+    ],
+    ('n', 'j'): [
+        ('in your', '/ɪn jɚ/',
+         'Alveolar → palatal'),
+    ],
+
+    # ============= MORE L COMBINATIONS =============
+    ('l', 'b'): [
+        ('will be', '/wɪɫ bi/',
+         'Dark lateral → bilabial'),
+    ],
+    ('l', 'g'): [
+        ('will go', '/wɪɫ ɡoʊ/',
+         'Velarized lateral → velar stop'),
+    ],
+    ('l', 'f'): [
+        ('self', '/sɛɫf/',
+         'Dark lateral → labiodental'),
+    ],
+    ('l', 'v'): [
+        ('will very', '/wɪɫ ˈvɛɹi/',
+         'Lateral → voiced fricative'),
+    ],
+    ('l', 's'): [
+        ('will see', '/wɪɫ si/',
+         'Lateral → alveolar fricative'),
+    ],
+    ('l', 'z'): [
+        ('calls', '/kʰɔɫz/',
+         'Dark lateral + voiced sibilant'),
+    ],
+    ('l', 'ʃ'): [
+        ('will show', '/wɪɫ ʃoʊ/',
+         'Lateral → postalveolar'),
+    ],
+    ('l', 'n'): [
+        ('will never', '/wɪɫ ˈnɛvɚ/',
+         'Lateral → nasal'),
+    ],
+    ('l', 'r'): [
+        ('will run', '/wɪɫ ɹʌn/',
+         'Lateral → rhotic'),
+    ],
+    ('l', 'w'): [
+        ('will work', '/wɪɫ wɝk/',
+         'Both involve lip rounding'),
+    ],
+    ('l', 'j'): [
+        ('will you', '/wɪɫ ju/',
+         'Lateral → palatal'),
+    ],
+
+    # ============= MORE R COMBINATIONS =============
+    ('r', 'p'): [
+        ('her place', '/hɚ pʰleɪs/',
+         'Rhotic → bilabial'),
+    ],
+    ('r', 'b'): [
+        ('her book', '/hɚ bʊk/',
+         'Rhotic → voiced bilabial'),
+    ],
+    ('r', 'k'): [
+        ('her car', '/hɚ kʰɑɹ/',
+         'Rhotic → velar'),
+    ],
+    ('r', 'g'): [
+        ('her guy', '/hɚ ɡaɪ/',
+         'Rhotic → voiced velar'),
+    ],
+    ('r', 'f'): [
+        ('her five', '/hɚ faɪv/',
+         'Rhotic → labiodental'),
+    ],
+    ('r', 's'): [
+        ('her son', '/hɚ sʌn/',
+         'Rhotic → alveolar fricative'),
+    ],
+    ('r', 'm'): [
+        ('her mother', '/hɚ ˈmʌðɚ/',
+         'Rhotic → bilabial nasal'),
+    ],
+    ('r', 'l'): [
+        ('her late', '/hɚ leɪt/',
+         'Rhotic → lateral'),
+    ],
+    ('r', 'w'): [
+        ('her work', '/hɚ wɝk/',
+         'Rhotic → labiovelar'),
+    ],
+
+    # ============= MORE T COMBINATIONS (FILL GAPS) =============
+    ('t', 'z'): [
+        ('at zoo', '/æt̚ zu/',
+         'Voiceless → voiced sibilant'),
+    ],
+    ('t', 'ʒ'): [
+        ('at Asia', '/æt̚ ˈeɪʒə/',
+         'Rare: /ʒ/ uncommon initially'),
+    ],
+    ('t', 'ŋ'): [
+        ('at Nguyen\'s', '/æt̚ ŋwiənz/',
+         'Rare word-initial /ŋ/ in Vietnamese names'),
+    ],
+
+    # ============= MORE D COMBINATIONS (FILL GAPS) =============
+    ('d', 'ʒ'): [
+        ('had genre', '/hæd̥̚ ˈʒɑnɹə/',
+         'Rare: /ʒ/ uncommon initially'),
+    ],
+    ('d', 'ŋ'): [
+        ('had Nguyen', '/hæd̥̚ ŋwiən/',
+         'Vietnamese name with /ŋ/'),
+    ],
+
+    # ============= AFFRICATE tʃ COMBINATIONS =============
+    ('tʃ', 'p'): [
+        ('which person', '/wɪtʃ ˈpʰɝsən/',
+         'Affricate → bilabial stop'),
+    ],
+    ('tʃ', 'b'): [
+        ('which book', '/wɪtʃ bʊk/',
+         'Affricate → voiced bilabial'),
+    ],
+    ('tʃ', 't'): [
+        ('which time', '/wɪtʃ tʰaɪm/',
+         'Affricate → alveolar stop'),
+    ],
+    ('tʃ', 'd'): [
+        ('which day', '/wɪtʃ deɪ/',
+         'Voiceless affricate → voiced stop'),
+    ],
+    ('tʃ', 'k'): [
+        ('which car', '/wɪtʃ kʰɑɹ/',
+         'Affricate → velar stop'),
+    ],
+    ('tʃ', 'g'): [
+        ('which guy', '/wɪtʃ ɡaɪ/',
+         'Voiceless affricate → voiced velar'),
+    ],
+    ('tʃ', 'f'): [
+        ('much fun', '/mʌtʃ fʌn/',
+         'Affricate → labiodental'),
+    ],
+    ('tʃ', 'v'): [
+        ('much value', '/mʌtʃ ˈvæljuː/',
+         'Affricate → voiced fricative'),
+    ],
+    ('tʃ', 's'): [
+        ('which side', '/wɪtʃ saɪd/',
+         'Affricate → alveolar fricative'),
+    ],
+    ('tʃ', 'z'): [
+        ('which zone', '/wɪtʃ zoʊn/',
+         'Voiceless → voiced sibilant'),
+    ],
+    ('tʃ', 'θ'): [
+        ('which thing', '/wɪtʃ θɪŋ/',
+         'Affricate → dental fricative'),
+    ],
+    ('tʃ', 'ð'): [
+        ('which they', '/wɪtʃ ðeɪ/',
+         'Voiceless → voiced dental'),
+    ],
+    ('tʃ', 'ʃ'): [
+        ('much shame', '/mʌtʃ ʃeɪm/',
+         'Similar place: postalveolar continuity'),
+    ],
+    ('tʃ', 'm'): [
+        ('which movie', '/wɪtʃ ˈmuvi/',
+         'Affricate → bilabial nasal'),
+    ],
+    ('tʃ', 'n'): [
+        ('which night', '/wɪtʃ naɪt/',
+         'Affricate → alveolar nasal'),
+    ],
+    ('tʃ', 'l'): [
+        ('much later', '/mʌtʃ ˈleɪtɚ/',
+         'Affricate → lateral'),
+    ],
+    ('tʃ', 'r'): [
+        ('much reason', '/mʌtʃ ˈɹizən/',
+         'Affricate → rhotic'),
+    ],
+    ('tʃ', 'w'): [
+        ('which way', '/wɪtʃ weɪ/',
+         'Affricate → labiovelar'),
+    ],
+    ('tʃ', 'j'): [
+        ('which year', '/wɪtʃ jiɹ/',
+         'Affricate → palatal approximant'),
+    ],
+
+    # ============= AFFRICATE dʒ COMBINATIONS =============
+    ('dʒ', 'p'): [
+        ('large piece', '/lɑɹdʒ pʰis/',
+         'Affricate → voiceless stop'),
+    ],
+    ('dʒ', 'b'): [
+        ('large boy', '/lɑɹdʒ bɔɪ/',
+         'Affricate → voiced bilabial'),
+    ],
+    ('dʒ', 't'): [
+        ('large tent', '/lɑɹdʒ tʰɛnt/',
+         'Voiced → voiceless stop'),
+    ],
+    ('dʒ', 'd'): [
+        ('large dog', '/lɑɹdʒ dɔɡ/',
+         'Affricate → voiced alveolar'),
+    ],
+    ('dʒ', 'k'): [
+        ('large cup', '/lɑɹdʒ kʰʌp/',
+         'Affricate → voiceless velar'),
+    ],
+    ('dʒ', 'g'): [
+        ('large gap', '/lɑɹdʒ ɡæp/',
+         'Affricate → voiced velar'),
+    ],
+    ('dʒ', 'f'): [
+        ('judge fairly', '/dʒʌdʒ ˈfɛɹli/',
+         'Voiced affricate → voiceless fricative'),
+    ],
+    ('dʒ', 'v'): [
+        ('large vase', '/lɑɹdʒ veɪs/',
+         'Affricate → voiced labiodental'),
+    ],
+    ('dʒ', 's'): [
+        ('judge said', '/dʒʌdʒ sɛd/',
+         'Voiced → voiceless sibilant'),
+    ],
+    ('dʒ', 'z'): [
+        ('large zoo', '/lɑɹdʒ zuː/',
+         'Affricate → voiced sibilant'),
+    ],
+    ('dʒ', 'θ'): [
+        ('large thing', '/lɑɹdʒ θɪŋ/',
+         'Voiced → voiceless dental'),
+    ],
+    ('dʒ', 'ð'): [
+        ('large them', '/lɑɹdʒ ðɛm/',
+         'Affricate → voiced dental'),
+    ],
+    ('dʒ', 'ʃ'): [
+        ('large ship', '/lɑɹdʒ ʃɪp/',
+         'Voiced → voiceless postalveolar'),
+    ],
+    ('dʒ', 'm'): [
+        ('judge me', '/dʒʌdʒ mi/',
+         'Affricate → bilabial nasal'),
+    ],
+    ('dʒ', 'n'): [
+        ('large number', '/lɑɹdʒ ˈnʌmbɚ/',
+         'Affricate → alveolar nasal'),
+    ],
+    ('dʒ', 'l'): [
+        ('large letter', '/lɑɹdʒ ˈlɛtɚ/',
+         'Affricate → lateral'),
+    ],
+    ('dʒ', 'r'): [
+        ('large room', '/lɑɹdʒ ɹum/',
+         'Affricate → rhotic'),
+    ],
+    ('dʒ', 'w'): [
+        ('large wall', '/lɑɹdʒ wɔl/',
+         'Affricate → labiovelar'),
+    ],
+    ('dʒ', 'j'): [
+        ('large yacht', '/lɑɹdʒ jɑt/',
+         'Affricate → palatal approximant'),
+    ],
+
+    # ============= H COMBINATIONS =============
+    ('h', 'p'): [
+        ('he pulled', '/hi pʰʊɫd/',
+         'Glottal fricative → bilabial stop'),
+    ],
+    ('h', 'b'): [
+        ('he bought', '/hi bɔt/',
+         'Glottal → voiced bilabial'),
+    ],
+    ('h', 't'): [
+        ('he took', '/hi tʰʊk/',
+         'Glottal → alveolar stop'),
+    ],
+    ('h', 'd'): [
+        ('he did', '/hi dɪd/',
+         'Glottal → voiced alveolar'),
+    ],
+    ('h', 'k'): [
+        ('he came', '/hi kʰeɪm/',
+         'Glottal → velar stop'),
+    ],
+    ('h', 'm'): [
+        ('he might', '/hi maɪt/',
+         'Glottal → bilabial nasal'),
+    ],
+    ('h', 'n'): [
+        ('he knew', '/hi nu/',
+         'Glottal → alveolar nasal'),
+    ],
+    ('h', 'w'): [
+        ('he will', '/hi wɪɫ/',
+         'Glottal → labiovelar'),
+    ],
+
+    # ============= W COMBINATIONS =============
+    ('w', 't'): [
+        ('now take', '/naʊ tʰeɪk/',
+         'Labiovelar → alveolar stop'),
+    ],
+    ('w', 'd'): [
+        ('how did', '/haʊ dɪd/',
+         'Labiovelar → voiced alveolar'),
+    ],
+    ('w', 'k'): [
+        ('now call', '/naʊ kʰɔl/',
+         'Labiovelar → velar'),
+    ],
+    ('w', 'p'): [
+        ('now pay', '/naʊ pʰeɪ/',
+         'Labiovelar → bilabial'),
+    ],
+    ('w', 'b'): [
+        ('now buy', '/naʊ baɪ/',
+         'Labiovelar → voiced bilabial'),
+    ],
+    ('w', 's'): [
+        ('now see', '/naʊ si/',
+         'Labiovelar → alveolar fricative'),
+    ],
+    ('w', 'ð'): [
+        ('now they', '/naʊ ðeɪ/',
+         'Labiovelar → dental fricative'),
+    ],
+
+    # ============= J (PALATAL) COMBINATIONS =============
+    ('j', 't'): [
+        ('my turn', '/maɪ tʰɝn/',
+         'Palatal → alveolar stop'),
+    ],
+    ('j', 'd'): [
+        ('my dog', '/maɪ dɔɡ/',
+         'Palatal → voiced alveolar'),
+    ],
+    ('j', 'k'): [
+        ('my car', '/maɪ kʰɑɹ/',
+         'Palatal → velar'),
+    ],
+    ('j', 'p'): [
+        ('my plan', '/maɪ pʰlæn/',
+         'Palatal → bilabial'),
+    ],
+    ('j', 's'): [
+        ('my son', '/maɪ sʌn/',
+         'Palatal → alveolar fricative'),
+    ],
+    ('j', 'n'): [
+        ('my name', '/maɪ neɪm/',
+         'Palatal → alveolar nasal'),
+    ],
+
+    # ============= MORE ʒ COMBINATIONS =============
+    ('ʒ', 't'): [
+        ('beige tie', '/beɪʒ tʰaɪ/',
+         'Rare: /ʒ/ word-final'),
+    ],
+    ('ʒ', 'd'): [
+        ('beige door', '/beɪʒ dɔɹ/',
+         'Voiced fricative → voiced stop'),
+    ],
+    ('ʒ', 'k'): [
+        ('beige car', '/beɪʒ kʰɑɹ/',
+         'Voiced → voiceless velar'),
+    ],
+
+    # ============= CLUSTER COMBINATIONS =============
+    ('st', 'p'): [
+        ('just pay', '/dʒʌst̚ pʰeɪ/',
+         'Cluster → bilabial stop'),
+    ],
+    ('st', 'b'): [
+        ('first book', '/fɝst̚ bʊk/',
+         'Voiceless cluster → voiced stop'),
+    ],
+    ('st', 'k'): [
+        ('best car', '/bɛst̚ kʰɑɹ/',
+         'Cluster → velar stop'),
+    ],
+    ('st', 'g'): [
+        ('best guess', '/bɛst̚ ɡɛs/',
+         'Voiceless → voiced velar'),
+    ],
+    ('st', 'm'): [
+        ('just might', '/dʒʌst̚ maɪt/',
+         'Cluster → bilabial nasal'),
+    ],
+    ('st', 'n'): [
+        ('first name', '/fɝst̚ neɪm/',
+         'Cluster → alveolar nasal'),
+    ],
+    ('st', 'l'): [
+        ('best late', '/bɛst̚ leɪt/',
+         'Cluster → lateral'),
+    ],
+    ('st', 'r'): [
+        ('first run', '/fɝst̚ ɹʌn/',
+         'Cluster → rhotic'),
+    ],
+    ('st', 'w'): [
+        ('just wait', '/dʒʌst̚ weɪt/',
+         'Cluster → labiovelar'),
+    ],
+    ('st', 'j'): [
+        ('best year', '/bɛst̚ jiɹ/',
+         'Cluster → palatal'),
+    ],
+    ('st', 'f'): [
+        ('first five', '/fɝst̚ faɪv/',
+         'Cluster → labiodental'),
+    ],
+    ('st', 'v'): [
+        ('best value', '/bɛst̚ ˈvælju/',
+         'Voiceless → voiced fricative'),
+    ],
+    ('st', 's'): [
+        ('first sign', '/fɝst̚ saɪn/',
+         'Cluster → sibilant'),
+    ],
+    ('st', 'z'): [
+        ('just zone', '/dʒʌst̚ zoʊn/',
+         'Voiceless → voiced sibilant'),
+    ],
 }
 
 def get_curated_combinations():

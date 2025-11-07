@@ -10,26 +10,18 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** had my
-**IPA:** `//hæd̚ maɪ///`
+**Phrase:** bad man
+**IPA:** `/bæd̚ mæn/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from voiced alveolar stop to bilabial nasal.
+**Notes:** Nasal release possible: velum lowers during /m/
 
 ---
 
 ### Example 2
-**Phrase:** need more
-**IPA:** `//nid̚ moɹ///`
+**Phrase:** good morning
+**IPA:** `/ɡʊd̚ ˈmɔɹnɪŋ/`
 
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** read make
-**IPA:** `//ɹid̚ meɪk///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Oral → nasal with maintained voicing
 
 ---
 
@@ -37,15 +29,15 @@
 
 - **Starting position:** voiced alveolar stop
 - **Target position:** bilabial nasal
-- **Key transition:** Move smoothly from the final position of /d/ to the initial position of /m/. Anticipate the second sound while completing the first.
+- **Key transition:** Oral → nasal with maintained voicing
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

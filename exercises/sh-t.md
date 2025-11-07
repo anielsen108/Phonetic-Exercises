@@ -11,25 +11,9 @@
 
 ### Example 1
 **Phrase:** wash time
-**IPA:** `//wɑʃ tʰaɪm///`
+**IPA:** `/wɑʃ tʰaɪm/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from voiceless postalveolar fricative to voiceless alveolar stop.
-
----
-
-### Example 2
-**Phrase:** wish take
-**IPA:** `//wɪʃ tʰeɪk///`
-
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** push today
-**IPA:** `//pʊʃ təˈdeɪ///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Postalveolar → alveolar: tongue moves forward
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** voiceless postalveolar fricative
 - **Target position:** voiceless alveolar stop
-- **Key transition:** Move smoothly from the final position of /ʃ/ to the initial position of /t/. Anticipate the second sound while completing the first.
+- **Key transition:** Postalveolar → alveolar: tongue moves forward
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

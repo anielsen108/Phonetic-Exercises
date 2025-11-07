@@ -10,26 +10,10 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** far say
-**IPA:** `//fɑɹ seɪ///`
+**Phrase:** her son
+**IPA:** `/hɚ sʌn/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from alveolar approximant to voiceless alveolar fricative.
-
----
-
-### Example 2
-**Phrase:** here see
-**IPA:** `//hiɹ si///`
-
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** more some
-**IPA:** `//moɹ sʌm///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Rhotic → alveolar fricative
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** alveolar approximant
 - **Target position:** voiceless alveolar fricative
-- **Key transition:** Move smoothly from the final position of /r/ to the initial position of /s/. Anticipate the second sound while completing the first.
+- **Key transition:** Rhotic → alveolar fricative
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

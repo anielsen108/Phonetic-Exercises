@@ -11,25 +11,17 @@
 
 ### Example 1
 **Phrase:** had shoes
-**IPA:** `/hæd̚ ʃuz/`
+**IPA:** `/hæd̥̚ ʃuz/`
 
-**Notes:** Natural phrase from connected speechFocus on the transition from voiced alveolar stop to voiceless postalveolar fricative.
+**Notes:** Devoicing + slight retraction: [d̥] → [ʃ]
 
 ---
 
 ### Example 2
-**Phrase:** red shirt
-**IPA:** `/ɹɛd̚ ʃɜɹt/`
+**Phrase:** good show
+**IPA:** `/ɡʊd̥̚ ʃoʊ̯/`
 
-**Notes:** Natural phrase from connected speechPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** read sure
-**IPA:** `//ɹid̚ ʃʊɹ///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Postalveolar anticipation
 
 ---
 
@@ -37,15 +29,15 @@
 
 - **Starting position:** voiced alveolar stop
 - **Target position:** voiceless postalveolar fricative
-- **Key transition:** Move smoothly from the final position of /d/ to the initial position of /ʃ/. Anticipate the second sound while completing the first.
+- **Key transition:** Postalveolar anticipation
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

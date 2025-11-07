@@ -10,26 +10,10 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** judge my
-**IPA:** `//dʒʌdʒ maɪ///`
+**Phrase:** judge me
+**IPA:** `/dʒʌdʒ mi/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from voiced postalveolar affricate to bilabial nasal.
-
----
-
-### Example 2
-**Phrase:** edge more
-**IPA:** `//ɛdʒ moɹ///`
-
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** large make
-**IPA:** `//lɑɹdʒ meɪk///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Affricate → bilabial nasal
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** voiced postalveolar affricate
 - **Target position:** bilabial nasal
-- **Key transition:** Move smoothly from the final position of /dʒ/ to the initial position of /m/. Anticipate the second sound while completing the first.
+- **Key transition:** Affricate → bilabial nasal
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

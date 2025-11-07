@@ -11,25 +11,25 @@
 
 ### Example 1
 **Phrase:** at just
-**IPA:** `//æt̚ dʒʌst///`
+**IPA:** `/æt̚ d͡ʒʌst/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from voiceless alveolar stop to voiced postalveolar affricate.
+**Notes:** Voiceless stop to voiced affricate: /dʒ/ partially devoiced [d̥͡ʒ̊]
 
 ---
 
 ### Example 2
-**Phrase:** it judge
-**IPA:** `//ɪt̚ dʒʌdʒ///`
+**Phrase:** not John
+**IPA:** `/nɑt̚ d͡ʒɑn/`
 
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
+**Notes:** Place shift with voicing change
 
 ---
 
 ### Example 3
-**Phrase:** not job
-**IPA:** `//nɑt̚ dʒɑb///`
+**Phrase:** great job
+**IPA:** `/ɡɹeɪt̚ d͡ʒɑb/`
 
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Affricate may be devoiced after /t/
 
 ---
 
@@ -37,15 +37,15 @@
 
 - **Starting position:** voiceless alveolar stop
 - **Target position:** voiced postalveolar affricate
-- **Key transition:** Move smoothly from the final position of /t/ to the initial position of /dʒ/. Anticipate the second sound while completing the first.
+- **Key transition:** Affricate may be devoiced after /t/
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

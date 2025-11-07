@@ -10,26 +10,26 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** at change
-**IPA:** `//æt̚ tʃeɪndʒ///`
+**Phrase:** at church
+**IPA:** `/æt̚ tʃɝtʃ/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from voiceless alveolar stop to voiceless postalveolar affricate.
+**Notes:** Alveolar stop to post-alveolar affricate: place shift during release
 
 ---
 
 ### Example 2
-**Phrase:** it choice
-**IPA:** `//ɪt̚ tʃɔɪs///`
+**Phrase:** not cheap
+**IPA:** `/nɑt̚ tʃip/`
 
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
+**Notes:** May simplify to single [tʃ] with long closure
 
 ---
 
 ### Example 3
-**Phrase:** not check
-**IPA:** `//nɑt̚ tʃɛk///`
+**Phrase:** night child
+**IPA:** `/naɪt̚ tʃaɪɫd/`
 
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Retraction from alveolar to postalveolar
 
 ---
 
@@ -37,15 +37,15 @@
 
 - **Starting position:** voiceless alveolar stop
 - **Target position:** voiceless postalveolar affricate
-- **Key transition:** Move smoothly from the final position of /t/ to the initial position of /tʃ/. Anticipate the second sound while completing the first.
+- **Key transition:** Retraction from alveolar to postalveolar
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

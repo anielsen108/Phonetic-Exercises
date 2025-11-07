@@ -13,7 +13,7 @@
 **Phrase:** at various times
 **IPA:** `/æt̚ ˈvɛɹiəs tʰaɪmz/`
 
-**Notes:** Natural phrase from connected speechFocus on the transition from voiceless alveolar stop to voiced labiodental fricative.
+**Notes:** Voiceless stop to voiced fricative: /v/ may be partially devoiced [v̥]
 
 ---
 
@@ -21,15 +21,7 @@
 **Phrase:** not very
 **IPA:** `/nɑt̚ ˈvɛɹi/`
 
-**Notes:** Natural phrase from connected speechPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** not value
-**IPA:** `//nɑt̚ ˈvælju///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Labiodental voicing begins during constriction
 
 ---
 
@@ -37,15 +29,15 @@
 
 - **Starting position:** voiceless alveolar stop
 - **Target position:** voiced labiodental fricative
-- **Key transition:** Move smoothly from the final position of /t/ to the initial position of /v/. Anticipate the second sound while completing the first.
+- **Key transition:** Labiodental voicing begins during constriction
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

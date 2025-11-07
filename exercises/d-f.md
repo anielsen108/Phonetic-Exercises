@@ -11,25 +11,17 @@
 
 ### Example 1
 **Phrase:** had five
-**IPA:** `/hæd̚ faɪv/`
+**IPA:** `/hæd̥̚ faɪv/`
 
-**Notes:** Natural phrase from connected speechFocus on the transition from voiced alveolar stop to voiceless labiodental fricative.
+**Notes:** Devoicing anticipation: lower lip → upper teeth during /f/
 
 ---
 
 ### Example 2
-**Phrase:** need five
-**IPA:** `/nid̚ faɪv/`
+**Phrase:** good food
+**IPA:** `/ɡʊd̥̚ fud/`
 
-**Notes:** Natural phrase from connected speechPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** read for
-**IPA:** `//ɹid̚ fɔɹ///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Partial devoicing before voiceless fricative
 
 ---
 
@@ -37,15 +29,15 @@
 
 - **Starting position:** voiced alveolar stop
 - **Target position:** voiceless labiodental fricative
-- **Key transition:** Move smoothly from the final position of /d/ to the initial position of /f/. Anticipate the second sound while completing the first.
+- **Key transition:** Partial devoicing before voiceless fricative
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

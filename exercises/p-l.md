@@ -10,26 +10,10 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** cup late
-**IPA:** `//kʰʌp̚ leɪt///`
+**Phrase:** apple
+**IPA:** `/ˈæpɫ̩/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from voiceless bilabial stop to alveolar lateral.
-
----
-
-### Example 2
-**Phrase:** up look
-**IPA:** `//ʌp̚ lʊk///`
-
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** keep last
-**IPA:** `//kʰip̚ læst///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Lateral release, dark /ɫ̩/
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** voiceless bilabial stop
 - **Target position:** alveolar lateral
-- **Key transition:** Move smoothly from the final position of /p/ to the initial position of /l/. Anticipate the second sound while completing the first.
+- **Key transition:** Lateral release, dark /ɫ̩/
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

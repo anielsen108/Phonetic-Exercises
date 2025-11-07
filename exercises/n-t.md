@@ -10,26 +10,18 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** in time
-**IPA:** `//ɪn tʰaɪm///`
+**Phrase:** want
+**IPA:** `/wɑnt/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from alveolar nasal to voiceless alveolar stop.
+**Notes:** Homorganic alveolar nasal-stop
 
 ---
 
 ### Example 2
-**Phrase:** when take
-**IPA:** `//wɛn tʰeɪk///`
+**Phrase:** can take
+**IPA:** `/kʰæn tʰeɪk/`
 
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** can today
-**IPA:** `//kʰæn təˈdeɪ///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Nasal → oral same place
 
 ---
 
@@ -37,15 +29,15 @@
 
 - **Starting position:** alveolar nasal
 - **Target position:** voiceless alveolar stop
-- **Key transition:** Move smoothly from the final position of /n/ to the initial position of /t/. Anticipate the second sound while completing the first.
+- **Key transition:** Nasal → oral same place
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

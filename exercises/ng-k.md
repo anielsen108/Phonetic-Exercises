@@ -10,26 +10,18 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** sing call
-**IPA:** `//sɪŋ kʰɔl///`
+**Phrase:** sing clearly
+**IPA:** `/sɪŋ kʰliɹli/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from velar nasal to voiceless velar stop.
+**Notes:** Homorganic: velar nasal → velar stop
 
 ---
 
 ### Example 2
-**Phrase:** long keep
-**IPA:** `//lɔŋ kʰip///`
+**Phrase:** thank
+**IPA:** `/θæŋk/`
 
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** thing came
-**IPA:** `//θɪŋ kʰeɪm///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Within-word cluster
 
 ---
 
@@ -37,15 +29,15 @@
 
 - **Starting position:** velar nasal
 - **Target position:** voiceless velar stop
-- **Key transition:** Move smoothly from the final position of /ŋ/ to the initial position of /k/. Anticipate the second sound while completing the first.
+- **Key transition:** Within-word cluster
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

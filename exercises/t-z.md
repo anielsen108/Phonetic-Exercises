@@ -10,26 +10,10 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** at zero
-**IPA:** `/æt̚ ˈziɹoʊ/`
+**Phrase:** at zoo
+**IPA:** `/æt̚ zu/`
 
-**Notes:** Natural phrase from connected speechFocus on the transition from voiceless alveolar stop to voiced alveolar fricative.
-
----
-
-### Example 2
-**Phrase:** cats
-**IPA:** `/kʰæts/`
-
-**Notes:** Natural phrase from connected speechPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** not zebra
-**IPA:** `//nɑt̚ ˈzibɹə///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Voiceless → voiced sibilant
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** voiceless alveolar stop
 - **Target position:** voiced alveolar fricative
-- **Key transition:** Move smoothly from the final position of /t/ to the initial position of /z/. Anticipate the second sound while completing the first.
+- **Key transition:** Voiceless → voiced sibilant
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

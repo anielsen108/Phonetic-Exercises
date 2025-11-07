@@ -11,25 +11,25 @@
 
 ### Example 1
 **Phrase:** at going
-**IPA:** `/æt̚ ˈɡoʊɪŋ/`
+**IPA:** `/æt̚ ˈɡoʊ̯ɪŋ/`
 
-**Notes:** Natural phrase from connected speechFocus on the transition from voiceless alveolar stop to voiced velar stop.
+**Notes:** Voicing begins during velar closure; /g/ partially devoiced [g̊]
 
 ---
 
 ### Example 2
-**Phrase:** great game
-**IPA:** `/ɡɹeɪt̚ ɡeɪm/`
+**Phrase:** not good
+**IPA:** `/nɑt̚ ɡʊd/`
 
-**Notes:** Natural phrase from connected speechPractice in connected speech across word boundaries.
+**Notes:** Voiceless-voiced transition: incomplete voicing on /g/
 
 ---
 
 ### Example 3
-**Phrase:** not gave
-**IPA:** `//nɑt̚ ɡeɪv///`
+**Phrase:** great game
+**IPA:** `/ɡɹeɪt̚ ɡeɪm/`
 
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Stop voicing contrast with place change
 
 ---
 
@@ -37,15 +37,15 @@
 
 - **Starting position:** voiceless alveolar stop
 - **Target position:** voiced velar stop
-- **Key transition:** Move smoothly from the final position of /t/ to the initial position of /g/. Anticipate the second sound while completing the first.
+- **Key transition:** Stop voicing contrast with place change
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 
