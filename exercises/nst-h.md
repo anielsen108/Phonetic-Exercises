@@ -11,25 +11,17 @@
 
 ### Example 1
 **Phrase:** against hate
-**IPA:** `/əˈɡɛns̪t̪ ˈheɪt/`
+**IPA:** `/əˈɡɛnst̚ heɪt/`
 
-**Notes:** Natural phrase from connected speechFocus on the transition from alveolar nasal + voiceless alveolar fricative + voiceless alveolar stop to voiceless glottal fricative.
+**Notes:** Stop release followed by breathy glottal onset
 
 ---
 
 ### Example 2
 **Phrase:** against history
-**IPA:** `/əˈɡɛns̪t̪ ˈhɪstəɹi/`
+**IPA:** `/əˈɡɛnst̚ ˈhɪstəɹi/`
 
-**Notes:** Natural phrase from connected speechPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** against help
-**IPA:** `//əˈɡɛns̪t̪̚ hɛlp///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Glottal fricative after stop closure
 
 ---
 
@@ -37,15 +29,15 @@
 
 - **Starting position:** alveolar nasal + voiceless alveolar fricative + voiceless alveolar stop
 - **Target position:** voiceless glottal fricative
-- **Key transition:** Move smoothly from the final position of /nst/ to the initial position of /h/. Anticipate the second sound while completing the first.
+- **Key transition:** Glottal fricative after stop closure
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

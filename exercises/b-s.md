@@ -10,26 +10,10 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** cab say
-**IPA:** `//kʰæb̚ seɪ///`
+**Phrase:** cabs
+**IPA:** `/kʰæbz/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from voiced bilabial stop to voiceless alveolar fricative.
-
----
-
-### Example 2
-**Phrase:** web see
-**IPA:** `//wɛb̚ si///`
-
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** job some
-**IPA:** `//dʒɑb̚ sʌm///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Voiced /z/ allomorph
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** voiced bilabial stop
 - **Target position:** voiceless alveolar fricative
-- **Key transition:** Move smoothly from the final position of /b/ to the initial position of /s/. Anticipate the second sound while completing the first.
+- **Key transition:** Voiced /z/ allomorph
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

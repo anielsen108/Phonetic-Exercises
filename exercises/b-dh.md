@@ -11,25 +11,9 @@
 
 ### Example 1
 **Phrase:** cab the
-**IPA:** `//kʰæb̚ ðə///`
+**IPA:** `/kʰæb̪̚ ð̪ə/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from voiced bilabial stop to voiced dental fricative.
-
----
-
-### Example 2
-**Phrase:** web that
-**IPA:** `//wɛb̚ ðæt///`
-
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** job them
-**IPA:** `//dʒɑb̚ ðɛm///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Slight dentalization + voicing maintained
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** voiced bilabial stop
 - **Target position:** voiced dental fricative
-- **Key transition:** Move smoothly from the final position of /b/ to the initial position of /ð/. Anticipate the second sound while completing the first.
+- **Key transition:** Slight dentalization + voicing maintained
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

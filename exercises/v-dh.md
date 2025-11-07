@@ -11,25 +11,9 @@
 
 ### Example 1
 **Phrase:** have the
-**IPA:** `//hæv ðə///`
+**IPA:** `/hæv̪ ð̪ə/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from voiced labiodental fricative to voiced dental fricative.
-
----
-
-### Example 2
-**Phrase:** save that
-**IPA:** `//seɪv ðæt///`
-
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** give them
-**IPA:** `//ɡɪv ðɛm///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Voiced fricative continuity: labiodental → dental
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** voiced labiodental fricative
 - **Target position:** voiced dental fricative
-- **Key transition:** Move smoothly from the final position of /v/ to the initial position of /ð/. Anticipate the second sound while completing the first.
+- **Key transition:** Voiced fricative continuity: labiodental → dental
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

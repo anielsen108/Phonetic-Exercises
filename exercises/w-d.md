@@ -10,26 +10,10 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** [Example phrase 1 - w+d]
-**IPA:** `/...wd.../  `
+**Phrase:** how did
+**IPA:** `/haʊ dɪd/`
 
-**Notes:** Note: /w/ rarely occurs in word-final position in EnglishFocus on the transition from labial-velar approximant to voiced alveolar stop.
-
----
-
-### Example 2
-**Phrase:** [Example phrase 2 - w+d]
-**IPA:** `/...wd.../  `
-
-**Notes:** Note: /w/ rarely occurs in word-final position in EnglishPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** [Example phrase 3 - w+d]
-**IPA:** `/...wd.../  `
-
-**Notes:** Note: /w/ rarely occurs in word-final position in EnglishMaintain natural timing and rhythm.
+**Notes:** Labiovelar → voiced alveolar
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** labial-velar approximant
 - **Target position:** voiced alveolar stop
-- **Key transition:** Move smoothly from the final position of /w/ to the initial position of /d/. Anticipate the second sound while completing the first.
+- **Key transition:** Labiovelar → voiced alveolar
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

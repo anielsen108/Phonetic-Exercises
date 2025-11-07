@@ -10,26 +10,10 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** had measure
-**IPA:** `//hæd̚ ˈmɛʒəɹ///`
+**Phrase:** had genre
+**IPA:** `/hæd̥̚ ˈʒɑnɹə/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from voiced alveolar stop to voiced postalveolar fricative.
-
----
-
-### Example 2
-**Phrase:** need vision
-**IPA:** `//nid̚ ˈvɪʒən///`
-
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** read measure
-**IPA:** `//ɹid̚ ˈmɛʒəɹ///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Rare: /ʒ/ uncommon initially
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** voiced alveolar stop
 - **Target position:** voiced postalveolar fricative
-- **Key transition:** Move smoothly from the final position of /d/ to the initial position of /ʒ/. Anticipate the second sound while completing the first.
+- **Key transition:** Rare: /ʒ/ uncommon initially
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

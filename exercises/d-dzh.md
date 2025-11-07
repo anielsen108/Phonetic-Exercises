@@ -10,26 +10,18 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** had just
-**IPA:** `//hæd̚ dʒʌst///`
+**Phrase:** bad joke
+**IPA:** `/bæd̚ d͡ʒoʊ̯k/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from voiced alveolar stop to voiced postalveolar affricate.
+**Notes:** Voiced sequence: both affricates maintain voicing
 
 ---
 
 ### Example 2
-**Phrase:** need judge
-**IPA:** `//nid̚ dʒʌdʒ///`
+**Phrase:** good job
+**IPA:** `/ɡʊd̚ d͡ʒɑb/`
 
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** read job
-**IPA:** `//ɹid̚ dʒɑb///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Alveolar stop → postalveolar affricate
 
 ---
 
@@ -37,15 +29,15 @@
 
 - **Starting position:** voiced alveolar stop
 - **Target position:** voiced postalveolar affricate
-- **Key transition:** Move smoothly from the final position of /d/ to the initial position of /dʒ/. Anticipate the second sound while completing the first.
+- **Key transition:** Alveolar stop → postalveolar affricate
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

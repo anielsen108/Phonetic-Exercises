@@ -10,26 +10,10 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** cab my
-**IPA:** `//kʰæb̚ maɪ///`
+**Phrase:** cab man
+**IPA:** `/kʰæb̚ mæn/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from voiced bilabial stop to bilabial nasal.
-
----
-
-### Example 2
-**Phrase:** web more
-**IPA:** `//wɛb̚ moɹ///`
-
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** job make
-**IPA:** `//dʒɑb̚ meɪk///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Homorganic bilabial: oral → nasal
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** voiced bilabial stop
 - **Target position:** bilabial nasal
-- **Key transition:** Move smoothly from the final position of /b/ to the initial position of /m/. Anticipate the second sound while completing the first.
+- **Key transition:** Homorganic bilabial: oral → nasal
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

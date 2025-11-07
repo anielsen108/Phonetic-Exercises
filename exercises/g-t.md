@@ -11,25 +11,9 @@
 
 ### Example 1
 **Phrase:** big time
-**IPA:** `/bɪɡ̚ tʰaɪm/`
+**IPA:** `/bɪɡ̊̚ tʰaɪm/`
 
-**Notes:** Natural phrase from connected speechFocus on the transition from voiced velar stop to voiceless alveolar stop.
-
----
-
-### Example 2
-**Phrase:** bag tucked
-**IPA:** `/bæɡ̚ tʰʌkt/`
-
-**Notes:** Natural phrase from connected speechPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** dog today
-**IPA:** `//dɔɡ̚ təˈdeɪ///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Devoicing before /t/
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** voiced velar stop
 - **Target position:** voiceless alveolar stop
-- **Key transition:** Move smoothly from the final position of /g/ to the initial position of /t/. Anticipate the second sound while completing the first.
+- **Key transition:** Devoicing before /t/
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

@@ -10,26 +10,10 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** bathe my
-**IPA:** `//beɪð maɪ///`
+**Phrase:** breathe more
+**IPA:** `/bɹið mɔɹ/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from voiced dental fricative to bilabial nasal.
-
----
-
-### Example 2
-**Phrase:** clothe more
-**IPA:** `//kloʊð moɹ///`
-
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** bathe make
-**IPA:** `//beɪð meɪk///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Dental → bilabial nasal
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** voiced dental fricative
 - **Target position:** bilabial nasal
-- **Key transition:** Move smoothly from the final position of /ð/ to the initial position of /m/. Anticipate the second sound while completing the first.
+- **Key transition:** Dental → bilabial nasal
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

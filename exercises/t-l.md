@@ -10,26 +10,26 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** at late
-**IPA:** `//æt̚ leɪt///`
+**Phrase:** at last
+**IPA:** `/æt̚ læst/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from voiceless alveolar stop to alveolar lateral.
+**Notes:** Lateral release: tongue sides lower, tip maintains contact
 
 ---
 
 ### Example 2
-**Phrase:** it look
-**IPA:** `//ɪt̚ lʊk///`
+**Phrase:** bottle
+**IPA:** `/ˈbɑɾɫ̩/`
 
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
+**Notes:** Flapped /ɾ/ or lateral release to syllabic /ɫ̩/
 
 ---
 
 ### Example 3
-**Phrase:** not last
-**IPA:** `//nɑt̚ læst///`
+**Phrase:** not late
+**IPA:** `/nɑt̚ leɪt/`
 
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Clear [l] after fortis /t/
 
 ---
 
@@ -37,15 +37,15 @@
 
 - **Starting position:** voiceless alveolar stop
 - **Target position:** alveolar lateral
-- **Key transition:** Move smoothly from the final position of /t/ to the initial position of /l/. Anticipate the second sound while completing the first.
+- **Key transition:** Clear [l] after fortis /t/
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

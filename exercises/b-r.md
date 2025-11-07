@@ -10,26 +10,10 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** cab right
-**IPA:** `//kʰæb̚ ɹaɪt///`
+**Phrase:** cab ride
+**IPA:** `/kʰæb̚ ɹaɪd/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from voiced bilabial stop to alveolar approximant.
-
----
-
-### Example 2
-**Phrase:** web red
-**IPA:** `//wɛb̚ ɹɛd///`
-
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** job run
-**IPA:** `//dʒɑb̚ ɹʌn///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Bilabial → rhotic
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** voiced bilabial stop
 - **Target position:** alveolar approximant
-- **Key transition:** Move smoothly from the final position of /b/ to the initial position of /r/. Anticipate the second sound while completing the first.
+- **Key transition:** Bilabial → rhotic
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

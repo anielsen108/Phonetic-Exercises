@@ -11,25 +11,17 @@
 
 ### Example 1
 **Phrase:** against time
-**IPA:** `/əˈɡɛns̪t̪ ˈtʰaɪm/`
+**IPA:** `/əˈɡɛns̪t̪̚ tʰaɪm/`
 
-**Notes:** Natural phrase from connected speechFocus on the transition from alveolar nasal + voiceless alveolar fricative + voiceless alveolar stop to voiceless alveolar stop.
+**Notes:** Geminate effect: may simplify to single long [t̪ː]; or /t̚t/ sequence
 
 ---
 
 ### Example 2
-**Phrase:** against terrible odds
-**IPA:** `/əˈɡɛns̪t̪ ˈtʰɛɹəbəl ˈɑdz/`
+**Phrase:** against tradition
+**IPA:** `/əˈɡɛnst̚ tɹəˈdɪʃən/`
 
-**Notes:** Natural phrase from connected speechPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** against today
-**IPA:** `//əˈɡɛns̪t̪̚ təˈdeɪ///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Double alveolar stop, first unreleased
 
 ---
 
@@ -37,15 +29,15 @@
 
 - **Starting position:** alveolar nasal + voiceless alveolar fricative + voiceless alveolar stop
 - **Target position:** voiceless alveolar stop
-- **Key transition:** Move smoothly from the final position of /nst/ to the initial position of /t/. Anticipate the second sound while completing the first.
+- **Key transition:** Double alveolar stop, first unreleased
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

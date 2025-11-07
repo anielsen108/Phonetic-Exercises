@@ -10,26 +10,26 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** at my
-**IPA:** `//æt̚ maɪ///`
+**Phrase:** at my house
+**IPA:** `/æt̚ maɪ haʊ̯s/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from voiceless alveolar stop to bilabial nasal.
+**Notes:** Oral to nasal: velum lowers during /m/ closure
 
 ---
 
 ### Example 2
-**Phrase:** it more
-**IPA:** `//ɪt̚ moɹ///`
+**Phrase:** not much
+**IPA:** `/nɑt̚ mʌtʃ/`
 
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
+**Notes:** Nasal release possible: air through nose
 
 ---
 
 ### Example 3
-**Phrase:** not make
-**IPA:** `//nɑt̚ meɪk///`
+**Phrase:** night music
+**IPA:** `/naɪt̚ ˈmjuzɪk/`
 
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Bilabial nasal after alveolar stop
 
 ---
 
@@ -37,15 +37,15 @@
 
 - **Starting position:** voiceless alveolar stop
 - **Target position:** bilabial nasal
-- **Key transition:** Move smoothly from the final position of /t/ to the initial position of /m/. Anticipate the second sound while completing the first.
+- **Key transition:** Bilabial nasal after alveolar stop
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

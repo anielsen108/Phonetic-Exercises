@@ -11,25 +11,17 @@
 
 ### Example 1
 **Phrase:** cab pulled
-**IPA:** `/kʰæb̚ pʰʊld/`
+**IPA:** `/kʰæb̥̚ pʰʊɫd/`
 
-**Notes:** Natural phrase from connected speechFocus on the transition from voiced bilabial stop to voiceless bilabial stop.
+**Notes:** Devoicing: /b̥/ before voiceless /pʰ/
 
 ---
 
 ### Example 2
 **Phrase:** web page
-**IPA:** `/wɛb̚ pʰeɪdʒ/`
+**IPA:** `/wɛb̥̚ pʰeɪd͡ʒ/`
 
-**Notes:** Natural phrase from connected speechPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** job place
-**IPA:** `//dʒɑb̚ pʰleɪs///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Complete devoicing of /b̥/
 
 ---
 
@@ -37,15 +29,15 @@
 
 - **Starting position:** voiced bilabial stop
 - **Target position:** voiceless bilabial stop
-- **Key transition:** Move smoothly from the final position of /b/ to the initial position of /p/. Anticipate the second sound while completing the first.
+- **Key transition:** Complete devoicing of /b̥/
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

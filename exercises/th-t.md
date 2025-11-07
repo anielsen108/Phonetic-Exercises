@@ -11,25 +11,9 @@
 
 ### Example 1
 **Phrase:** bath time
-**IPA:** `//bæθ tʰaɪm///`
+**IPA:** `/bæθ̚ tʰaɪm/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from voiceless dental fricative to voiceless alveolar stop.
-
----
-
-### Example 2
-**Phrase:** with take
-**IPA:** `//wɪθ tʰeɪk///`
-
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** both today
-**IPA:** `//boʊθ təˈdeɪ///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Dental /θ/ → alveolar /t/: tongue tip moves back
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** voiceless dental fricative
 - **Target position:** voiceless alveolar stop
-- **Key transition:** Move smoothly from the final position of /θ/ to the initial position of /t/. Anticipate the second sound while completing the first.
+- **Key transition:** Dental /θ/ → alveolar /t/: tongue tip moves back
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

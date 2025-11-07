@@ -10,26 +10,10 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** judge book
-**IPA:** `//dʒʌdʒ bʊk///`
+**Phrase:** large boy
+**IPA:** `/lɑɹdʒ bɔɪ/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from voiced postalveolar affricate to voiced bilabial stop.
-
----
-
-### Example 2
-**Phrase:** edge best
-**IPA:** `//ɛdʒ bɛst///`
-
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** large big
-**IPA:** `//lɑɹdʒ bɪɡ///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Affricate → voiced bilabial
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** voiced postalveolar affricate
 - **Target position:** voiced bilabial stop
-- **Key transition:** Move smoothly from the final position of /dʒ/ to the initial position of /b/. Anticipate the second sound while completing the first.
+- **Key transition:** Affricate → voiced bilabial
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

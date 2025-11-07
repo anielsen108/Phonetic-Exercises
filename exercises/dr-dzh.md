@@ -10,26 +10,26 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** far just
-**IPA:** `//fɑɹ dʒʌst///`
+**Phrase:** Brr, George!
+**IPA:** `/bɹ̩ː d͡ʒɔɹd͡ʒ/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from voiced alveolar stop + approximant to voiced postalveolar affricate.
+**Notes:** Syllabic /r̩/ with length before affricate; cold exclamation
 
 ---
 
 ### Example 2
-**Phrase:** here judge
-**IPA:** `//hiɹ dʒʌdʒ///`
+**Phrase:** Burr, George
+**IPA:** `/bɝ d͡ʒɔɹd͡ʒ/`
 
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
+**Notes:** Rhotic vowel variant; vocative
 
 ---
 
 ### Example 3
-**Phrase:** more job
-**IPA:** `//moɹ dʒɑb///`
+**Phrase:** Brr, judge!
+**IPA:** `/bɹ̩ː d͡ʒʌd͡ʒ/`
 
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Syllabic rhotic → voiced postalveolar affricate
 
 ---
 
@@ -37,15 +37,15 @@
 
 - **Starting position:** voiced alveolar stop + approximant
 - **Target position:** voiced postalveolar affricate
-- **Key transition:** Move smoothly from the final position of /dr/ to the initial position of /dʒ/. Anticipate the second sound while completing the first.
+- **Key transition:** Syllabic rhotic → voiced postalveolar affricate
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

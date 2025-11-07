@@ -10,26 +10,10 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** in book
-**IPA:** `//ɪn bʊk///`
+**Phrase:** in bed
+**IPA:** `/ɪn bɛd/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from alveolar nasal to voiced bilabial stop.
-
----
-
-### Example 2
-**Phrase:** when best
-**IPA:** `//wɛn bɛst///`
-
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** can big
-**IPA:** `//kʰæn bɪɡ///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Alveolar → bilabial, voiced
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** alveolar nasal
 - **Target position:** voiced bilabial stop
-- **Key transition:** Move smoothly from the final position of /n/ to the initial position of /b/. Anticipate the second sound while completing the first.
+- **Key transition:** Alveolar → bilabial, voiced
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

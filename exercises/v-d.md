@@ -10,26 +10,10 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** have day
-**IPA:** `//hæv deɪ///`
+**Phrase:** have done
+**IPA:** `/hæv dʌn/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from voiced labiodental fricative to voiced alveolar stop.
-
----
-
-### Example 2
-**Phrase:** save dark
-**IPA:** `//seɪv dɑɹk///`
-
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** give doing
-**IPA:** `//ɡɪv ˈduɪŋ///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Voiced fricative → voiced stop
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** voiced labiodental fricative
 - **Target position:** voiced alveolar stop
-- **Key transition:** Move smoothly from the final position of /v/ to the initial position of /d/. Anticipate the second sound while completing the first.
+- **Key transition:** Voiced fricative → voiced stop
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

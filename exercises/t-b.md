@@ -13,7 +13,7 @@
 **Phrase:** at bat
 **IPA:** `/æt̚ bæt/`
 
-**Notes:** Natural phrase from connected speechFocus on the transition from voiceless alveolar stop to voiced bilabial stop.
+**Notes:** Unreleased voiceless /t̚/ to voiced /b/: /b/ may be partially devoiced
 
 ---
 
@@ -21,15 +21,15 @@
 **Phrase:** great book
 **IPA:** `/ɡɹeɪt̚ bʊk/`
 
-**Notes:** Natural phrase from connected speechPractice in connected speech across word boundaries.
+**Notes:** Voicing contrast across stop sequence
 
 ---
 
 ### Example 3
-**Phrase:** not big
-**IPA:** `//nɑt̚ bɪɡ///`
+**Phrase:** hit back
+**IPA:** `/hɪt̚ bæk/`
 
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Devoicing influence on /b/ onset
 
 ---
 
@@ -37,15 +37,15 @@
 
 - **Starting position:** voiceless alveolar stop
 - **Target position:** voiced bilabial stop
-- **Key transition:** Move smoothly from the final position of /t/ to the initial position of /b/. Anticipate the second sound while completing the first.
+- **Key transition:** Devoicing influence on /b/ onset
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

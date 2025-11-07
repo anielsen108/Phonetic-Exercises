@@ -10,26 +10,10 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** judge think
-**IPA:** `//dʒʌdʒ θɪŋk///`
+**Phrase:** large thing
+**IPA:** `/lɑɹdʒ θɪŋ/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from voiced postalveolar affricate to voiceless dental fricative.
-
----
-
-### Example 2
-**Phrase:** edge three
-**IPA:** `//ɛdʒ θɹi///`
-
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** large thank
-**IPA:** `//lɑɹdʒ θæŋk///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Voiced → voiceless dental
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** voiced postalveolar affricate
 - **Target position:** voiceless dental fricative
-- **Key transition:** Move smoothly from the final position of /dʒ/ to the initial position of /θ/. Anticipate the second sound while completing the first.
+- **Key transition:** Voiced → voiceless dental
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

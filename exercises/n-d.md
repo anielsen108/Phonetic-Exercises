@@ -10,26 +10,18 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** in day
-**IPA:** `//ɪn deɪ///`
+**Phrase:** hand
+**IPA:** `/hænd/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from alveolar nasal to voiced alveolar stop.
+**Notes:** Homorganic voiced alveolar
 
 ---
 
 ### Example 2
-**Phrase:** when dark
-**IPA:** `//wɛn dɑɹk///`
+**Phrase:** when did
+**IPA:** `/wɛn dɪd/`
 
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** can doing
-**IPA:** `//kʰæn ˈduɪŋ///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Maintained voicing and place
 
 ---
 
@@ -37,15 +29,15 @@
 
 - **Starting position:** alveolar nasal
 - **Target position:** voiced alveolar stop
-- **Key transition:** Move smoothly from the final position of /n/ to the initial position of /d/. Anticipate the second sound while completing the first.
+- **Key transition:** Maintained voicing and place
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

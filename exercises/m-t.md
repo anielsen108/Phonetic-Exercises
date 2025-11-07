@@ -10,26 +10,10 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** him time
-**IPA:** `//hɪm tʰaɪm///`
+**Phrase:** time to
+**IPA:** `/tʰaɪm tə/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from bilabial nasal to voiceless alveolar stop.
-
----
-
-### Example 2
-**Phrase:** same take
-**IPA:** `//seɪm tʰeɪk///`
-
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** room today
-**IPA:** `//ɹum təˈdeɪ///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Nasal bilabial → oral alveolar
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** bilabial nasal
 - **Target position:** voiceless alveolar stop
-- **Key transition:** Move smoothly from the final position of /m/ to the initial position of /t/. Anticipate the second sound while completing the first.
+- **Key transition:** Nasal bilabial → oral alveolar
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

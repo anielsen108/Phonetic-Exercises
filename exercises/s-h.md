@@ -10,26 +10,10 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** this home
-**IPA:** `//ðɪs hoʊm///`
+**Phrase:** this house
+**IPA:** `/ðɪs haʊs/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from voiceless alveolar fricative to voiceless glottal fricative.
-
----
-
-### Example 2
-**Phrase:** pass here
-**IPA:** `//pʰæs hiɹ///`
-
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** place help
-**IPA:** `//pʰleɪs hɛlp///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Fricative → glottal
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** voiceless alveolar fricative
 - **Target position:** voiceless glottal fricative
-- **Key transition:** Move smoothly from the final position of /s/ to the initial position of /h/. Anticipate the second sound while completing the first.
+- **Key transition:** Fricative → glottal
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

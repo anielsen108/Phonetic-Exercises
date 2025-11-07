@@ -10,26 +10,10 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** this first
-**IPA:** `//ðɪs fɜɹst///`
+**Phrase:** this food
+**IPA:** `/ðɪs fud/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from voiceless alveolar fricative to voiceless labiodental fricative.
-
----
-
-### Example 2
-**Phrase:** pass five
-**IPA:** `//pʰæs faɪv///`
-
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** place for
-**IPA:** `//pʰleɪs fɔɹ///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Alveolar → labiodental
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** voiceless alveolar fricative
 - **Target position:** voiceless labiodental fricative
-- **Key transition:** Move smoothly from the final position of /s/ to the initial position of /f/. Anticipate the second sound while completing the first.
+- **Key transition:** Alveolar → labiodental
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

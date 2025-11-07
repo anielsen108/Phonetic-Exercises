@@ -10,26 +10,10 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** against yes
-**IPA:** `//əˈɡɛns̪t̪̚ jɛs///`
+**Phrase:** against you
+**IPA:** `/əˈɡɛnstʃ ju/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from alveolar nasal + voiceless alveolar fricative + voiceless alveolar stop to palatal approximant.
-
----
-
-### Example 2
-**Phrase:** amongst you
-**IPA:** `//əˈmʌŋs̪t̪̚ ju///`
-
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** against year
-**IPA:** `//əˈɡɛns̪t̪̚ jiɹ///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Often coalesces to [tʃ]: /t/+/j/ → [tʃ]
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** alveolar nasal + voiceless alveolar fricative + voiceless alveolar stop
 - **Target position:** palatal approximant
-- **Key transition:** Move smoothly from the final position of /nst/ to the initial position of /j/. Anticipate the second sound while completing the first.
+- **Key transition:** Often coalesces to [tʃ]: /t/+/j/ → [tʃ]
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

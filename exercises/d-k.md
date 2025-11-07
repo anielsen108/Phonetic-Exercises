@@ -11,25 +11,17 @@
 
 ### Example 1
 **Phrase:** bad call
-**IPA:** `/bæd̚ kʰɔl/`
+**IPA:** `/bæd̥̚ kʰɔɫ/`
 
-**Notes:** Natural phrase from connected speechFocus on the transition from voiced alveolar stop to voiceless velar stop.
+**Notes:** Devoicing + place shift: alveolar → velar
 
 ---
 
 ### Example 2
-**Phrase:** need clarity
-**IPA:** `/nid̚ ˈkʰlæɹəti/`
+**Phrase:** good coffee
+**IPA:** `/ɡʊd̥̚ ˈkʰɔfi/`
 
-**Notes:** Natural phrase from connected speechPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** read came
-**IPA:** `//ɹid̚ kʰeɪm///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Place and voicing changes
 
 ---
 
@@ -37,15 +29,15 @@
 
 - **Starting position:** voiced alveolar stop
 - **Target position:** voiceless velar stop
-- **Key transition:** Move smoothly from the final position of /d/ to the initial position of /k/. Anticipate the second sound while completing the first.
+- **Key transition:** Place and voicing changes
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

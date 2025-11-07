@@ -10,26 +10,10 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** call show
-**IPA:** `//kʰɔl ʃoʊ///`
+**Phrase:** will show
+**IPA:** `/wɪɫ ʃoʊ/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from alveolar lateral to voiceless postalveolar fricative.
-
----
-
-### Example 2
-**Phrase:** will ship
-**IPA:** `//wɪl ʃɪp///`
-
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** all sure
-**IPA:** `//ɔl ʃʊɹ///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Lateral → postalveolar
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** alveolar lateral
 - **Target position:** voiceless postalveolar fricative
-- **Key transition:** Move smoothly from the final position of /l/ to the initial position of /ʃ/. Anticipate the second sound while completing the first.
+- **Key transition:** Lateral → postalveolar
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

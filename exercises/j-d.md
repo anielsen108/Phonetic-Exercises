@@ -10,26 +10,10 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** [Example phrase 1 - j+d]
-**IPA:** `/...jd.../  `
+**Phrase:** my dog
+**IPA:** `/maɪ dɔɡ/`
 
-**Notes:** Note: /j/ rarely occurs in word-final position in EnglishFocus on the transition from palatal approximant to voiced alveolar stop.
-
----
-
-### Example 2
-**Phrase:** [Example phrase 2 - j+d]
-**IPA:** `/...jd.../  `
-
-**Notes:** Note: /j/ rarely occurs in word-final position in EnglishPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** [Example phrase 3 - j+d]
-**IPA:** `/...jd.../  `
-
-**Notes:** Note: /j/ rarely occurs in word-final position in EnglishMaintain natural timing and rhythm.
+**Notes:** Palatal → voiced alveolar
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** palatal approximant
 - **Target position:** voiced alveolar stop
-- **Key transition:** Move smoothly from the final position of /j/ to the initial position of /d/. Anticipate the second sound while completing the first.
+- **Key transition:** Palatal → voiced alveolar
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

@@ -10,26 +10,10 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** judge new
-**IPA:** `//dʒʌdʒ nu///`
+**Phrase:** large number
+**IPA:** `/lɑɹdʒ ˈnʌmbɚ/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from voiced postalveolar affricate to alveolar nasal.
-
----
-
-### Example 2
-**Phrase:** edge now
-**IPA:** `//ɛdʒ naʊ///`
-
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** large next
-**IPA:** `//lɑɹdʒ nɛkst///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Affricate → alveolar nasal
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** voiced postalveolar affricate
 - **Target position:** alveolar nasal
-- **Key transition:** Move smoothly from the final position of /dʒ/ to the initial position of /n/. Anticipate the second sound while completing the first.
+- **Key transition:** Affricate → alveolar nasal
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

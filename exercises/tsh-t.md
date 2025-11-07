@@ -10,26 +10,10 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** catch time
-**IPA:** `//kʰætʃ tʰaɪm///`
+**Phrase:** which time
+**IPA:** `/wɪtʃ tʰaɪm/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from voiceless postalveolar affricate to voiceless alveolar stop.
-
----
-
-### Example 2
-**Phrase:** which take
-**IPA:** `//wɪtʃ tʰeɪk///`
-
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** much today
-**IPA:** `//mʌtʃ təˈdeɪ///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Affricate → alveolar stop
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** voiceless postalveolar affricate
 - **Target position:** voiceless alveolar stop
-- **Key transition:** Move smoothly from the final position of /tʃ/ to the initial position of /t/. Anticipate the second sound while completing the first.
+- **Key transition:** Affricate → alveolar stop
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

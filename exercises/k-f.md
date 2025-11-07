@@ -10,26 +10,18 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** back first
-**IPA:** `//bæk̚ fɜɹst///`
+**Phrase:** back forty
+**IPA:** `/bæk̚ ˈfɔɹɾi/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from voiceless velar stop to voiceless labiodental fricative.
+**Notes:** Velar → labiodental
 
 ---
 
 ### Example 2
-**Phrase:** quick five
-**IPA:** `//kwɪk̚ faɪv///`
+**Phrase:** black Friday
+**IPA:** `/blæk̚ ˈfɹaɪdeɪ/`
 
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** make for
-**IPA:** `//meɪk̚ fɔɹ///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Stop → fricative transition
 
 ---
 
@@ -37,15 +29,15 @@
 
 - **Starting position:** voiceless velar stop
 - **Target position:** voiceless labiodental fricative
-- **Key transition:** Move smoothly from the final position of /k/ to the initial position of /f/. Anticipate the second sound while completing the first.
+- **Key transition:** Stop → fricative transition
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

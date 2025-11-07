@@ -10,26 +10,18 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** cup say
-**IPA:** `//kʰʌp̚ seɪ///`
+**Phrase:** lapse
+**IPA:** `/læps/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from voiceless bilabial stop to voiceless alveolar fricative.
+**Notes:** Released /p/ before fricative
 
 ---
 
 ### Example 2
-**Phrase:** up see
-**IPA:** `//ʌp̚ si///`
+**Phrase:** keeps singing
+**IPA:** `/kʰips ˈsɪŋɪŋ/`
 
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** keep some
-**IPA:** `//kʰip̚ sʌm///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Bilabial → alveolar
 
 ---
 
@@ -37,15 +29,15 @@
 
 - **Starting position:** voiceless bilabial stop
 - **Target position:** voiceless alveolar fricative
-- **Key transition:** Move smoothly from the final position of /p/ to the initial position of /s/. Anticipate the second sound while completing the first.
+- **Key transition:** Bilabial → alveolar
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

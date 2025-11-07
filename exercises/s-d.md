@@ -11,25 +11,9 @@
 
 ### Example 1
 **Phrase:** this day
-**IPA:** `//ðɪs deɪ///`
+**IPA:** `/ðɪz deɪ/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from voiceless alveolar fricative to voiced alveolar stop.
-
----
-
-### Example 2
-**Phrase:** pass dark
-**IPA:** `//pʰæs dɑɹk///`
-
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** place doing
-**IPA:** `//pʰleɪs ˈduɪŋ///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Voiced alveolar continuity
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** voiceless alveolar fricative
 - **Target position:** voiced alveolar stop
-- **Key transition:** Move smoothly from the final position of /s/ to the initial position of /d/. Anticipate the second sound while completing the first.
+- **Key transition:** Voiced alveolar continuity
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

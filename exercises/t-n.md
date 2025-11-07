@@ -10,26 +10,26 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** at new
-**IPA:** `//æt̚ nu///`
+**Phrase:** at night
+**IPA:** `/æt̚ naɪt/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from voiceless alveolar stop to alveolar nasal.
+**Notes:** Nasal release: homorganic alveolar /t/→/n/
 
 ---
 
 ### Example 2
-**Phrase:** it now
-**IPA:** `//ɪt̚ naʊ///`
+**Phrase:** button
+**IPA:** `/ˈbʌʔn̩/`
 
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
+**Notes:** Glottal stop + syllabic nasal (common variant)
 
 ---
 
 ### Example 3
-**Phrase:** not next
-**IPA:** `//nɑt̚ nɛkst///`
+**Phrase:** not now
+**IPA:** `/nɑt̚ naʊ̯/`
 
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Lateral plosion possible
 
 ---
 
@@ -37,15 +37,15 @@
 
 - **Starting position:** voiceless alveolar stop
 - **Target position:** alveolar nasal
-- **Key transition:** Move smoothly from the final position of /t/ to the initial position of /n/. Anticipate the second sound while completing the first.
+- **Key transition:** Lateral plosion possible
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

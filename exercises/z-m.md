@@ -10,26 +10,10 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** is my
-**IPA:** `//ɪz maɪ///`
+**Phrase:** has many
+**IPA:** `/hæz ˈmɛni/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from voiced alveolar fricative to bilabial nasal.
-
----
-
-### Example 2
-**Phrase:** has more
-**IPA:** `//hæz moɹ///`
-
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** goes make
-**IPA:** `//ɡoʊz meɪk///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Oral → nasal, voiced
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** voiced alveolar fricative
 - **Target position:** bilabial nasal
-- **Key transition:** Move smoothly from the final position of /z/ to the initial position of /m/. Anticipate the second sound while completing the first.
+- **Key transition:** Oral → nasal, voiced
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

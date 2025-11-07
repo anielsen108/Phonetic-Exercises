@@ -11,25 +11,25 @@
 
 ### Example 1
 **Phrase:** at first
-**IPA:** `/æt̚ fɜɹst/`
+**IPA:** `/æt̚ fɝst/`
 
-**Notes:** Natural phrase from connected speechFocus on the transition from voiceless alveolar stop to voiceless labiodental fricative.
+**Notes:** Stop to fricative: complete closure → partial constriction at labiodental
 
 ---
 
 ### Example 2
-**Phrase:** great fight
-**IPA:** `/ɡɹeɪt̚ faɪt/`
+**Phrase:** not far
+**IPA:** `/nɑt̚ fɑɹ/`
 
-**Notes:** Natural phrase from connected speechPractice in connected speech across word boundaries.
+**Notes:** Lower lip to upper teeth during /f/ onset
 
 ---
 
 ### Example 3
-**Phrase:** not for
-**IPA:** `//nɑt̚ fɔɹ///`
+**Phrase:** great fight
+**IPA:** `/ɡɹeɪt̚ faɪt/`
 
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Oral release into labiodental channel
 
 ---
 
@@ -37,15 +37,15 @@
 
 - **Starting position:** voiceless alveolar stop
 - **Target position:** voiceless labiodental fricative
-- **Key transition:** Move smoothly from the final position of /t/ to the initial position of /f/. Anticipate the second sound while completing the first.
+- **Key transition:** Oral release into labiodental channel
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

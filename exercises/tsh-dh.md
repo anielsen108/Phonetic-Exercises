@@ -10,26 +10,10 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** catch the
-**IPA:** `//kʰætʃ ðə///`
+**Phrase:** which they
+**IPA:** `/wɪtʃ ðeɪ/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from voiceless postalveolar affricate to voiced dental fricative.
-
----
-
-### Example 2
-**Phrase:** which that
-**IPA:** `//wɪtʃ ðæt///`
-
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** much them
-**IPA:** `//mʌtʃ ðɛm///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Voiceless → voiced dental
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** voiceless postalveolar affricate
 - **Target position:** voiced dental fricative
-- **Key transition:** Move smoothly from the final position of /tʃ/ to the initial position of /ð/. Anticipate the second sound while completing the first.
+- **Key transition:** Voiceless → voiced dental
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

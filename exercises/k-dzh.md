@@ -10,26 +10,10 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** back just
-**IPA:** `//bæk̚ dʒʌst///`
+**Phrase:** back job
+**IPA:** `/bæk̥̚ d͡ʒɑb/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from voiceless velar stop to voiced postalveolar affricate.
-
----
-
-### Example 2
-**Phrase:** quick judge
-**IPA:** `//kwɪk̚ dʒʌdʒ///`
-
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** make job
-**IPA:** `//meɪk̚ dʒɑb///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Slight devoicing of /dʒ/
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** voiceless velar stop
 - **Target position:** voiced postalveolar affricate
-- **Key transition:** Move smoothly from the final position of /k/ to the initial position of /dʒ/. Anticipate the second sound while completing the first.
+- **Key transition:** Slight devoicing of /dʒ/
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

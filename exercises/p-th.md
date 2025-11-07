@@ -10,26 +10,10 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** cup think
-**IPA:** `//kʰʌp̚ θɪŋk///`
+**Phrase:** stop thinking
+**IPA:** `/stɑp̪̚ θ̪ɪŋkɪŋ/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from voiceless bilabial stop to voiceless dental fricative.
-
----
-
-### Example 2
-**Phrase:** up three
-**IPA:** `//ʌp̚ θɹi///`
-
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** keep thank
-**IPA:** `//kʰip̚ θæŋk///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Dentalization before /θ/
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** voiceless bilabial stop
 - **Target position:** voiceless dental fricative
-- **Key transition:** Move smoothly from the final position of /p/ to the initial position of /θ/. Anticipate the second sound while completing the first.
+- **Key transition:** Dentalization before /θ/
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

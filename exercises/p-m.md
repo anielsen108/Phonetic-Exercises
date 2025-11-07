@@ -10,26 +10,10 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** cup my
-**IPA:** `//kʰʌp̚ maɪ///`
+**Phrase:** stop me
+**IPA:** `/stɑp̚ mi/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from voiceless bilabial stop to bilabial nasal.
-
----
-
-### Example 2
-**Phrase:** up more
-**IPA:** `//ʌp̚ moɹ///`
-
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** keep make
-**IPA:** `//kʰip̚ meɪk///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Oral → nasal, homorganic bilabial
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** voiceless bilabial stop
 - **Target position:** bilabial nasal
-- **Key transition:** Move smoothly from the final position of /p/ to the initial position of /m/. Anticipate the second sound while completing the first.
+- **Key transition:** Oral → nasal, homorganic bilabial
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

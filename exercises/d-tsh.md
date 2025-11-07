@@ -10,26 +10,18 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** had change
-**IPA:** `//hæd̚ tʃeɪndʒ///`
+**Phrase:** bad choice
+**IPA:** `/bæd̥̚ tʃɔɪs/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from voiced alveolar stop to voiceless postalveolar affricate.
+**Notes:** Devoicing before voiceless affricate
 
 ---
 
 ### Example 2
-**Phrase:** need choice
-**IPA:** `//nid̚ tʃɔɪs///`
+**Phrase:** had chosen
+**IPA:** `/hæd̥̚ ˈtʃoʊ̯zən/`
 
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** read check
-**IPA:** `//ɹid̚ tʃɛk///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Alveolar → postalveolar place shift
 
 ---
 
@@ -37,15 +29,15 @@
 
 - **Starting position:** voiced alveolar stop
 - **Target position:** voiceless postalveolar affricate
-- **Key transition:** Move smoothly from the final position of /d/ to the initial position of /tʃ/. Anticipate the second sound while completing the first.
+- **Key transition:** Alveolar → postalveolar place shift
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

@@ -10,26 +10,10 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** have book
-**IPA:** `//hæv bʊk///`
+**Phrase:** have been
+**IPA:** `/hæv bɪn/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from voiced labiodental fricative to voiced bilabial stop.
-
----
-
-### Example 2
-**Phrase:** save best
-**IPA:** `//seɪv bɛst///`
-
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** give big
-**IPA:** `//ɡɪv bɪɡ///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Fricative → stop, both voiced labial
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** voiced labiodental fricative
 - **Target position:** voiced bilabial stop
-- **Key transition:** Move smoothly from the final position of /v/ to the initial position of /b/. Anticipate the second sound while completing the first.
+- **Key transition:** Fricative → stop, both voiced labial
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

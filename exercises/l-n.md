@@ -10,26 +10,10 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** call new
-**IPA:** `//kʰɔl nu///`
+**Phrase:** will never
+**IPA:** `/wɪɫ ˈnɛvɚ/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from alveolar lateral to alveolar nasal.
-
----
-
-### Example 2
-**Phrase:** will now
-**IPA:** `//wɪl naʊ///`
-
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** all next
-**IPA:** `//ɔl nɛkst///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Lateral → nasal
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** alveolar lateral
 - **Target position:** alveolar nasal
-- **Key transition:** Move smoothly from the final position of /l/ to the initial position of /n/. Anticipate the second sound while completing the first.
+- **Key transition:** Lateral → nasal
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

@@ -10,26 +10,10 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** him new
-**IPA:** `//hɪm nu///`
+**Phrase:** time now
+**IPA:** `/tʰaɪm naʊ/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from bilabial nasal to alveolar nasal.
-
----
-
-### Example 2
-**Phrase:** same now
-**IPA:** `//seɪm naʊ///`
-
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** room next
-**IPA:** `//ɹum nɛkst///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Bilabial → alveolar nasal
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** bilabial nasal
 - **Target position:** alveolar nasal
-- **Key transition:** Move smoothly from the final position of /m/ to the initial position of /n/. Anticipate the second sound while completing the first.
+- **Key transition:** Bilabial → alveolar nasal
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

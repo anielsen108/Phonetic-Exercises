@@ -10,26 +10,26 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** out promoting
-**IPA:** `/aʊt̚ pʰɹəˈmoʊtɪŋ/`
+**Phrase:** at peace
+**IPA:** `/æt̚ pʰis/`
 
-**Notes:** Natural phrase from connected speechFocus on the transition from voiceless alveolar stop to voiceless bilabial stop.
+**Notes:** Unreleased alveolar /t̚/ with tongue tip contact maintained; lips close for aspirated /pʰ/
 
 ---
 
 ### Example 2
-**Phrase:** great plan
-**IPA:** `/ɡɹeɪt̚ pʰlæn/`
+**Phrase:** not possible
+**IPA:** `/nɑt̚ ˈpʰɑsəbəɫ/`
 
-**Notes:** Natural phrase from connected speechPractice in connected speech across word boundaries.
+**Notes:** Double stop articulation: alveolar then bilabial
 
 ---
 
 ### Example 3
-**Phrase:** not place
-**IPA:** `//nɑt̚ pʰleɪs///`
+**Phrase:** night place
+**IPA:** `/naɪt̚ pʰleɪs/`
 
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Stop sequence with aspiration on /p/ in cluster
 
 ---
 
@@ -37,15 +37,15 @@
 
 - **Starting position:** voiceless alveolar stop
 - **Target position:** voiceless bilabial stop
-- **Key transition:** Move smoothly from the final position of /t/ to the initial position of /p/. Anticipate the second sound while completing the first.
+- **Key transition:** Stop sequence with aspiration on /p/ in cluster
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

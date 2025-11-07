@@ -11,25 +11,9 @@
 
 ### Example 1
 **Phrase:** cab driver
-**IPA:** `/kʰæb̚ ˈdɹaɪvəɹ/`
+**IPA:** `/kʰæb̚ ˈdɹaɪvɚ/`
 
-**Notes:** Natural phrase from connected speechFocus on the transition from voiced bilabial stop to voiced alveolar stop.
-
----
-
-### Example 2
-**Phrase:** web design
-**IPA:** `/wɛb̚ dɪˈzaɪn/`
-
-**Notes:** Natural phrase from connected speechPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** job doing
-**IPA:** `//dʒɑb̚ ˈduɪŋ///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Voiced sequence maintained
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** voiced bilabial stop
 - **Target position:** voiced alveolar stop
-- **Key transition:** Move smoothly from the final position of /b/ to the initial position of /d/. Anticipate the second sound while completing the first.
+- **Key transition:** Voiced sequence maintained
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

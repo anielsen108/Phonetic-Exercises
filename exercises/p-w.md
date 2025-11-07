@@ -10,26 +10,10 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** cup way
-**IPA:** `//kʰʌp̚ weɪ///`
+**Phrase:** stop working
+**IPA:** `/stɑp̚ ˈwɝkɪŋ/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from voiceless bilabial stop to labial-velar approximant.
-
----
-
-### Example 2
-**Phrase:** up will
-**IPA:** `//ʌp̚ wɪl///`
-
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** keep want
-**IPA:** `//kʰip̚ wɑnt///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Lip rounding anticipation
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** voiceless bilabial stop
 - **Target position:** labial-velar approximant
-- **Key transition:** Move smoothly from the final position of /p/ to the initial position of /w/. Anticipate the second sound while completing the first.
+- **Key transition:** Lip rounding anticipation
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

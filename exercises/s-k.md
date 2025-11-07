@@ -10,26 +10,18 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** this call
-**IPA:** `//ðɪs kʰɔl///`
+**Phrase:** ask clearly
+**IPA:** `/æsk kʰliɹli/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from voiceless alveolar fricative to voiceless velar stop.
+**Notes:** Alveolar → velar place change
 
 ---
 
 ### Example 2
-**Phrase:** pass keep
-**IPA:** `//pʰæs kʰip///`
+**Phrase:** skip
+**IPA:** `/skɪp/`
 
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** place came
-**IPA:** `//pʰleɪs kʰeɪm///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Within-word cluster
 
 ---
 
@@ -37,15 +29,15 @@
 
 - **Starting position:** voiceless alveolar fricative
 - **Target position:** voiceless velar stop
-- **Key transition:** Move smoothly from the final position of /s/ to the initial position of /k/. Anticipate the second sound while completing the first.
+- **Key transition:** Within-word cluster
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

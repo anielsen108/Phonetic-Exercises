@@ -10,26 +10,18 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** sing going
-**IPA:** `//sɪŋ ˈɡoʊɪŋ///`
+**Phrase:** sing good
+**IPA:** `/sɪŋ ɡʊd/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from velar nasal to voiced velar stop.
+**Notes:** Homorganic voiced: velar nasal → velar stop
 
 ---
 
 ### Example 2
-**Phrase:** long get
-**IPA:** `//lɔŋ ɡɛt///`
+**Phrase:** finger
+**IPA:** `/ˈfɪŋɡɚ/`
 
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** thing gave
-**IPA:** `//θɪŋ ɡeɪv///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Within-word cluster
 
 ---
 
@@ -37,15 +29,15 @@
 
 - **Starting position:** velar nasal
 - **Target position:** voiced velar stop
-- **Key transition:** Move smoothly from the final position of /ŋ/ to the initial position of /g/. Anticipate the second sound while completing the first.
+- **Key transition:** Within-word cluster
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

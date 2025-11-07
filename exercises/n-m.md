@@ -11,25 +11,9 @@
 
 ### Example 1
 **Phrase:** in my
-**IPA:** `//ɪn maɪ///`
+**IPA:** `/ɪn maɪ/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from alveolar nasal to bilabial nasal.
-
----
-
-### Example 2
-**Phrase:** when more
-**IPA:** `//wɛn moɹ///`
-
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** can make
-**IPA:** `//kʰæn meɪk///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Alveolar → bilabial nasal
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** alveolar nasal
 - **Target position:** bilabial nasal
-- **Key transition:** Move smoothly from the final position of /n/ to the initial position of /m/. Anticipate the second sound while completing the first.
+- **Key transition:** Alveolar → bilabial nasal
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

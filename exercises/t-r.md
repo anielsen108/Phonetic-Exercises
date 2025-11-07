@@ -10,26 +10,26 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** at right
-**IPA:** `//æt̚ ɹaɪt///`
+**Phrase:** at risk
+**IPA:** `/æt̚ ɹɪsk/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from voiceless alveolar stop to alveolar approximant.
+**Notes:** Tongue tip curls back anticipating rhotic
 
 ---
 
 ### Example 2
-**Phrase:** it red
-**IPA:** `//ɪt̚ ɹɛd///`
+**Phrase:** not really
+**IPA:** `/nɑt̚ ˈɹiəli/`
 
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
+**Notes:** Retroflex coarticulation
 
 ---
 
 ### Example 3
-**Phrase:** not run
-**IPA:** `//nɑt̚ ɹʌn///`
+**Phrase:** tree
+**IPA:** `/tɹi/`
 
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Within-word cluster: /t/ slightly retroflexed [t̠]
 
 ---
 
@@ -37,15 +37,15 @@
 
 - **Starting position:** voiceless alveolar stop
 - **Target position:** alveolar approximant
-- **Key transition:** Move smoothly from the final position of /t/ to the initial position of /r/. Anticipate the second sound while completing the first.
+- **Key transition:** Within-word cluster: /t/ slightly retroflexed [t̠]
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

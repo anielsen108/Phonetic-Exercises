@@ -10,26 +10,10 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** [Example phrase 1 - j+k]
-**IPA:** `/...jk.../  `
+**Phrase:** my car
+**IPA:** `/maɪ kʰɑɹ/`
 
-**Notes:** Note: /j/ rarely occurs in word-final position in EnglishFocus on the transition from palatal approximant to voiceless velar stop.
-
----
-
-### Example 2
-**Phrase:** [Example phrase 2 - j+k]
-**IPA:** `/...jk.../  `
-
-**Notes:** Note: /j/ rarely occurs in word-final position in EnglishPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** [Example phrase 3 - j+k]
-**IPA:** `/...jk.../  `
-
-**Notes:** Note: /j/ rarely occurs in word-final position in EnglishMaintain natural timing and rhythm.
+**Notes:** Palatal → velar
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** palatal approximant
 - **Target position:** voiceless velar stop
-- **Key transition:** Move smoothly from the final position of /j/ to the initial position of /k/. Anticipate the second sound while completing the first.
+- **Key transition:** Palatal → velar
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

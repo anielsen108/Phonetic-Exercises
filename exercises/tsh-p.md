@@ -10,26 +10,10 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** catch plan
-**IPA:** `//kʰætʃ pʰlæn///`
+**Phrase:** which person
+**IPA:** `/wɪtʃ ˈpʰɝsən/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from voiceless postalveolar affricate to voiceless bilabial stop.
-
----
-
-### Example 2
-**Phrase:** which pay
-**IPA:** `//wɪtʃ pʰeɪ///`
-
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** much place
-**IPA:** `//mʌtʃ pʰleɪs///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Affricate → bilabial stop
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** voiceless postalveolar affricate
 - **Target position:** voiceless bilabial stop
-- **Key transition:** Move smoothly from the final position of /tʃ/ to the initial position of /p/. Anticipate the second sound while completing the first.
+- **Key transition:** Affricate → bilabial stop
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

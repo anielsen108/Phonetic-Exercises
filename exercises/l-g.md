@@ -10,26 +10,10 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** call going
-**IPA:** `//kʰɔl ˈɡoʊɪŋ///`
+**Phrase:** will go
+**IPA:** `/wɪɫ ɡoʊ/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from alveolar lateral to voiced velar stop.
-
----
-
-### Example 2
-**Phrase:** will get
-**IPA:** `//wɪl ɡɛt///`
-
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** all gave
-**IPA:** `//ɔl ɡeɪv///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Velarized lateral → velar stop
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** alveolar lateral
 - **Target position:** voiced velar stop
-- **Key transition:** Move smoothly from the final position of /l/ to the initial position of /g/. Anticipate the second sound while completing the first.
+- **Key transition:** Velarized lateral → velar stop
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

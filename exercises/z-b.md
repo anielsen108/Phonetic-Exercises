@@ -10,26 +10,10 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** is book
-**IPA:** `//ɪz bʊk///`
+**Phrase:** has been
+**IPA:** `/hæz bɪn/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from voiced alveolar fricative to voiced bilabial stop.
-
----
-
-### Example 2
-**Phrase:** has best
-**IPA:** `//hæz bɛst///`
-
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** goes big
-**IPA:** `//ɡoʊz bɪɡ///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Maintained voicing
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** voiced alveolar fricative
 - **Target position:** voiced bilabial stop
-- **Key transition:** Move smoothly from the final position of /z/ to the initial position of /b/. Anticipate the second sound while completing the first.
+- **Key transition:** Maintained voicing
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

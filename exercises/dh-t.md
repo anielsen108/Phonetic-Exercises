@@ -10,26 +10,10 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** bathe time
-**IPA:** `//beɪð tʰaɪm///`
+**Phrase:** breathe two
+**IPA:** `/bɹið̥̚ tʰu/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from voiced dental fricative to voiceless alveolar stop.
-
----
-
-### Example 2
-**Phrase:** clothe take
-**IPA:** `//kloʊð tʰeɪk///`
-
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** bathe today
-**IPA:** `//beɪð təˈdeɪ///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Devoicing + place shift: dental → alveolar
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** voiced dental fricative
 - **Target position:** voiceless alveolar stop
-- **Key transition:** Move smoothly from the final position of /ð/ to the initial position of /t/. Anticipate the second sound while completing the first.
+- **Key transition:** Devoicing + place shift: dental → alveolar
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

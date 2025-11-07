@@ -10,26 +10,10 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** in call
-**IPA:** `//ɪn kʰɔl///`
+**Phrase:** in class
+**IPA:** `/ɪn kʰlæs/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from alveolar nasal to voiceless velar stop.
-
----
-
-### Example 2
-**Phrase:** when keep
-**IPA:** `//wɛn kʰip///`
-
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** can came
-**IPA:** `//kʰæn kʰeɪm///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Alveolar → velar
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** alveolar nasal
 - **Target position:** voiceless velar stop
-- **Key transition:** Move smoothly from the final position of /n/ to the initial position of /k/. Anticipate the second sound while completing the first.
+- **Key transition:** Alveolar → velar
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

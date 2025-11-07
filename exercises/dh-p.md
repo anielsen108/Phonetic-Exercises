@@ -10,26 +10,10 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** bathe plan
-**IPA:** `//beɪð pʰlæn///`
+**Phrase:** breathe peacefully
+**IPA:** `/bɹið̥̚ ˈpʰisfəli/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from voiced dental fricative to voiceless bilabial stop.
-
----
-
-### Example 2
-**Phrase:** clothe pay
-**IPA:** `//kloʊð pʰeɪ///`
-
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** bathe place
-**IPA:** `//beɪð pʰleɪs///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Devoicing of /ð̥/ before voiceless /p/
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** voiced dental fricative
 - **Target position:** voiceless bilabial stop
-- **Key transition:** Move smoothly from the final position of /ð/ to the initial position of /p/. Anticipate the second sound while completing the first.
+- **Key transition:** Devoicing of /ð̥/ before voiceless /p/
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

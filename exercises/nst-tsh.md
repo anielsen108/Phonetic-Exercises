@@ -11,25 +11,17 @@
 
 ### Example 1
 **Phrase:** against change
-**IPA:** `/əˈɡɛns̪t̪ ˈtʃeɪndʒ/`
+**IPA:** `/əˈɡɛnst̚ tʃeɪnd͡ʒ/`
 
-**Notes:** Natural phrase from connected speechFocus on the transition from alveolar nasal + voiceless alveolar fricative + voiceless alveolar stop to voiceless postalveolar affricate.
+**Notes:** Alveolar stop to postalveolar affricate; place shift during transition
 
 ---
 
 ### Example 2
 **Phrase:** against children
-**IPA:** `/əˈɡɛns̪t̪ ˈtʃɪldɹən/`
+**IPA:** `/əˈɡɛnst̚ ˈtʃɪɫdɹən/`
 
-**Notes:** Natural phrase from connected speechPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** against check
-**IPA:** `//əˈɡɛns̪t̪̚ tʃɛk///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Tongue position moves from alveolar to post-alveolar
 
 ---
 
@@ -37,15 +29,15 @@
 
 - **Starting position:** alveolar nasal + voiceless alveolar fricative + voiceless alveolar stop
 - **Target position:** voiceless postalveolar affricate
-- **Key transition:** Move smoothly from the final position of /nst/ to the initial position of /tʃ/. Anticipate the second sound while completing the first.
+- **Key transition:** Tongue position moves from alveolar to post-alveolar
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

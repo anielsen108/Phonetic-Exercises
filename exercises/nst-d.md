@@ -11,25 +11,17 @@
 
 ### Example 1
 **Phrase:** against darkness
-**IPA:** `/əˈɡɛns̪t̪ ˈdɑɹknəs/`
+**IPA:** `/əˈɡɛnst̚ ˈdɑɹknəs/`
 
-**Notes:** Natural phrase from connected speechFocus on the transition from alveolar nasal + voiceless alveolar fricative + voiceless alveolar stop to voiced alveolar stop.
+**Notes:** Voiceless to voiced: /t/ devoices following /d/ onset
 
 ---
 
 ### Example 2
 **Phrase:** against defeat
-**IPA:** `/əˈɡɛns̪t̪ dɪˈfit/`
+**IPA:** `/əˈɡɛnst̚ dɪˈfit/`
 
-**Notes:** Natural phrase from connected speechPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** against doing
-**IPA:** `//əˈɡɛns̪t̪̚ ˈduɪŋ///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Partial voicing assimilation possible
 
 ---
 
@@ -37,15 +29,15 @@
 
 - **Starting position:** alveolar nasal + voiceless alveolar fricative + voiceless alveolar stop
 - **Target position:** voiced alveolar stop
-- **Key transition:** Move smoothly from the final position of /nst/ to the initial position of /d/. Anticipate the second sound while completing the first.
+- **Key transition:** Partial voicing assimilation possible
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

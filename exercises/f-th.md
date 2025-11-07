@@ -10,26 +10,10 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** if think
-**IPA:** `//ɪf θɪŋk///`
+**Phrase:** if things
+**IPA:** `/ɪf̪ θ̪ɪŋz/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from voiceless labiodental fricative to voiceless dental fricative.
-
----
-
-### Example 2
-**Phrase:** safe three
-**IPA:** `//seɪf θɹi///`
-
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** off thank
-**IPA:** `//ɔf θæŋk///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Labiodental → dental
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** voiceless labiodental fricative
 - **Target position:** voiceless dental fricative
-- **Key transition:** Move smoothly from the final position of /f/ to the initial position of /θ/. Anticipate the second sound while completing the first.
+- **Key transition:** Labiodental → dental
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

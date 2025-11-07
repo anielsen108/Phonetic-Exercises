@@ -10,26 +10,18 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** this time
-**IPA:** `//ðɪs tʰaɪm///`
+**Phrase:** last time
+**IPA:** `/læst̚ tʰaɪm/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from voiceless alveolar fricative to voiceless alveolar stop.
+**Notes:** Homorganic alveolar cluster
 
 ---
 
 ### Example 2
-**Phrase:** pass take
-**IPA:** `//pʰæs tʰeɪk///`
+**Phrase:** first try
+**IPA:** `/fɝst̚ tʰɹaɪ/`
 
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** place today
-**IPA:** `//pʰleɪs təˈdeɪ///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Released /t/ in onset cluster
 
 ---
 
@@ -37,15 +29,15 @@
 
 - **Starting position:** voiceless alveolar fricative
 - **Target position:** voiceless alveolar stop
-- **Key transition:** Move smoothly from the final position of /s/ to the initial position of /t/. Anticipate the second sound while completing the first.
+- **Key transition:** Released /t/ in onset cluster
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

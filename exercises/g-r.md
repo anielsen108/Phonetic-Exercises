@@ -10,26 +10,10 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** big right
-**IPA:** `//bɪɡ̚ ɹaɪt///`
+**Phrase:** big red
+**IPA:** `/bɪɡ̚ ɹɛd/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from voiced velar stop to alveolar approximant.
-
----
-
-### Example 2
-**Phrase:** bag red
-**IPA:** `//bæɡ̚ ɹɛd///`
-
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** dog run
-**IPA:** `//dɔɡ̚ ɹʌn///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Velar → rhotic
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** voiced velar stop
 - **Target position:** alveolar approximant
-- **Key transition:** Move smoothly from the final position of /g/ to the initial position of /r/. Anticipate the second sound while completing the first.
+- **Key transition:** Velar → rhotic
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

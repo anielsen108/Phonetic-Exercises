@@ -13,23 +13,15 @@
 **Phrase:** back door
 **IPA:** `/bæk̚ doɹ/`
 
-**Notes:** Natural phrase from connected speechFocus on the transition from voiceless velar stop to voiced alveolar stop.
+**Notes:** /d/ may be partially devoiced after /k/
 
 ---
 
 ### Example 2
-**Phrase:** packed down
-**IPA:** `/pʰækt̚ daʊn/`
+**Phrase:** locked down
+**IPA:** `/lɑkt̚ daʊ̯n/`
 
-**Notes:** Natural phrase from connected speechPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** make doing
-**IPA:** `//meɪk̚ ˈduɪŋ///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Voicing contrast
 
 ---
 
@@ -37,15 +29,15 @@
 
 - **Starting position:** voiceless velar stop
 - **Target position:** voiced alveolar stop
-- **Key transition:** Move smoothly from the final position of /k/ to the initial position of /d/. Anticipate the second sound while completing the first.
+- **Key transition:** Voicing contrast
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

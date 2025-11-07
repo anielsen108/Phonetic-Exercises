@@ -10,26 +10,10 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** catch my
-**IPA:** `//kʰætʃ maɪ///`
+**Phrase:** which movie
+**IPA:** `/wɪtʃ ˈmuvi/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from voiceless postalveolar affricate to bilabial nasal.
-
----
-
-### Example 2
-**Phrase:** which more
-**IPA:** `//wɪtʃ moɹ///`
-
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** much make
-**IPA:** `//mʌtʃ meɪk///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Affricate → bilabial nasal
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** voiceless postalveolar affricate
 - **Target position:** bilabial nasal
-- **Key transition:** Move smoothly from the final position of /tʃ/ to the initial position of /m/. Anticipate the second sound while completing the first.
+- **Key transition:** Affricate → bilabial nasal
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

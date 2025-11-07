@@ -10,26 +10,10 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** back show
-**IPA:** `//bæk̚ ʃoʊ///`
+**Phrase:** back shoe
+**IPA:** `/bæk̚ ʃu/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from voiceless velar stop to voiceless postalveolar fricative.
-
----
-
-### Example 2
-**Phrase:** quick ship
-**IPA:** `//kwɪk̚ ʃɪp///`
-
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** make sure
-**IPA:** `//meɪk̚ ʃʊɹ///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Velar → postalveolar retraction
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** voiceless velar stop
 - **Target position:** voiceless postalveolar fricative
-- **Key transition:** Move smoothly from the final position of /k/ to the initial position of /ʃ/. Anticipate the second sound while completing the first.
+- **Key transition:** Velar → postalveolar retraction
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

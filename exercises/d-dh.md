@@ -13,23 +13,23 @@
 **Phrase:** read the book
 **IPA:** `/ɹid̪̚ ð̪ə bʊk/`
 
-**Notes:** Natural phrase from connected speechFocus on the transition from voiced alveolar stop to voiced dental fricative.
+**Notes:** Dentalized /d̪̚/: tongue tip moves forward to teeth
 
 ---
 
 ### Example 2
-**Phrase:** had the chance
-**IPA:** `/hæd̪̚ ð̪ə tʃæns/`
+**Phrase:** had the time
+**IPA:** `/hæd̪̚ ð̪ə tʰaɪm/`
 
-**Notes:** Natural phrase from connected speechPractice in connected speech across word boundaries.
+**Notes:** Complete dental place assimilation
 
 ---
 
 ### Example 3
-**Phrase:** read them
-**IPA:** `//ɹid̚ ðɛm///`
+**Phrase:** could they
+**IPA:** `/kʰʊd̪̚ ð̪eɪ/`
 
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Voiced dental throughout transition
 
 ---
 
@@ -37,15 +37,15 @@
 
 - **Starting position:** voiced alveolar stop
 - **Target position:** voiced dental fricative
-- **Key transition:** Move smoothly from the final position of /d/ to the initial position of /ð/. Anticipate the second sound while completing the first.
+- **Key transition:** Voiced dental throughout transition
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

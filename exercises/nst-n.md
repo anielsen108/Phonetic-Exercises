@@ -11,25 +11,17 @@
 
 ### Example 1
 **Phrase:** against nature
-**IPA:** `/əˈɡɛns̪t̪ ˈneɪtʃəɹ/`
+**IPA:** `/əˈɡɛnst̚ ˈneɪtʃɚ/`
 
-**Notes:** Natural phrase from connected speechFocus on the transition from alveolar nasal + voiceless alveolar fricative + voiceless alveolar stop to alveolar nasal.
+**Notes:** Homorganic nasal release: alveolar /t/ → alveolar /n/
 
 ---
 
 ### Example 2
 **Phrase:** against new ideas
-**IPA:** `/əˈɡɛns̪t̪ ˈnu aɪˈdiəz/`
+**IPA:** `/əˈɡɛnst̚ nu aɪˈdiəz/`
 
-**Notes:** Natural phrase from connected speechPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** against next
-**IPA:** `//əˈɡɛns̪t̪̚ nɛkst///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Nasal airflow begins at release
 
 ---
 
@@ -37,15 +29,15 @@
 
 - **Starting position:** alveolar nasal + voiceless alveolar fricative + voiceless alveolar stop
 - **Target position:** alveolar nasal
-- **Key transition:** Move smoothly from the final position of /nst/ to the initial position of /n/. Anticipate the second sound while completing the first.
+- **Key transition:** Nasal airflow begins at release
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

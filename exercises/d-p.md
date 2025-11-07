@@ -11,25 +11,17 @@
 
 ### Example 1
 **Phrase:** bad plan
-**IPA:** `/bæd̚ pʰlæn/`
+**IPA:** `/bæd̥̚ pʰlæn/`
 
-**Notes:** Natural phrase from connected speechFocus on the transition from voiced alveolar stop to voiceless bilabial stop.
+**Notes:** Complete devoicing of /d̥/ before voiceless /pʰ/
 
 ---
 
 ### Example 2
 **Phrase:** need practice
-**IPA:** `/nid̚ ˈpʰɹæktɪs/`
+**IPA:** `/nid̥̚ ˈpʰɹæktɪs/`
 
-**Notes:** Natural phrase from connected speechPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** read place
-**IPA:** `//ɹid̚ pʰleɪs///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Regressive devoicing assimilation
 
 ---
 
@@ -37,15 +29,15 @@
 
 - **Starting position:** voiced alveolar stop
 - **Target position:** voiceless bilabial stop
-- **Key transition:** Move smoothly from the final position of /d/ to the initial position of /p/. Anticipate the second sound while completing the first.
+- **Key transition:** Regressive devoicing assimilation
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

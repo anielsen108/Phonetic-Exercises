@@ -10,26 +10,26 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** at this
-**IPA:** `/æt̚ ðɪs/`
+**Phrase:** at three
+**IPA:** `/æt̪̚ θ̪ɹi/`
 
-**Notes:** Natural phrase from connected speechFocus on the transition from voiceless alveolar stop to voiceless dental fricative.
+**Notes:** Dentalized /t̪/: tongue tip moves to interdental position
 
 ---
 
 ### Example 2
-**Phrase:** great thinking
-**IPA:** `/ɡɹeɪt̚ ˈθɪŋkɪŋ/`
+**Phrase:** not thinking
+**IPA:** `/nɑt̪̚ ˈθ̪ɪŋkɪŋ/`
 
-**Notes:** Natural phrase from connected speechPractice in connected speech across word boundaries.
+**Notes:** Both dental: homorganic place
 
 ---
 
 ### Example 3
-**Phrase:** not thank
-**IPA:** `//nɑt̚ θæŋk///`
+**Phrase:** hit theater
+**IPA:** `/hɪt̪̚ ˈθ̪iətɚ/`
 
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Unreleased dental stop before voiceless dental fricative
 
 ---
 
@@ -37,15 +37,15 @@
 
 - **Starting position:** voiceless alveolar stop
 - **Target position:** voiceless dental fricative
-- **Key transition:** Move smoothly from the final position of /t/ to the initial position of /θ/. Anticipate the second sound while completing the first.
+- **Key transition:** Unreleased dental stop before voiceless dental fricative
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

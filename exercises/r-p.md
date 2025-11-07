@@ -10,26 +10,10 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** far plan
-**IPA:** `//fɑɹ pʰlæn///`
+**Phrase:** her place
+**IPA:** `/hɚ pʰleɪs/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from alveolar approximant to voiceless bilabial stop.
-
----
-
-### Example 2
-**Phrase:** here pay
-**IPA:** `//hiɹ pʰeɪ///`
-
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** more place
-**IPA:** `//moɹ pʰleɪs///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Rhotic → bilabial
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** alveolar approximant
 - **Target position:** voiceless bilabial stop
-- **Key transition:** Move smoothly from the final position of /r/ to the initial position of /p/. Anticipate the second sound while completing the first.
+- **Key transition:** Rhotic → bilabial
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

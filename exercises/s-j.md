@@ -10,26 +10,10 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** this yes
-**IPA:** `//ðɪs jɛs///`
+**Phrase:** this year
+**IPA:** `/ðɪʃ jiɹ/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from voiceless alveolar fricative to palatal approximant.
-
----
-
-### Example 2
-**Phrase:** pass you
-**IPA:** `//pʰæs ju///`
-
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** place year
-**IPA:** `//pʰleɪs jiɹ///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Palatalization to [ʃ]
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** voiceless alveolar fricative
 - **Target position:** palatal approximant
-- **Key transition:** Move smoothly from the final position of /s/ to the initial position of /j/. Anticipate the second sound while completing the first.
+- **Key transition:** Palatalization to [ʃ]
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

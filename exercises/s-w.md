@@ -11,25 +11,17 @@
 
 ### Example 1
 **Phrase:** this way
-**IPA:** `//ðɪs weɪ///`
+**IPA:** `/ðɪs weɪ/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from voiceless alveolar fricative to labial-velar approximant.
+**Notes:** Sibilant → labiovelar
 
 ---
 
 ### Example 2
-**Phrase:** pass will
-**IPA:** `//pʰæs wɪl///`
+**Phrase:** swim
+**IPA:** `/swɪm/`
 
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** place want
-**IPA:** `//pʰleɪs wɑnt///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Within-word cluster
 
 ---
 
@@ -37,15 +29,15 @@
 
 - **Starting position:** voiceless alveolar fricative
 - **Target position:** labial-velar approximant
-- **Key transition:** Move smoothly from the final position of /s/ to the initial position of /w/. Anticipate the second sound while completing the first.
+- **Key transition:** Within-word cluster
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

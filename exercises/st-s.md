@@ -10,26 +10,10 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** just say
-**IPA:** `//dʒʌst̚ seɪ///`
+**Phrase:** first sign
+**IPA:** `/fɝst̚ saɪn/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from s + voiceless alveolar stop to voiceless alveolar fricative.
-
----
-
-### Example 2
-**Phrase:** first see
-**IPA:** `//fɜɹst̚ si///`
-
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** against some
-**IPA:** `//əˈɡɛns̪t̪̚ sʌm///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Cluster → sibilant
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** s + voiceless alveolar stop
 - **Target position:** voiceless alveolar fricative
-- **Key transition:** Move smoothly from the final position of /st/ to the initial position of /s/. Anticipate the second sound while completing the first.
+- **Key transition:** Cluster → sibilant
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 

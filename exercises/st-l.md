@@ -10,26 +10,10 @@
 ## Practice Exercises
 
 ### Example 1
-**Phrase:** just late
-**IPA:** `//dʒʌst̚ leɪt///`
+**Phrase:** best late
+**IPA:** `/bɛst̚ leɪt/`
 
-**Notes:** Practice the transition across word boundaryFocus on the transition from s + voiceless alveolar stop to alveolar lateral.
-
----
-
-### Example 2
-**Phrase:** first look
-**IPA:** `//fɜɹst̚ lʊk///`
-
-**Notes:** Practice the transition across word boundaryPractice in connected speech across word boundaries.
-
----
-
-### Example 3
-**Phrase:** against last
-**IPA:** `//əˈɡɛns̪t̪̚ læst///`
-
-**Notes:** Practice the transition across word boundaryMaintain natural timing and rhythm.
+**Notes:** Cluster → lateral
 
 ---
 
@@ -37,15 +21,15 @@
 
 - **Starting position:** s + voiceless alveolar stop
 - **Target position:** alveolar lateral
-- **Key transition:** Move smoothly from the final position of /st/ to the initial position of /l/. Anticipate the second sound while completing the first.
+- **Key transition:** Cluster → lateral
 
-## Common Contexts
+## Coarticulation Effects
 
-This sound combination appears in:
-- [ ] Word-internal position
-- [ ] Across word boundaries
-- [ ] Common phrases
-- [ ] Less common/careful speech only
+This combination shows:
+- Place of articulation adjustments
+- Voicing assimilation/anticipation
+- Manner of articulation transitions
+- Release/unreleased characteristics
 
 ---
 
