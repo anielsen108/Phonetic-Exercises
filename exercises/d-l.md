@@ -1,44 +1,102 @@
-# Coarticulation: /d/ + /l/
+# Coarticulation Study: /d/ + /l/
 
-## Sound Combination
+### Sequence: voiced alveolar stop → alveolar lateral approximant
 
-**First sound:** /d/ — voiced alveolar stop
-**Second sound:** /l/ — alveolar lateral
+### Example Phrase: **bad luck**
 
----
-
-## Practice Exercises
-
-### Example 1
-**Phrase:** bad luck
 **IPA:** `/bæd̚ lʌk/`
-
-**Notes:** Lateral release: sides lower during /l/
-
----
-
-### Example 2
-**Phrase:** middle
-**IPA:** `/ˈmɪdɫ̩/`
-
-**Notes:** Dark lateral [ɫ̩] syllabic
+**Allophonic detail:** `[bæd̚ lʌk[`
 
 ---
 
-## Articulation Tips
+## 1. Segmental Foundations
 
-- **Starting position:** voiced alveolar stop
-- **Target position:** alveolar lateral
-- **Key transition:** Dark lateral [ɫ̩] syllabic
+| Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |
+|----------|---------|--------|----------|-----------|-----------|-----------|
+| First | /d/ | alveolar | stop (plosive) | voiced | oral | variable, flapped intervocalically |
+| Second | /l/ | alveolar | lateral approximant | voiced | oral (lateral) | continuous, velarized finally |
 
-## Coarticulation Effects
-
-This combination shows:
-- Place of articulation adjustments
-- Voicing assimilation/anticipation
-- Manner of articulation transitions
-- Release/unreleased characteristics
+* **/d/**: Lateral release: sides lower during /l/
+* **/l/**: Alveolar lateral approximant articulation follows with typical place and manner characteristics.
 
 ---
 
-[← Back to all combinations](README.md)
+## 2. Coarticulatory Mechanisms
+
+1. **Voicing Continuity:**
+   Both /d/ and /l/ are voiced; the glottis remains adducted throughout. Spectrographically, this appears as a continuous low-frequency voicing bar.
+
+2. **Stop Release Modification:**
+   The /d/ closure releases directly into the /l/ articulation, often showing reduced or absent burst energy.
+
+3. **Specific Adaptation:**
+   Lateral release: sides lower during /l/
+
+---
+
+## 3. Acoustic & Perceptual Signature
+
+| Feature                 | Acoustic Manifestation                      | Perceptual Effect               |
+| ----------------------- | ------------------------------------------- | ------------------------------- |
+| Voicing bar             | Low-frequency band (~100 Hz) throughout     | Smooth, connected transition    |
+| Closure gap             | Silent interval (20-80 ms)                  | Perceived stop identity         |
+| Burst/release           | Brief high-amplitude transient              | Place-of-articulation cue       |
+| Formant transitions     | F2/F3 movement into /l/                     | Place identification cue        |
+
+---
+
+## 4. Articulatory Practice
+
+### 4.1 Slow-Motion Drill
+
+1. Say **"bad"** slowly, establishing full /d/ articulation.
+2. Say **"luck"** starting with an isolated /l/.
+3. Merge: *bad luck* — maintain voicing continuity, minimize release between segments.
+4. Record and compare:
+
+   * Over-released: Excessive separation between sounds
+   * Balanced: Natural liaison as transcribed `/bæd̚ lʌk/`
+   * Under-articulated: Loss of primary articulatory cues
+
+### 4.2 Gestural Continuity Exercise
+
+* Focus awareness on active articulators for both /d/ and /l/.
+* Alternate "d-l-d-l" while maintaining voicing where applicable.
+* Notice the articulatory transition: where does one gesture end and the next begin?
+* Perform slowly, then gradually increase speed while preserving clarity.
+* The movement should feel **fluid** and **economical**, not **segmented**.
+
+---
+
+## 5. Broader Coarticulatory Insights
+
+| Type                           | Manifestation                         | Similar Pairs       |
+| ------------------------------ | ------------------------------------- | ------------------- |
+| **Place shift                 ** | alveolar → alveolar                   | /d l/, similar front-back transitions |
+| **Voicing pattern             ** | voiced to voiced                      | Common in /d l/ sequences |
+| **Manner transition           ** | stop → lateral                        | Affects timing and release |
+
+
+Understanding this combination helps refine articulation for all homorganic sequences involving stop (plosive) and lateral approximant manners.
+
+---
+
+## 6. Summary Points
+
+* /d/ + /l/ is a **voiced, homorganic sequence** showing distinctive coarticulatory patterns.
+* The transition exhibits **voicing continuity**.
+* Perceptually, listeners rely on **formant transitions and temporal cues** to identify both segments.
+* Mastery involves **smooth articulatory flow** while maintaining segment identity.
+
+---
+
+### Practice Sentence Variants
+
+| Phrase | IPA | Note |
+| ---------- | ----------------- | -------------------------------------- |
+| bad luck   | `/bæd̚ lʌk/     ` | Lateral release: sides lower during /l/ |
+| middle     | `/ˈmɪdɫ̩/       ` | Dark lateral [ɫ̩] syllabic             |
+
+---
+
+*Part of a curated collection of coarticulation studies for American English.*

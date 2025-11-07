@@ -1,36 +1,104 @@
-# Coarticulation: /b/ + /d/
+# Coarticulation Study: /b/ + /d/
 
-## Sound Combination
+### Sequence: voiced bilabial stop → voiced alveolar stop
 
-**First sound:** /b/ — voiced bilabial stop
-**Second sound:** /d/ — voiced alveolar stop
+### Example Phrase: **cab driver**
 
----
-
-## Practice Exercises
-
-### Example 1
-**Phrase:** cab driver
 **IPA:** `/kʰæb̚ ˈdɹaɪvɚ/`
-
-**Notes:** Voiced sequence maintained
-
----
-
-## Articulation Tips
-
-- **Starting position:** voiced bilabial stop
-- **Target position:** voiced alveolar stop
-- **Key transition:** Voiced sequence maintained
-
-## Coarticulation Effects
-
-This combination shows:
-- Place of articulation adjustments
-- Voicing assimilation/anticipation
-- Manner of articulation transitions
-- Release/unreleased characteristics
+**Allophonic detail:** `[kʰæb̚ ˈdɹaɪvɚ[`
 
 ---
 
-[← Back to all combinations](README.md)
+## 1. Segmental Foundations
+
+| Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |
+|----------|---------|--------|----------|-----------|-----------|-----------|
+| First | /b/ | bilabial | stop (plosive) | voiced | oral | short closure, often unreleased |
+| Second | /d/ | alveolar | stop (plosive) | voiced | oral | variable, flapped intervocalically |
+
+* **/b/**: Voiced sequence maintained
+* **/d/**: Voiced alveolar stop articulation follows with typical place and manner characteristics.
+
+---
+
+## 2. Coarticulatory Mechanisms
+
+1. **Anticipatory Place Shift:**
+   The tongue/lips begin moving toward the alveolar target before the /b/ gesture completes. This creates overlap between bilabial and alveolar articulations.
+
+2. **Voicing Continuity:**
+   Both /b/ and /d/ are voiced; the glottis remains adducted throughout. Spectrographically, this appears as a continuous low-frequency voicing bar.
+
+3. **Stop Release Overlap:**
+   The /b/ is typically unreleased ([b̚]), with air pressure maintained until the /d/ closure forms. The release burst belongs to /d/.
+
+4. **Specific Adaptation:**
+   Voiced sequence maintained
+
+---
+
+## 3. Acoustic & Perceptual Signature
+
+| Feature                 | Acoustic Manifestation                      | Perceptual Effect               |
+| ----------------------- | ------------------------------------------- | ------------------------------- |
+| Voicing bar             | Low-frequency band (~100 Hz) throughout     | Smooth, connected transition    |
+| Closure gap             | Silent interval (20-80 ms)                  | Perceived stop identity         |
+| Burst/release           | Brief high-amplitude transient              | Place-of-articulation cue       |
+| Formant transitions     | F2/F3 movement into /d/                     | Place identification cue        |
+
+---
+
+## 4. Articulatory Practice
+
+### 4.1 Slow-Motion Drill
+
+1. Say **"cab"** slowly, establishing full /b/ articulation.
+2. Say **"driver"** starting with an isolated /d/.
+3. Merge: *cab driver* — maintain voicing continuity, minimize release between segments.
+4. Record and compare:
+
+   * Over-released: Excessive separation between sounds
+   * Balanced: Natural liaison as transcribed `/kʰæb̚ ˈdɹaɪvɚ/`
+   * Under-articulated: Loss of primary articulatory cues
+
+### 4.2 Gestural Continuity Exercise
+
+* Focus awareness on active articulators for both /b/ and /d/.
+* Alternate "b-d-b-d" while maintaining voicing where applicable.
+* Notice the articulatory transition: where does one gesture end and the next begin?
+* Perform slowly, then gradually increase speed while preserving clarity.
+* The movement should feel **fluid** and **economical**, not **segmented**.
+
+---
+
+## 5. Broader Coarticulatory Insights
+
+| Type                           | Manifestation                         | Similar Pairs       |
+| ------------------------------ | ------------------------------------- | ------------------- |
+| **Place shift                 ** | bilabial → alveolar                   | /b d/, similar front-back transitions |
+| **Voicing pattern             ** | voiced to voiced                      | Common in /b d/ sequences |
+| **Manner transition           ** | stop → stop                           | Affects timing and release |
+
+
+Understanding this combination helps refine articulation for all cross-place sequences involving stop (plosive) and stop (plosive) manners.
+
+---
+
+## 6. Summary Points
+
+* /b/ + /d/ is a **voiced, cross-place sequence** showing distinctive coarticulatory patterns.
+* The transition exhibits **anticipatory place shift**.
+* Perceptually, listeners rely on **formant transitions and temporal cues** to identify both segments.
+* Mastery involves **smooth articulatory flow** while maintaining segment identity.
+
+---
+
+### Practice Sentence Variants
+
+| Phrase | IPA | Note |
+| ---------- | ----------------- | -------------------------------------- |
+| cab driver | `/kʰæb̚ ˈdɹaɪvɚ/` | Voiced sequence maintained             |
+
+---
+
+*Part of a curated collection of coarticulation studies for American English.*

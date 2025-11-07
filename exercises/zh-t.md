@@ -1,36 +1,102 @@
-# Coarticulation: /ʒ/ + /t/
+# Coarticulation Study: /ʒ/ + /t/
 
-## Sound Combination
+### Sequence: voiced postalveolar fricative → voiceless alveolar stop
 
-**First sound:** /ʒ/ — voiced postalveolar fricative
-**Second sound:** /t/ — voiceless alveolar stop
+### Example Phrase: **beige tie**
 
----
-
-## Practice Exercises
-
-### Example 1
-**Phrase:** beige tie
 **IPA:** `/beɪʒ tʰaɪ/`
-
-**Notes:** Rare: /ʒ/ word-final
-
----
-
-## Articulation Tips
-
-- **Starting position:** voiced postalveolar fricative
-- **Target position:** voiceless alveolar stop
-- **Key transition:** Rare: /ʒ/ word-final
-
-## Coarticulation Effects
-
-This combination shows:
-- Place of articulation adjustments
-- Voicing assimilation/anticipation
-- Manner of articulation transitions
-- Release/unreleased characteristics
+**Allophonic detail:** `[beɪʒ tʰaɪ[`
 
 ---
 
-[← Back to all combinations](README.md)
+## 1. Segmental Foundations
+
+| Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |
+|----------|---------|--------|----------|-----------|-----------|-----------|
+| First | /ʒ/ | postalveolar | fricative (sibilant) | voiced | oral | continuous, rare in English |
+| Second | /t/ | alveolar | stop (plosive) | voiceless | oral | short, often unreleased word-finally |
+
+* **/ʒ/**: Rare: /ʒ/ word-final
+* **/t/**: Voiceless alveolar stop articulation follows with typical place and manner characteristics.
+
+---
+
+## 2. Coarticulatory Mechanisms
+
+1. **Anticipatory Place Shift:**
+   The tongue/lips begin moving toward the alveolar target before the /ʒ/ gesture completes. This creates overlap between postalveolar and alveolar articulations.
+
+2. **Voicing Transition:**
+   The glottis shifts from voiced to voiceless. This transition may show partial devoicing or voicing anticipation depending on speech rate.
+
+3. **Fricative-to-Stop Transition:**
+   The continuous airflow of /ʒ/ terminates as the /t/ closure forms. Listeners perceive a sharp acoustic boundary.
+
+4. **Specific Adaptation:**
+   Rare: /ʒ/ word-final
+
+---
+
+## 3. Acoustic & Perceptual Signature
+
+| Feature                 | Acoustic Manifestation                      | Perceptual Effect               |
+| ----------------------- | ------------------------------------------- | ------------------------------- |
+| Frication noise         | Continuous aperiodic energy                 | Distinct fricative quality      |
+| Formant transitions     | F2/F3 movement into /t/                     | Place identification cue        |
+
+---
+
+## 4. Articulatory Practice
+
+### 4.1 Slow-Motion Drill
+
+1. Say **"beige"** slowly, establishing full /ʒ/ articulation.
+2. Say **"tie"** starting with an isolated /t/.
+3. Merge: *beige tie* — maintain voicing continuity, minimize release between segments.
+4. Record and compare:
+
+   * Over-released: Excessive separation between sounds
+   * Balanced: Natural liaison as transcribed `/beɪʒ tʰaɪ/`
+   * Under-articulated: Loss of primary articulatory cues
+
+### 4.2 Gestural Continuity Exercise
+
+* Focus awareness on active articulators for both /ʒ/ and /t/.
+* Alternate "ʒ-t-ʒ-t" while maintaining voicing where applicable.
+* Notice the articulatory transition: where does one gesture end and the next begin?
+* Perform slowly, then gradually increase speed while preserving clarity.
+* The movement should feel **fluid** and **economical**, not **segmented**.
+
+---
+
+## 5. Broader Coarticulatory Insights
+
+| Type                           | Manifestation                         | Similar Pairs       |
+| ------------------------------ | ------------------------------------- | ------------------- |
+| **Place shift                 ** | postalveolar → alveolar               | /ʒ t/, similar front-back transitions |
+| **Voicing pattern             ** | voiced to voiceless                   | Common in /ʒ t/ sequences |
+| **Manner transition           ** | fricative → stop                      | Affects timing and release |
+
+
+Understanding this combination helps refine articulation for all cross-place sequences involving fricative (sibilant) and stop (plosive) manners.
+
+---
+
+## 6. Summary Points
+
+* /ʒ/ + /t/ is a **mixed-voicing, cross-place sequence** showing distinctive coarticulatory patterns.
+* The transition exhibits **anticipatory place shift**.
+* Perceptually, listeners rely on **formant transitions and temporal cues** to identify both segments.
+* Mastery involves **smooth articulatory flow** while maintaining segment identity.
+
+---
+
+### Practice Sentence Variants
+
+| Phrase | IPA | Note |
+| ---------- | ----------------- | -------------------------------------- |
+| beige tie  | `/beɪʒ tʰaɪ/    ` | Rare: /ʒ/ word-final                   |
+
+---
+
+*Part of a curated collection of coarticulation studies for American English.*

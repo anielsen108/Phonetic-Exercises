@@ -1,52 +1,103 @@
-# Coarticulation: /t/ + /l/
+# Coarticulation Study: /t/ + /l/
 
-## Sound Combination
+### Sequence: voiceless alveolar stop → alveolar lateral approximant
 
-**First sound:** /t/ — voiceless alveolar stop
-**Second sound:** /l/ — alveolar lateral
+### Example Phrase: **at last**
 
----
-
-## Practice Exercises
-
-### Example 1
-**Phrase:** at last
 **IPA:** `/æt̚ læst/`
-
-**Notes:** Lateral release: tongue sides lower, tip maintains contact
-
----
-
-### Example 2
-**Phrase:** bottle
-**IPA:** `/ˈbɑɾɫ̩/`
-
-**Notes:** Flapped /ɾ/ or lateral release to syllabic /ɫ̩/
+**Allophonic detail:** `[æt̚ læst[`
 
 ---
 
-### Example 3
-**Phrase:** not late
-**IPA:** `/nɑt̚ leɪt/`
+## 1. Segmental Foundations
 
-**Notes:** Clear [l] after fortis /t/
+| Segment | Symbol | Place | Manner | Voicing | Airflow | Duration |
+|----------|---------|--------|----------|-----------|-----------|-----------|
+| First | /t/ | alveolar | stop (plosive) | voiceless | oral | short, often unreleased word-finally |
+| Second | /l/ | alveolar | lateral approximant | voiced | oral (lateral) | continuous, velarized finally |
 
----
-
-## Articulation Tips
-
-- **Starting position:** voiceless alveolar stop
-- **Target position:** alveolar lateral
-- **Key transition:** Clear [l] after fortis /t/
-
-## Coarticulation Effects
-
-This combination shows:
-- Place of articulation adjustments
-- Voicing assimilation/anticipation
-- Manner of articulation transitions
-- Release/unreleased characteristics
+* **/t/**: Lateral release: tongue sides lower, tip maintains contact
+* **/l/**: Alveolar lateral approximant articulation follows with typical place and manner characteristics.
 
 ---
 
-[← Back to all combinations](README.md)
+## 2. Coarticulatory Mechanisms
+
+1. **Voicing Transition:**
+   The glottis shifts from voiceless to voiced. This transition may show partial devoicing or voicing anticipation depending on speech rate.
+
+2. **Stop Release Modification:**
+   The /t/ closure releases directly into the /l/ articulation, often showing reduced or absent burst energy.
+
+3. **Specific Adaptation:**
+   Lateral release: tongue sides lower, tip maintains contact
+
+---
+
+## 3. Acoustic & Perceptual Signature
+
+| Feature                 | Acoustic Manifestation                      | Perceptual Effect               |
+| ----------------------- | ------------------------------------------- | ------------------------------- |
+| Aspiration/noise        | High-frequency energy from /t/              | Clear fricative or burst cue    |
+| Closure gap             | Silent interval (20-80 ms)                  | Perceived stop identity         |
+| Burst/release           | Brief high-amplitude transient              | Place-of-articulation cue       |
+| Formant transitions     | F2/F3 movement into /l/                     | Place identification cue        |
+
+---
+
+## 4. Articulatory Practice
+
+### 4.1 Slow-Motion Drill
+
+1. Say **"at"** slowly, establishing full /t/ articulation.
+2. Say **"last"** starting with an isolated /l/.
+3. Merge: *at last* — maintain voicing continuity, minimize release between segments.
+4. Record and compare:
+
+   * Over-released: Excessive separation between sounds
+   * Balanced: Natural liaison as transcribed `/æt̚ læst/`
+   * Under-articulated: Loss of primary articulatory cues
+
+### 4.2 Gestural Continuity Exercise
+
+* Focus awareness on active articulators for both /t/ and /l/.
+* Alternate "t-l-t-l" while maintaining voicing where applicable.
+* Notice the articulatory transition: where does one gesture end and the next begin?
+* Perform slowly, then gradually increase speed while preserving clarity.
+* The movement should feel **fluid** and **economical**, not **segmented**.
+
+---
+
+## 5. Broader Coarticulatory Insights
+
+| Type                           | Manifestation                         | Similar Pairs       |
+| ------------------------------ | ------------------------------------- | ------------------- |
+| **Place shift                 ** | alveolar → alveolar                   | /t l/, similar front-back transitions |
+| **Voicing pattern             ** | voiceless to voiced                   | Common in /t l/ sequences |
+| **Manner transition           ** | stop → lateral                        | Affects timing and release |
+
+
+Understanding this combination helps refine articulation for all homorganic sequences involving stop (plosive) and lateral approximant manners.
+
+---
+
+## 6. Summary Points
+
+* /t/ + /l/ is a **mixed-voicing, homorganic sequence** showing distinctive coarticulatory patterns.
+* The transition exhibits **voicing transition**.
+* Perceptually, listeners rely on **formant transitions and temporal cues** to identify both segments.
+* Mastery involves **smooth articulatory flow** while maintaining segment identity.
+
+---
+
+### Practice Sentence Variants
+
+| Phrase | IPA | Note |
+| ---------- | ----------------- | -------------------------------------- |
+| at last    | `/æt̚ læst/     ` | Lateral release: tongue sides lower, tip maintains... |
+| bottle     | `/ˈbɑɾɫ̩/       ` | Flapped /ɾ/ or lateral release to syllabic /ɫ̩/ |
+| not late   | `/nɑt̚ leɪt/    ` | Clear [l] after fortis /t/             |
+
+---
+
+*Part of a curated collection of coarticulation studies for American English.*
